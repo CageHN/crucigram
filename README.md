@@ -50,6 +50,17 @@ npm run build
 npm run preview
 ```
 
+## GitHub Pages
+
+The app is configured for GitHub Pages at **https://cagehn.github.io/crucigram/**.
+
+Pushes to `main` deploy automatically via `.github/workflows/deploy.yml`. To enable this in the repo:
+
+1. Go to **Settings → Pages**.
+2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+
+If the repository is renamed, update the `base` path in `vite.config.ts` to match the new repo name.
+
 ## How It Works
 
 1. Pick language, difficulty, and size in the sidebar.
