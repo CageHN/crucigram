@@ -1,0 +1,806 @@
+{
+  "language": "es",
+  "difficulty": "kid",
+  "words": [
+    {
+      "word": "SOL",
+      "clue": "Brilla en el cielo de día"
+    },
+    {
+      "word": "LUNA",
+      "clue": "Brilla en el cielo de noche"
+    },
+    {
+      "word": "MAR",
+      "clue": "Agua salada muy grande"
+    },
+    {
+      "word": "OLA",
+      "clue": "Sube y baja en la playa"
+    },
+    {
+      "word": "PEZ",
+      "clue": "Animal que nada con aletas"
+    },
+    {
+      "word": "GATO",
+      "clue": "Mascota que maúlla"
+    },
+    {
+      "word": "PERRO",
+      "clue": "Mejor amigo que ladra"
+    },
+    {
+      "word": "CASA",
+      "clue": "Lugar donde vives"
+    },
+    {
+      "word": "PAN",
+      "clue": "Se come en el desayuno"
+    },
+    {
+      "word": "LECHE",
+      "clue": "Bebida blanca de la vaca"
+    },
+    {
+      "word": "AGUA",
+      "clue": "Líquido para beber"
+    },
+    {
+      "word": "FUEGO",
+      "clue": "Quema y da calor"
+    },
+    {
+      "word": "TIERRA",
+      "clue": "Donde plantamos flores"
+    },
+    {
+      "word": "AIRE",
+      "clue": "Lo respiramos siempre"
+    },
+    {
+      "word": "ARBOL",
+      "clue": "Planta alta con hojas"
+    },
+    {
+      "word": "FLOR",
+      "clue": "Planta bonita y colorida"
+    },
+    {
+      "word": "HOJA",
+      "clue": "Parte verde del árbol"
+    },
+    {
+      "word": "RAMA",
+      "clue": "Brazo del árbol"
+    },
+    {
+      "word": "RAIZ",
+      "clue": "Parte del árbol bajo tierra"
+    },
+    {
+      "word": "SEMILLA",
+      "clue": "Pequeña y da una planta"
+    },
+    {
+      "word": "FRUTA",
+      "clue": "Alimento dulce del árbol"
+    },
+    {
+      "word": "MANZANA",
+      "clue": "Fruta roja o verde"
+    },
+    {
+      "word": "PERA",
+      "clue": "Fruta verde en forma de lágrima"
+    },
+    {
+      "word": "UVA",
+      "clue": "Fruta pequeña en racimo"
+    },
+    {
+      "word": "PLATANO",
+      "clue": "Fruta amarilla alargada"
+    },
+    {
+      "word": "NARANJA",
+      "clue": "Fruta cítrica naranja"
+    },
+    {
+      "word": "FRESA",
+      "clue": "Fruta roja pequeña"
+    },
+    {
+      "word": "SANDIA",
+      "clue": "Fruta grande y roja por dentro"
+    },
+    {
+      "word": "MELON",
+      "clue": "Fruta redonda y dulce"
+    },
+    {
+      "word": "ZANAHORIA",
+      "clue": "Verdura naranja de conejo"
+    },
+    {
+      "word": "PATATA",
+      "clue": "Tubérculo para freír"
+    },
+    {
+      "word": "TOMATE",
+      "clue": "Verdura roja para ensalada"
+    },
+    {
+      "word": "LECHUGA",
+      "clue": "Verdura verde de ensalada"
+    },
+    {
+      "word": "QUESO",
+      "clue": "Producto lácteo amarillo"
+    },
+    {
+      "word": "HUEVO",
+      "clue": "Lo ponen las gallinas"
+    },
+    {
+      "word": "MIEL",
+      "clue": "Dulce hecho por abejas"
+    },
+    {
+      "word": "AZUCAR",
+      "clue": "Hace dulce la comida"
+    },
+    {
+      "word": "SAL",
+      "clue": "Saboriza la comida"
+    },
+    {
+      "word": "SOPA",
+      "clue": "Comida caliente líquida"
+    },
+    {
+      "word": "ARROZ",
+      "clue": "Grano blanco de comer"
+    },
+    {
+      "word": "PASTA",
+      "clue": "Comida italiana de harina"
+    },
+    {
+      "word": "CARNE",
+      "clue": "Alimento del animal"
+    },
+    {
+      "word": "PESCADO",
+      "clue": "Comida del mar"
+    },
+    {
+      "word": "POLLO",
+      "clue": "Ave que ponen huevos"
+    },
+    {
+      "word": "VACA",
+      "clue": "Animal que da leche"
+    },
+    {
+      "word": "CERDO",
+      "clue": "Animal rosado de granja"
+    },
+    {
+      "word": "OVEJA",
+      "clue": "Animal con lana blanca"
+    },
+    {
+      "word": "CABALLO",
+      "clue": "Animal grande para montar"
+    },
+    {
+      "word": "BURRO",
+      "clue": "Animal de granja con orejas largas"
+    },
+    {
+      "word": "CONEJO",
+      "clue": "Animal con orejas largas que salta"
+    },
+    {
+      "word": "RATON",
+      "clue": "Roedor pequeño gris"
+    },
+    {
+      "word": "ELEFANTE",
+      "clue": "Animal enorme con trompa"
+    },
+    {
+      "word": "LEON",
+      "clue": "Rey de la selva"
+    },
+    {
+      "word": "TIGRE",
+      "clue": "Felino con rayas"
+    },
+    {
+      "word": "OSO",
+      "clue": "Animal grande y peludo"
+    },
+    {
+      "word": "MONO",
+      "clue": "Animal que trepa árboles"
+    },
+    {
+      "word": "JIRAFA",
+      "clue": "Animal con cuello muy largo"
+    },
+    {
+      "word": "CEBRA",
+      "clue": "Caballo con rayas blancas y negras"
+    },
+    {
+      "word": "DELFIN",
+      "clue": "Mamífero amigo del mar"
+    },
+    {
+      "word": "BALLENA",
+      "clue": "Animal gigante del océano"
+    },
+    {
+      "word": "TIBURON",
+      "clue": "Pez grande del mar"
+    },
+    {
+      "word": "PULPO",
+      "clue": "Animal marino con ocho brazos"
+    },
+    {
+      "word": "MARIPOSA",
+      "clue": "Insecto con alas de colores"
+    },
+    {
+      "word": "ABEJA",
+      "clue": "Insecto que hace miel"
+    },
+    {
+      "word": "HORMIGA",
+      "clue": "Insecto pequeño muy trabajador"
+    },
+    {
+      "word": "ARANA",
+      "clue": "Tiene ocho patas y hace telas"
+    },
+    {
+      "word": "MOSCA",
+      "clue": "Insecto que zumba"
+    },
+    {
+      "word": "MOSQUITO",
+      "clue": "Insecto que pica"
+    },
+    {
+      "word": "PAJARO",
+      "clue": "Animal con plumas que vuela"
+    },
+    {
+      "word": "AGUILA",
+      "clue": "Ave rapaz muy grande"
+    },
+    {
+      "word": "LORO",
+      "clue": "Ave de colores que habla"
+    },
+    {
+      "word": "GALLINA",
+      "clue": "Ave de corral que cacarea"
+    },
+    {
+      "word": "GALLO",
+      "clue": "Canta al amanecer"
+    },
+    {
+      "word": "PATO",
+      "clue": "Ave que nada en el lago"
+    },
+    {
+      "word": "CISNE",
+      "clue": "Ave blanca y elegante"
+    },
+    {
+      "word": "RANA",
+      "clue": "Salta y vive en el charco"
+    },
+    {
+      "word": "SERPIENTE",
+      "clue": "Reptil largo sin patas"
+    },
+    {
+      "word": "TORTUGA",
+      "clue": "Reptil con caparazón"
+    },
+    {
+      "word": "LAGARTO",
+      "clue": "Reptil pequeño de pared"
+    },
+    {
+      "word": "COCODRILO",
+      "clue": "Reptil grande con dientes"
+    },
+    {
+      "word": "DINOSAURIO",
+      "clue": "Animal gigante extinto"
+    },
+    {
+      "word": "NINO",
+      "clue": "Persona pequeña en edad"
+    },
+    {
+      "word": "NINA",
+      "clue": "Chica pequeña"
+    },
+    {
+      "word": "BEBE",
+      "clue": "Persona muy pequeña"
+    },
+    {
+      "word": "MAMA",
+      "clue": "Madre de la familia"
+    },
+    {
+      "word": "PAPA",
+      "clue": "Padre de la familia"
+    },
+    {
+      "word": "ABUELO",
+      "clue": "Padre de papá o mamá"
+    },
+    {
+      "word": "ABUELA",
+      "clue": "Madre de papá o mamá"
+    },
+    {
+      "word": "HERMANO",
+      "clue": "Hijo de los mismos padres"
+    },
+    {
+      "word": "HERMANA",
+      "clue": "Hija de los mismos padres"
+    },
+    {
+      "word": "TIO",
+      "clue": "Hermano de papá o mamá"
+    },
+    {
+      "word": "TIA",
+      "clue": "Hermana de papá o mamá"
+    },
+    {
+      "word": "PRIMO",
+      "clue": "Hijo de tío o tía"
+    },
+    {
+      "word": "AMIGO",
+      "clue": "Persona que quieres mucho"
+    },
+    {
+      "word": "AMIGA",
+      "clue": "Compañera querida"
+    },
+    {
+      "word": "MAESTRO",
+      "clue": "Enseña en la escuela"
+    },
+    {
+      "word": "MAESTRA",
+      "clue": "Profesora del colegio"
+    },
+    {
+      "word": "ESCUELA",
+      "clue": "Lugar para aprender"
+    },
+    {
+      "word": "LIBRO",
+      "clue": "Tiene páginas para leer"
+    },
+    {
+      "word": "LAPIZ",
+      "clue": "Sirve para escribir"
+    },
+    {
+      "word": "BOLIGRAFO",
+      "clue": "Escribe con tinta"
+    },
+    {
+      "word": "GOMA",
+      "clue": "Borra lo escrito"
+    },
+    {
+      "word": "REGLA",
+      "clue": "Sirve para medir líneas"
+    },
+    {
+      "word": "MOCHILA",
+      "clue": "Bolsa para llevar libros"
+    },
+    {
+      "word": "PIZARRA",
+      "clue": "Donde escribe el maestro"
+    },
+    {
+      "word": "MESA",
+      "clue": "Mueble con patas para comer"
+    },
+    {
+      "word": "SILLA",
+      "clue": "Mueble para sentarse"
+    },
+    {
+      "word": "CAMA",
+      "clue": "Mueble para dormir"
+    },
+    {
+      "word": "SOFA",
+      "clue": "Mueble cómodo del salón"
+    },
+    {
+      "word": "PUERTA",
+      "clue": "Abre y cierra la entrada"
+    },
+    {
+      "word": "VENTANA",
+      "clue": "Cristal para ver afuera"
+    },
+    {
+      "word": "TECHO",
+      "clue": "Cubre la casa arriba"
+    },
+    {
+      "word": "SUELO",
+      "clue": "Donde pisamos en casa"
+    },
+    {
+      "word": "PARED",
+      "clue": "Separa las habitaciones"
+    },
+    {
+      "word": "COCINA",
+      "clue": "Habitación para cocinar"
+    },
+    {
+      "word": "BANO",
+      "clue": "Habitación para asearse"
+    },
+    {
+      "word": "SALON",
+      "clue": "Habitación para estar"
+    },
+    {
+      "word": "JARDIN",
+      "clue": "Espacio con plantas en casa"
+    },
+    {
+      "word": "CALLE",
+      "clue": "Camino por donde pasan coches"
+    },
+    {
+      "word": "PARQUE",
+      "clue": "Lugar con árboles para jugar"
+    },
+    {
+      "word": "PLAYA",
+      "clue": "Arena junto al mar"
+    },
+    {
+      "word": "MONTANA",
+      "clue": "Tierra muy alta"
+    },
+    {
+      "word": "RIO",
+      "clue": "Agua que fluye a la mar"
+    },
+    {
+      "word": "LAGO",
+      "clue": "Agua dulce rodeada de tierra"
+    },
+    {
+      "word": "BOSQUE",
+      "clue": "Lugar con muchos árboles"
+    },
+    {
+      "word": "CAMPO",
+      "clue": "Tierra abierta fuera de ciudad"
+    },
+    {
+      "word": "CIUDAD",
+      "clue": "Lugar con muchas casas"
+    },
+    {
+      "word": "PUEBLO",
+      "clue": "Lugar pequeño con casas"
+    },
+    {
+      "word": "COCHE",
+      "clue": "Vehículo con cuatro ruedas"
+    },
+    {
+      "word": "AUTOBUS",
+      "clue": "Transporte grande de pasajeros"
+    },
+    {
+      "word": "TREN",
+      "clue": "Va por las vías de hierro"
+    },
+    {
+      "word": "AVION",
+      "clue": "Vuela por el cielo"
+    },
+    {
+      "word": "BARCO",
+      "clue": "Navega por el mar"
+    },
+    {
+      "word": "BICICLETA",
+      "clue": "Vehículo de dos ruedas"
+    },
+    {
+      "word": "PATINETE",
+      "clue": "Tabla con ruedas para niños"
+    },
+    {
+      "word": "PELOTA",
+      "clue": "Objeto redondo para jugar"
+    },
+    {
+      "word": "MUNECA",
+      "clue": "Juguete de niña"
+    },
+    {
+      "word": "BLOQUE",
+      "clue": "Pieza de construcción"
+    },
+    {
+      "word": "PUZZLE",
+      "clue": "Juego de piezas que encajan"
+    },
+    {
+      "word": "CARTA",
+      "clue": "Juego con baraja"
+    },
+    {
+      "word": "DADO",
+      "clue": "Cubo con números para jugar"
+    },
+    {
+      "word": "COMETA",
+      "clue": "Vuela con el viento"
+    },
+    {
+      "word": "GLOBO",
+      "clue": "Bolsita de aire de fiesta"
+    },
+    {
+      "word": "REGALO",
+      "clue": "Sorpresa en tu cumpleaños"
+    },
+    {
+      "word": "FIESTA",
+      "clue": "Celebración con amigos"
+    },
+    {
+      "word": "TARTA",
+      "clue": "Pastel de cumpleaños"
+    },
+    {
+      "word": "VELA",
+      "clue": "Se enciende en la tarta"
+    },
+    {
+      "word": "JUGUETE",
+      "clue": "Objeto para divertirse"
+    },
+    {
+      "word": "JUEGO",
+      "clue": "Actividad para pasarlo bien"
+    },
+    {
+      "word": "DEPORTE",
+      "clue": "Actividad física con reglas"
+    },
+    {
+      "word": "FUTBOL",
+      "clue": "Deporte con balón y portería"
+    },
+    {
+      "word": "BALONCESTO",
+      "clue": "Deporte con canasta"
+    },
+    {
+      "word": "NATACION",
+      "clue": "Deporte en el agua"
+    },
+    {
+      "word": "CORRER",
+      "clue": "Moverse muy rápido a pie"
+    },
+    {
+      "word": "SALTAR",
+      "clue": "Subir del suelo con los pies"
+    },
+    {
+      "word": "BAILAR",
+      "clue": "Mover el cuerpo con música"
+    },
+    {
+      "word": "CANTAR",
+      "clue": "Hacer música con la voz"
+    },
+    {
+      "word": "DIBUJAR",
+      "clue": "Hacer imágenes con lápiz"
+    },
+    {
+      "word": "PINTAR",
+      "clue": "Colorear con pinceles"
+    },
+    {
+      "word": "LEER",
+      "clue": "Mirar las palabras de un libro"
+    },
+    {
+      "word": "ESCRIBIR",
+      "clue": "Poner letras en el papel"
+    },
+    {
+      "word": "CONTAR",
+      "clue": "Decir números en orden"
+    },
+    {
+      "word": "SUMAR",
+      "clue": "Juntar dos números"
+    },
+    {
+      "word": "RESTAR",
+      "clue": "Quitar un número de otro"
+    },
+    {
+      "word": "NUMERO",
+      "clue": "Símbolo para contar"
+    },
+    {
+      "word": "UNO",
+      "clue": "Primer número"
+    },
+    {
+      "word": "DOS",
+      "clue": "Número después del uno"
+    },
+    {
+      "word": "TRES",
+      "clue": "Número después del dos"
+    },
+    {
+      "word": "CUATRO",
+      "clue": "Número después del tres"
+    },
+    {
+      "word": "CINCO",
+      "clue": "Número después del cuatro"
+    },
+    {
+      "word": "SEIS",
+      "clue": "Número después del cinco"
+    },
+    {
+      "word": "SIETE",
+      "clue": "Número después del seis"
+    },
+    {
+      "word": "OCHO",
+      "clue": "Número después del siete"
+    },
+    {
+      "word": "NUEVE",
+      "clue": "Número después del ocho"
+    },
+    {
+      "word": "DIEZ",
+      "clue": "Número después del nueve"
+    },
+    {
+      "word": "ROJO",
+      "clue": "Color de la manzana"
+    },
+    {
+      "word": "AZUL",
+      "clue": "Color del cielo"
+    },
+    {
+      "word": "VERDE",
+      "clue": "Color de la hierba"
+    },
+    {
+      "word": "AMARILLO",
+      "clue": "Color del sol"
+    },
+    {
+      "word": "MORADO",
+      "clue": "Color de la uva"
+    },
+    {
+      "word": "ROSA",
+      "clue": "Color suave y dulce"
+    },
+    {
+      "word": "NEGRO",
+      "clue": "Color de la noche"
+    },
+    {
+      "word": "BLANCO",
+      "clue": "Color de la nieve"
+    },
+    {
+      "word": "GRIS",
+      "clue": "Color de las nubes"
+    },
+    {
+      "word": "MARRON",
+      "clue": "Color de la tierra"
+    },
+    {
+      "word": "DIA",
+      "clue": "Cuando brilla el sol"
+    },
+    {
+      "word": "NOCHE",
+      "clue": "Cuando sale la luna"
+    },
+    {
+      "word": "MANANA",
+      "clue": "Primera parte del día"
+    },
+    {
+      "word": "TARDE",
+      "clue": "Después del mediodía"
+    },
+    {
+      "word": "HORA",
+      "clue": "Medida del tiempo"
+    },
+    {
+      "word": "MINUTO",
+      "clue": "Sesenta segundos"
+    },
+    {
+      "word": "SEMANA",
+      "clue": "Siete días seguidos"
+    },
+    {
+      "word": "MES",
+      "clue": "Treinta días aproximadamente"
+    },
+    {
+      "word": "ANO",
+      "clue": "Doce meses"
+    },
+    {
+      "word": "LUNES",
+      "clue": "Primer día de la semana"
+    },
+    {
+      "word": "MARTES",
+      "clue": "Segundo día de la semana"
+    },
+    {
+      "word": "MIERCOLES",
+      "clue": "Día del medio de semana"
+    },
+    {
+      "word": "JUEVES",
+      "clue": "Cuarto día de la semana"
+    },
+    {
+      "word": "VIERNES",
+      "clue": "Último día de clase"
+    },
+    {
+      "word": "SABADO",
+      "clue": "Día de descanso"
+    }
+  ]
+}

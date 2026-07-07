@@ -1,0 +1,2406 @@
+{
+  "language": "es",
+  "difficulty": "wise",
+  "words": [
+    {
+      "word": "ABSTRACCION",
+      "clue": "Concepto separado de la realidad concreta"
+    },
+    {
+      "word": "PARADOJA",
+      "clue": "Afirmación que parece contradictoria"
+    },
+    {
+      "word": "EPITOME",
+      "clue": "Ejemplo perfecto de una cualidad"
+    },
+    {
+      "word": "DICOTOMIA",
+      "clue": "División en dos partes opuestas"
+    },
+    {
+      "word": "SINTESIS",
+      "clue": "Combinación de ideas en un todo"
+    },
+    {
+      "word": "ANALISIS",
+      "clue": "Descomposición para estudiar partes"
+    },
+    {
+      "word": "HERMENEUTICA",
+      "clue": "Arte de interpretar textos"
+    },
+    {
+      "word": "EPISTEMOLOGIA",
+      "clue": "Estudio del conocimiento humano"
+    },
+    {
+      "word": "ONTOLOGIA",
+      "clue": "Rama que estudia el ser"
+    },
+    {
+      "word": "METAFISICA",
+      "clue": "Filosofía sobre la realidad última"
+    },
+    {
+      "word": "FENOMENOLOGIA",
+      "clue": "Estudio de los fenómenos vividos"
+    },
+    {
+      "word": "EXISTENCIALISMO",
+      "clue": "Corriente que enfatiza la existencia"
+    },
+    {
+      "word": "NIHILISMO",
+      "clue": "Negación de valores y sentido"
+    },
+    {
+      "word": "ESTOICISMO",
+      "clue": "Doctrina de dominio de las pasiones"
+    },
+    {
+      "word": "EPICUREISMO",
+      "clue": "Doctrina del placer moderado"
+    },
+    {
+      "word": "CINICO",
+      "clue": "Filósofo que desprecia convenciones"
+    },
+    {
+      "word": "SOFISTA",
+      "clue": "Retórico que enseña persuasión"
+    },
+    {
+      "word": "DIALECTICA",
+      "clue": "Método de debate por contradicción"
+    },
+    {
+      "word": "RETORICA",
+      "clue": "Arte de persuadir con el discurso"
+    },
+    {
+      "word": "LOGICA",
+      "clue": "Ciencia del razonamiento válido"
+    },
+    {
+      "word": "AXIOMA",
+      "clue": "Principio admitido sin demostración"
+    },
+    {
+      "word": "TEOREMA",
+      "clue": "Proposición demostrada matemáticamente"
+    },
+    {
+      "word": "COROLARIO",
+      "clue": "Consecuencia directa de un teorema"
+    },
+    {
+      "word": "HIPOTESIS",
+      "clue": "Suposición provisional a verificar"
+    },
+    {
+      "word": "EMPIRISMO",
+      "clue": "Doctrina basada en la experiencia"
+    },
+    {
+      "word": "RACIONALISMO",
+      "clue": "Doctrina basada en la razón"
+    },
+    {
+      "word": "ESCEPTICISMO",
+      "clue": "Duda sobre la verdad absoluta"
+    },
+    {
+      "word": "RELATIVISMO",
+      "clue": "Doctrina de verdad dependiente del contexto"
+    },
+    {
+      "word": "DOGMA",
+      "clue": "Principio incuestionable de fe"
+    },
+    {
+      "word": "ORTODOXIA",
+      "clue": "Conformidad con doctrina establecida"
+    },
+    {
+      "word": "HETERODOXIA",
+      "clue": "Desviación de la doctrina oficial"
+    },
+    {
+      "word": "ICONOCLASTA",
+      "clue": "Persona que rompe tradiciones"
+    },
+    {
+      "word": "PEDANTE",
+      "clue": "Persona que presume de erudición"
+    },
+    {
+      "word": "ERUDITO",
+      "clue": "Persona de vasto conocimiento"
+    },
+    {
+      "word": "POLIMATA",
+      "clue": "Persona versada en muchas disciplinas"
+    },
+    {
+      "word": "DILETTANTE",
+      "clue": "Aficionado sin profundidad real"
+    },
+    {
+      "word": "INTELECTUAL",
+      "clue": "Persona dedicada al pensamiento"
+    },
+    {
+      "word": "ACADEMICO",
+      "clue": "Investigador de universidad"
+    },
+    {
+      "word": "DOCTRINA",
+      "clue": "Conjunto de principios enseñados"
+    },
+    {
+      "word": "CANON",
+      "clue": "Conjunto de obras consideradas clásicas"
+    },
+    {
+      "word": "ANACRONISMO",
+      "clue": "Error temporal en una obra"
+    },
+    {
+      "word": "ARCAISMO",
+      "clue": "Palabra o uso anticuado"
+    },
+    {
+      "word": "NEOLOGISMO",
+      "clue": "Palabra de creación reciente"
+    },
+    {
+      "word": "ETIMOLOGIA",
+      "clue": "Estudio del origen de palabras"
+    },
+    {
+      "word": "SEMANTICA",
+      "clue": "Estudio del significado"
+    },
+    {
+      "word": "PRAGMATICA",
+      "clue": "Estudio del lenguaje en uso"
+    },
+    {
+      "word": "FONETICA",
+      "clue": "Estudio de los sonidos del habla"
+    },
+    {
+      "word": "MORFOLOGIA",
+      "clue": "Estudio de la forma de palabras"
+    },
+    {
+      "word": "SINTAXIS",
+      "clue": "Estudio de la estructura oracional"
+    },
+    {
+      "word": "LEXICOGRAFIA",
+      "clue": "Arte de elaborar diccionarios"
+    },
+    {
+      "word": "FILOLOGIA",
+      "clue": "Estudio científico de textos"
+    },
+    {
+      "word": "PALEOGRAFIA",
+      "clue": "Estudio de escrituras antiguas"
+    },
+    {
+      "word": "EPIGRAFIA",
+      "clue": "Estudio de inscripciones antiguas"
+    },
+    {
+      "word": "ARQUEOLOGIA",
+      "clue": "Estudio de restos materiales pasados"
+    },
+    {
+      "word": "ANTROPOLOGIA",
+      "clue": "Estudio de las culturas humanas"
+    },
+    {
+      "word": "ETNOGRAFIA",
+      "clue": "Descripción detallada de una cultura"
+    },
+    {
+      "word": "SOCIOLOGIA",
+      "clue": "Estudio de la sociedad y sus estructuras"
+    },
+    {
+      "word": "PSICOLOGIA",
+      "clue": "Estudio de la mente y conducta"
+    },
+    {
+      "word": "PSIQUIATRIA",
+      "clue": "Medicina de trastornos mentales"
+    },
+    {
+      "word": "NEUROLOGIA",
+      "clue": "Medicina del sistema nervioso"
+    },
+    {
+      "word": "CARDIOLOGIA",
+      "clue": "Medicina del corazón"
+    },
+    {
+      "word": "ONCOLOGIA",
+      "clue": "Medicina del cáncer"
+    },
+    {
+      "word": "DERMATOLOGIA",
+      "clue": "Medicina de la piel"
+    },
+    {
+      "word": "GINECOLOGIA",
+      "clue": "Medicina del aparato femenino"
+    },
+    {
+      "word": "UROLOGIA",
+      "clue": "Medicina del aparato urinario"
+    },
+    {
+      "word": "OFTALMOLOGIA",
+      "clue": "Medicina de los ojos"
+    },
+    {
+      "word": "OTORRINOLARINGOLOGIA",
+      "clue": "Medicina de oído nariz y garganta"
+    },
+    {
+      "word": "ENDOCRINOLOGIA",
+      "clue": "Medicina de las hormonas"
+    },
+    {
+      "word": "INMUNOLOGIA",
+      "clue": "Estudio del sistema inmunitario"
+    },
+    {
+      "word": "EPIDEMIOLOGIA",
+      "clue": "Estudio de enfermedades en población"
+    },
+    {
+      "word": "FARMACOLOGIA",
+      "clue": "Estudio de medicamentos"
+    },
+    {
+      "word": "TOXICOLOGIA",
+      "clue": "Estudio de sustancias venenosas"
+    },
+    {
+      "word": "ANATOMIA",
+      "clue": "Estudio de la estructura del cuerpo"
+    },
+    {
+      "word": "FISIOLOGIA",
+      "clue": "Estudio del funcionamiento vital"
+    },
+    {
+      "word": "PATOLOGIA",
+      "clue": "Estudio de las enfermedades"
+    },
+    {
+      "word": "DIAGNOSTICO",
+      "clue": "Identificación de una enfermedad"
+    },
+    {
+      "word": "PRONOSTICO",
+      "clue": "Predicción de evolución de enfermedad"
+    },
+    {
+      "word": "SINTOMA",
+      "clue": "Manifestación de una enfermedad"
+    },
+    {
+      "word": "ETIOLOGIA",
+      "clue": "Estudio de causas de enfermedad"
+    },
+    {
+      "word": "EPIDEMIA",
+      "clue": "Propagación masiva de enfermedad"
+    },
+    {
+      "word": "PANDEMIA",
+      "clue": "Epidemia de alcance mundial"
+    },
+    {
+      "word": "ENDEMIA",
+      "clue": "Enfermedad habitual en una zona"
+    },
+    {
+      "word": "VACUNACION",
+      "clue": "Inmunización mediante vacuna"
+    },
+    {
+      "word": "INMUNIDAD",
+      "clue": "Resistencia a enfermedad"
+    },
+    {
+      "word": "ANTIGENO",
+      "clue": "Sustancia que provoca respuesta inmune"
+    },
+    {
+      "word": "ANTICUERPO",
+      "clue": "Proteína que neutraliza antígenos"
+    },
+    {
+      "word": "BACTERIA",
+      "clue": "Microorganismo unicelular"
+    },
+    {
+      "word": "VIRUS",
+      "clue": "Agente infeccioso intracelular"
+    },
+    {
+      "word": "HONGO",
+      "clue": "Organismo del reino fungi"
+    },
+    {
+      "word": "PARASITO",
+      "clue": "Organismo que vive a costa de otro"
+    },
+    {
+      "word": "ANTIBIOTICO",
+      "clue": "Fármaco contra bacterias"
+    },
+    {
+      "word": "ANTIVIRAL",
+      "clue": "Fármaco contra virus"
+    },
+    {
+      "word": "ANALGESICO",
+      "clue": "Medicamento que alivia el dolor"
+    },
+    {
+      "word": "ANESTESIA",
+      "clue": "Pérdida de sensibilidad inducida"
+    },
+    {
+      "word": "CIRUGIA",
+      "clue": "Intervención manual sobre el cuerpo"
+    },
+    {
+      "word": "TRASPLANTE",
+      "clue": "Injerto de órgano o tejido"
+    },
+    {
+      "word": "DIALISIS",
+      "clue": "Filtración artificial de sangre"
+    },
+    {
+      "word": "QUIMIOTERAPIA",
+      "clue": "Tratamiento con fármacos antitumorales"
+    },
+    {
+      "word": "RADIOTERAPIA",
+      "clue": "Tratamiento con radiación"
+    },
+    {
+      "word": "BIOPSIA",
+      "clue": "Extracción de tejido para análisis"
+    },
+    {
+      "word": "RESONANCIA",
+      "clue": "Imagen por campos magnéticos"
+    },
+    {
+      "word": "TOMOGRAFIA",
+      "clue": "Imagen por rayos en secciones"
+    },
+    {
+      "word": "ECOGRAFIA",
+      "clue": "Imagen por ultrasonidos"
+    },
+    {
+      "word": "ELECTROCARDIOGRAMA",
+      "clue": "Registro eléctrico del corazón"
+    },
+    {
+      "word": "HEMOGRAMA",
+      "clue": "Análisis de células sanguíneas"
+    },
+    {
+      "word": "GLUCOSA",
+      "clue": "Azúcar principal en sangre"
+    },
+    {
+      "word": "COLESTEROL",
+      "clue": "Lípido presente en sangre"
+    },
+    {
+      "word": "TRIGLICERIDOS",
+      "clue": "Grasas circulantes en sangre"
+    },
+    {
+      "word": "PRESIONARTERIAL",
+      "clue": "Fuerza de sangre en arterias"
+    },
+    {
+      "word": "TAQUICARDIA",
+      "clue": "Frecuencia cardíaca acelerada"
+    },
+    {
+      "word": "BRADICARDIA",
+      "clue": "Frecuencia cardíaca lenta"
+    },
+    {
+      "word": "ARRITMIA",
+      "clue": "Alteración del ritmo cardíaco"
+    },
+    {
+      "word": "INFARTO",
+      "clue": "Muerte de tejido por falta de sangre"
+    },
+    {
+      "word": "ICTUS",
+      "clue": "Accidente cerebrovascular"
+    },
+    {
+      "word": "TROMBOSIS",
+      "clue": "Formación de coágulo en vaso"
+    },
+    {
+      "word": "EMBOLIA",
+      "clue": "Obstrucción por émbolo"
+    },
+    {
+      "word": "ANEURISMA",
+      "clue": "Dilatación patológica de arteria"
+    },
+    {
+      "word": "HIPERTENSION",
+      "clue": "Presión arterial elevada"
+    },
+    {
+      "word": "HIPOTENSION",
+      "clue": "Presión arterial baja"
+    },
+    {
+      "word": "DIABETES",
+      "clue": "Trastorno del metabolismo glucosa"
+    },
+    {
+      "word": "INSULINA",
+      "clue": "Hormona que regula glucosa"
+    },
+    {
+      "word": "OBESIDAD",
+      "clue": "Exceso de grasa corporal"
+    },
+    {
+      "word": "ANOREXIA",
+      "clue": "Trastorno de restricción alimentaria"
+    },
+    {
+      "word": "BULIMIA",
+      "clue": "Trastorno de atracones y purgas"
+    },
+    {
+      "word": "DEPRESION",
+      "clue": "Trastorno del ánimo bajo"
+    },
+    {
+      "word": "ANSIEDAD",
+      "clue": "Estado de preocupación excesiva"
+    },
+    {
+      "word": "FOBIA",
+      "clue": "Miedo irracional intenso"
+    },
+    {
+      "word": "ESQUIZOFRENIA",
+      "clue": "Trastorno psicótico crónico"
+    },
+    {
+      "word": "BIPOLARIDAD",
+      "clue": "Alternancia de estados de ánimo"
+    },
+    {
+      "word": "AUTISMO",
+      "clue": "Trastorno del neurodesarrollo"
+    },
+    {
+      "word": "DEMENCIA",
+      "clue": "Deterioro cognitivo progresivo"
+    },
+    {
+      "word": "ALZHEIMER",
+      "clue": "Demencia neurodegenerativa común"
+    },
+    {
+      "word": "PARKINSON",
+      "clue": "Enfermedad neurodegenerativa motora"
+    },
+    {
+      "word": "EPILEPSIA",
+      "clue": "Trastorno de crisis recurrentes"
+    },
+    {
+      "word": "MIGRANA",
+      "clue": "Cefalea intensa recurrente"
+    },
+    {
+      "word": "INSOMNIO",
+      "clue": "Dificultad persistente para dormir"
+    },
+    {
+      "word": "APNEA",
+      "clue": "Pausa respiratoria durante sueño"
+    },
+    {
+      "word": "ASMA",
+      "clue": "Enfermedad inflamatoria de vías aéreas"
+    },
+    {
+      "word": "EPOC",
+      "clue": "Enfermedad pulmonar obstructiva crónica"
+    },
+    {
+      "word": "NEUMONIA",
+      "clue": "Infección inflamatoria del pulmón"
+    },
+    {
+      "word": "TUBERCULOSIS",
+      "clue": "Infección bacteriana pulmonar"
+    },
+    {
+      "word": "HEPATITIS",
+      "clue": "Inflamación del hígado"
+    },
+    {
+      "word": "CIRROSIS",
+      "clue": "Fibrosis avanzada del hígado"
+    },
+    {
+      "word": "PANCREATITIS",
+      "clue": "Inflamación del páncreas"
+    },
+    {
+      "word": "GASTRITIS",
+      "clue": "Inflamación de la mucosa gástrica"
+    },
+    {
+      "word": "ULCERA",
+      "clue": "Lesión en mucosa digestiva"
+    },
+    {
+      "word": "COLITIS",
+      "clue": "Inflamación del intestino grueso"
+    },
+    {
+      "word": "APENDICITIS",
+      "clue": "Inflamación del apéndice"
+    },
+    {
+      "word": "CALCULORENAL",
+      "clue": "Concreción en riñón o vía urinaria"
+    },
+    {
+      "word": "ARTRITIS",
+      "clue": "Inflamación de las articulaciones"
+    },
+    {
+      "word": "ARTROSIS",
+      "clue": "Degeneración del cartílago articular"
+    },
+    {
+      "word": "OSTEOPOROSIS",
+      "clue": "Pérdida de densidad ósea"
+    },
+    {
+      "word": "FRACTURA",
+      "clue": "Rotura de un hueso"
+    },
+    {
+      "word": "LUXACION",
+      "clue": "Desplazamiento de articulación"
+    },
+    {
+      "word": "ESGUINCE",
+      "clue": "Lesión de ligamentos"
+    },
+    {
+      "word": "TENDINITIS",
+      "clue": "Inflamación de un tendón"
+    },
+    {
+      "word": "BURSITIS",
+      "clue": "Inflamación de una bursa"
+    },
+    {
+      "word": "HERNIA",
+      "clue": "Protrusión de órgano por debilidad"
+    },
+    {
+      "word": "VARIZ",
+      "clue": "Vena dilatada y tortuosa"
+    },
+    {
+      "word": "HEMORROIDA",
+      "clue": "Variz en el recto"
+    },
+    {
+      "word": "ANEMIA",
+      "clue": "Disminución de glóbulos rojos"
+    },
+    {
+      "word": "LEUCEMIA",
+      "clue": "Cáncer de células sanguíneas"
+    },
+    {
+      "word": "LINFOMA",
+      "clue": "Cáncer del sistema linfático"
+    },
+    {
+      "word": "MELANOMA",
+      "clue": "Tumor maligno de piel"
+    },
+    {
+      "word": "CARCINOMA",
+      "clue": "Cáncer de tejido epitelial"
+    },
+    {
+      "word": "METASTASIS",
+      "clue": "Diseminación de cáncer a distancia"
+    },
+    {
+      "word": "BENIGNO",
+      "clue": "Tumor que no invade ni metastatiza"
+    },
+    {
+      "word": "MALIGNO",
+      "clue": "Tumor con potencial invasivo"
+    },
+    {
+      "word": "PALIATIVO",
+      "clue": "Tratamiento que alivia síntomas"
+    },
+    {
+      "word": "TERMINAL",
+      "clue": "Fase final de enfermedad incurable"
+    },
+    {
+      "word": "EUTANASIA",
+      "clue": "Muerte asistida por decisión médica"
+    },
+    {
+      "word": "BIOETICA",
+      "clue": "Ética aplicada a ciencias de la vida"
+    },
+    {
+      "word": "CONSENTIMIENTOINFORMADO",
+      "clue": "Autorización tras información médica"
+    },
+    {
+      "word": "CONFIDENCIALIDAD",
+      "clue": "Deber de guardar secreto profesional"
+    },
+    {
+      "word": "DEONTOLOGIA",
+      "clue": "Normas éticas de una profesión"
+    },
+    {
+      "word": "JURISPRUDENCIA",
+      "clue": "Conjunto de sentencias interpretativas"
+    },
+    {
+      "word": "DOCTRINALEGAL",
+      "clue": "Opinión de juristas sobre la ley"
+    },
+    {
+      "word": "CODIFICACION",
+      "clue": "Reunión sistemática de leyes"
+    },
+    {
+      "word": "CONSTITUCIONALISMO",
+      "clue": "Sistema basado en constitución"
+    },
+    {
+      "word": "SEPARACIONDEPODERES",
+      "clue": "División entre ejecutivo legislativo y judicial"
+    },
+    {
+      "word": "ESTADODEDERECHO",
+      "clue": "Sometimiento de todos a la ley"
+    },
+    {
+      "word": "IMPERIODELALEY",
+      "clue": "Primacía de normas jurídicas"
+    },
+    {
+      "word": "HABEASCORPUS",
+      "clue": "Garantía contra detención ilegal"
+    },
+    {
+      "word": "DEBIDOPROCESO",
+      "clue": "Garantía de procedimiento justo"
+    },
+    {
+      "word": "PRESUNCIONDEINOCENCIA",
+      "clue": "Principio hasta sentencia firme"
+    },
+    {
+      "word": "NONBISINIDEM",
+      "clue": "Prohibición de doble juzgamiento"
+    },
+    {
+      "word": "CADUCIDAD",
+      "clue": "Extinción de acción por tiempo"
+    },
+    {
+      "word": "PRESCRIPCION",
+      "clue": "Adquisición o extinción por plazo"
+    },
+    {
+      "word": "NULIDAD",
+      "clue": "Inexistencia jurídica de un acto"
+    },
+    {
+      "word": "ANULABILIDAD",
+      "clue": "Posibilidad de invalidar un acto"
+    },
+    {
+      "word": "RESCISION",
+      "clue": "Resolución de contrato por causa"
+    },
+    {
+      "word": "RESOLUCION",
+      "clue": "Extinción anticipada de contrato"
+    },
+    {
+      "word": "INCUMPLIMIENTO",
+      "clue": "Violación de obligación contractual"
+    },
+    {
+      "word": "FUERZAMAYOR",
+      "clue": "Imposibilidad por causa irresistible"
+    },
+    {
+      "word": "CASOFORTUITO",
+      "clue": "Suceso imprevisible e inevitable"
+    },
+    {
+      "word": "BUENAFE",
+      "clue": "Conducta honesta en relaciones jurídicas"
+    },
+    {
+      "word": "MALAFE",
+      "clue": "Conducta dolosa o desleal"
+    },
+    {
+      "word": "DOLO",
+      "clue": "Intención de engañar o perjudicar"
+    },
+    {
+      "word": "CULPA",
+      "clue": "Negligencia en cumplimiento de deber"
+    },
+    {
+      "word": "RESPONSABILIDADCIVIL",
+      "clue": "Obligación de reparar daños"
+    },
+    {
+      "word": "RESPONSABILIDADPENAL",
+      "clue": "Sanción por delito"
+    },
+    {
+      "word": "RESPONSABILIDADADMINISTRATIVA",
+      "clue": "Sanción por infracción pública"
+    },
+    {
+      "word": "DANOSYPERJUICIOS",
+      "clue": "Indemnización por perjuicio causado"
+    },
+    {
+      "word": "LUCROCESANTE",
+      "clue": "Ganancia dejada de obtener"
+    },
+    {
+      "word": "DANOEMERGENTE",
+      "clue": "Pérdida efectivamente sufrida"
+    },
+    {
+      "word": "DANOMORAL",
+      "clue": "Perjuicio no patrimonial"
+    },
+    {
+      "word": "REINCIDENCIA",
+      "clue": "Repetición de delito condenado"
+    },
+    {
+      "word": "AGRAVANTE",
+      "clue": "Circunstancia que aumenta pena"
+    },
+    {
+      "word": "ATENUANTE",
+      "clue": "Circunstancia que reduce pena"
+    },
+    {
+      "word": "EXIMENTE",
+      "clue": "Circunstancia que excluye responsabilidad"
+    },
+    {
+      "word": "LEGITIMADEFENSA",
+      "clue": "Repulsión de agresión injusta"
+    },
+    {
+      "word": "ESTADODENECESIDAD",
+      "clue": "Acto para evitar mal mayor"
+    },
+    {
+      "word": "ERRORDETIPO",
+      "clue": "Desconocimiento de hecho delictivo"
+    },
+    {
+      "word": "ERRORDEPROHIBICION",
+      "clue": "Ignorancia de ilicitud del acto"
+    },
+    {
+      "word": "TENTATIVA",
+      "clue": "Inicio de delito no consumado"
+    },
+    {
+      "word": "COMPLICIDAD",
+      "clue": "Cooperación sin autoría principal"
+    },
+    {
+      "word": "COAUTORIA",
+      "clue": "Participación conjunta en delito"
+    },
+    {
+      "word": "ENCUBRIMIENTO",
+      "clue": "Ayuda posterior al delincuente"
+    },
+    {
+      "word": "BLANQUEO",
+      "clue": "Ocultación de origen ilícito de bienes"
+    },
+    {
+      "word": "CORRUPCION",
+      "clue": "Soborno de funcionario público"
+    },
+    {
+      "word": "PREVARICACION",
+      "clue": "Resolución injusta de autoridad"
+    },
+    {
+      "word": "MALVERSACION",
+      "clue": "Apropiación de fondos públicos"
+    },
+    {
+      "word": "COHECHO",
+      "clue": "Soborno de autoridad"
+    },
+    {
+      "word": "TRAFICODEINFLUENCIAS",
+      "clue": "Uso de relaciones para beneficio"
+    },
+    {
+      "word": "NEPOTISMO",
+      "clue": "Favoritismo hacia familiares"
+    },
+    {
+      "word": "CLIENTELISMO",
+      "clue": "Intercambio de favores por apoyo"
+    },
+    {
+      "word": "LOBBY",
+      "clue": "Presión organizada sobre decisores"
+    },
+    {
+      "word": "TRANSPARENCIA",
+      "clue": "Acceso público a información"
+    },
+    {
+      "word": "RENDICIONDECUENTAS",
+      "clue": "Obligación de justificar actuación"
+    },
+    {
+      "word": "GOBIERNOABIERTO",
+      "clue": "Gestión pública transparente"
+    },
+    {
+      "word": "PARTICIPACIONCIUDADANA",
+      "clue": "Involucración en decisiones públicas"
+    },
+    {
+      "word": "REFERENDO",
+      "clue": "Consulta popular vinculante o consultiva"
+    },
+    {
+      "word": "PLEBISCITO",
+      "clue": "Votación sobre cuestión concreta"
+    },
+    {
+      "word": "CENSURA",
+      "clue": "Control o prohibición de expresión"
+    },
+    {
+      "word": "LIBERTADDEEXPRESION",
+      "clue": "Derecho a manifestar opiniones"
+    },
+    {
+      "word": "LIBERTADDEPRENSA",
+      "clue": "Derecho informativo sin censura"
+    },
+    {
+      "word": "DERECHODEREUNION",
+      "clue": "Facultad de congregarse pacíficamente"
+    },
+    {
+      "word": "DERECHODEASOCIACION",
+      "clue": "Facultad de crear organizaciones"
+    },
+    {
+      "word": "SUFRAGIOUNIVERSAL",
+      "clue": "Voto de todos los ciudadanos"
+    },
+    {
+      "word": "SUFRAGIOACTIVO",
+      "clue": "Derecho a votar"
+    },
+    {
+      "word": "SUFRAGIOPASIVO",
+      "clue": "Derecho a ser elegido"
+    },
+    {
+      "word": "REPRESENTACIONPROPORCIONAL",
+      "clue": "Distribución de escaños por votos"
+    },
+    {
+      "word": "MAYORIAABSOLUTA",
+      "clue": "Más de la mitad de votos o escaños"
+    },
+    {
+      "word": "MAYORIASIMPLE",
+      "clue": "Más votos que cualquier otra opción"
+    },
+    {
+      "word": "COALICION",
+      "clue": "Alianza de partidos para gobernar"
+    },
+    {
+      "word": "OPOSICION",
+      "clue": "Partidos que no están en gobierno"
+    },
+    {
+      "word": "BANCADA",
+      "clue": "Grupo parlamentario de un partido"
+    },
+    {
+      "word": "INTERPELACION",
+      "clue": "Pregunta formal al gobierno en parlamento"
+    },
+    {
+      "word": "MOCIONDECENSURA",
+      "clue": "Votación para destituir gobierno"
+    },
+    {
+      "word": "DECRETOLEY",
+      "clue": "Norma con fuerza de ley por urgencia"
+    },
+    {
+      "word": "ORDENANZA",
+      "clue": "Norma municipal de rango inferior"
+    },
+    {
+      "word": "REGLAMENTO",
+      "clue": "Norma de desarrollo de ley"
+    },
+    {
+      "word": "DIRECTIVA",
+      "clue": "Norma europea de armonización"
+    },
+    {
+      "word": "REGLAMENTOEUROPEO",
+      "clue": "Norma directamente aplicable en UE"
+    },
+    {
+      "word": "ACERVOCOMUNITARIO",
+      "clue": "Conjunto de derecho de la Unión Europea"
+    },
+    {
+      "word": "SOBERANIA",
+      "clue": "Poder supremo del estado"
+    },
+    {
+      "word": "SUBSIDIARIEDAD",
+      "clue": "Principio de actuación del nivel más cercano"
+    },
+    {
+      "word": "FEDERALISMO",
+      "clue": "División de poder entre centro y regiones"
+    },
+    {
+      "word": "AUTONOMIA",
+      "clue": "Autogobierno de territorio"
+    },
+    {
+      "word": "DESCENTRALIZACION",
+      "clue": "Traspaso de competencias a niveles inferiores"
+    },
+    {
+      "word": "BUROCRACIA",
+      "clue": "Administración basada en procedimientos"
+    },
+    {
+      "word": "FUNCIONARIO",
+      "clue": "Empleado de la administración pública"
+    },
+    {
+      "word": "CONCURSO",
+      "clue": "Prueba para acceso a empleo público"
+    },
+    {
+      "word": "CARRERAADMINISTRATIVA",
+      "clue": "Progresión en empleo público"
+    },
+    {
+      "word": "INAMOVILIDAD",
+      "clue": "Garantía de no destitución arbitraria"
+    },
+    {
+      "word": "EXPEDIENTE",
+      "clue": "Conjunto documental de un procedimiento"
+    },
+    {
+      "word": "RECURSO",
+      "clue": "Impugnación de acto administrativo"
+    },
+    {
+      "word": "SILENCIOADMINISTRATIVO",
+      "clue": "Efecto por falta de respuesta"
+    },
+    {
+      "word": "CADUCIDADADMINISTRATIVA",
+      "clue": "Extinción de procedimiento por plazo"
+    },
+    {
+      "word": "EXPROPIACION",
+      "clue": "Privación de bien por interés público"
+    },
+    {
+      "word": "INDEMNIZACIONEXPROPIATORIA",
+      "clue": "Compensación por expropiación"
+    },
+    {
+      "word": "LICENCIA",
+      "clue": "Autorización administrativa de actividad"
+    },
+    {
+      "word": "CONCESION",
+      "clue": "Autorización de explotación de servicio"
+    },
+    {
+      "word": "SUBVENCION",
+      "clue": "Ayuda pública económica"
+    },
+    {
+      "word": "AYUDADEESTADO",
+      "clue": "Subvención con posible distorsión de mercado"
+    },
+    {
+      "word": "CONTRATACIONPUBLICA",
+      "clue": "Compras de administraciones"
+    },
+    {
+      "word": "LICITACION",
+      "clue": "Procedimiento competitivo de contratación"
+    },
+    {
+      "word": "ADJUDICACION",
+      "clue": "Asignación del contrato al ganador"
+    },
+    {
+      "word": "FIANZA",
+      "clue": "Garantía de cumplimiento contractual"
+    },
+    {
+      "word": "AVAL",
+      "clue": "Garantía de tercero por deuda"
+    },
+    {
+      "word": "HIPOTECA",
+      "clue": "Garantía real sobre inmueble"
+    },
+    {
+      "word": "PRENDA",
+      "clue": "Garantía real sobre mueble"
+    },
+    {
+      "word": "EMBARGO",
+      "clue": "Afectación de bienes por deuda"
+    },
+    {
+      "word": "SUBASTAJUDICIAL",
+      "clue": "Venta pública de bienes embargados"
+    },
+    {
+      "word": "QUIEBRA",
+      "clue": "Estado de insolvencia empresarial"
+    },
+    {
+      "word": "CONCURSODEACREEDORES",
+      "clue": "Procedimiento por insolvencia"
+    },
+    {
+      "word": "SUSPENSIONDEPAGOS",
+      "clue": "Acuerdo temporal con acreedores"
+    },
+    {
+      "word": "LIQUIDACION",
+      "clue": "Cierre y venta de activos empresariales"
+    },
+    {
+      "word": "FUSION",
+      "clue": "Unión de dos empresas en una"
+    },
+    {
+      "word": "ESCISION",
+      "clue": "División de empresa en varias"
+    },
+    {
+      "word": "ADQUISICION",
+      "clue": "Compra de control de empresa"
+    },
+    {
+      "word": "OPA",
+      "clue": "Oferta pública de adquisición de acciones"
+    },
+    {
+      "word": "CAPITALIZACIONBURSATIL",
+      "clue": "Valor de mercado de acciones"
+    },
+    {
+      "word": "DIVIDENDO",
+      "clue": "Reparto de beneficios a accionistas"
+    },
+    {
+      "word": "BENEFICIO",
+      "clue": "Ganancia neta de empresa"
+    },
+    {
+      "word": "PERDIDA",
+      "clue": "Resultado negativo de explotación"
+    },
+    {
+      "word": "BALANCE",
+      "clue": "Estado de situación patrimonial"
+    },
+    {
+      "word": "CUENTADERESULTADOS",
+      "clue": "Estado de ingresos y gastos"
+    },
+    {
+      "word": "FLUJODECAJA",
+      "clue": "Entradas y salidas de efectivo"
+    },
+    {
+      "word": "AMORTIZACION",
+      "clue": "Distribución del coste de activo"
+    },
+    {
+      "word": "DEPRECIACION",
+      "clue": "Pérdida de valor de activo"
+    },
+    {
+      "word": "PROVISION",
+      "clue": "Reserva para gasto futuro probable"
+    },
+    {
+      "word": "DEUDA",
+      "clue": "Obligación de pago pendiente"
+    },
+    {
+      "word": "ENDEUDAMIENTO",
+      "clue": "Nivel de deuda respecto a activos"
+    },
+    {
+      "word": "APALANCAMIENTO",
+      "clue": "Uso de deuda para financiar inversión"
+    },
+    {
+      "word": "LIQUIDEZ",
+      "clue": "Capacidad de pago a corto plazo"
+    },
+    {
+      "word": "SOLVENCIA",
+      "clue": "Capacidad de pago a largo plazo"
+    },
+    {
+      "word": "RENTABILIDAD",
+      "clue": "Retorno sobre inversión o capital"
+    },
+    {
+      "word": "INFLACION",
+      "clue": "Subida general sostenida de precios"
+    },
+    {
+      "word": "DEFLACION",
+      "clue": "Bajada general sostenida de precios"
+    },
+    {
+      "word": "ESTANFLACION",
+      "clue": "Inflación con estancamiento económico"
+    },
+    {
+      "word": "RECESION",
+      "clue": "Contracción de actividad económica"
+    },
+    {
+      "word": "PIB",
+      "clue": "Valor de producción de un país"
+    },
+    {
+      "word": "PRODUCTIVIDAD",
+      "clue": "Producción por unidad de factor"
+    },
+    {
+      "word": "DESEMPLEO",
+      "clue": "Porcentaje de población sin trabajo"
+    },
+    {
+      "word": "SUBEMPLEO",
+      "clue": "Trabajo insuficiente o por debajo de cualificación"
+    },
+    {
+      "word": "PRECARIEDADLABORAL",
+      "clue": "Empleo inestable o mal retribuido"
+    },
+    {
+      "word": "SALARIOMINIMO",
+      "clue": "Remuneración mínima legal"
+    },
+    {
+      "word": "CONVENIOCOLECTIVO",
+      "clue": "Acuerdo laboral sectorial"
+    },
+    {
+      "word": "HUELGA",
+      "clue": "Interrupción colectiva del trabajo"
+    },
+    {
+      "word": "CIERREPATRONAL",
+      "clue": "Paralización impuesta por empresario"
+    },
+    {
+      "word": "SINDICATO",
+      "clue": "Organización de defensa laboral"
+    },
+    {
+      "word": "NEGOCIACIONCOLECTIVA",
+      "clue": "Diálogo patronal y sindical"
+    },
+    {
+      "word": "PAROESTRUCTURAL",
+      "clue": "Desempleo por cambios en economía"
+    },
+    {
+      "word": "PAROCICLICO",
+      "clue": "Desempleo por recesión económica"
+    },
+    {
+      "word": "PAROFRICCIONAL",
+      "clue": "Desempleo por búsqueda de empleo"
+    },
+    {
+      "word": "POLITICAMONETARIA",
+      "clue": "Control de oferta monetaria"
+    },
+    {
+      "word": "POLITICAFISCAL",
+      "clue": "Uso de gasto e impuestos públicos"
+    },
+    {
+      "word": "TIPOSDEINTERES",
+      "clue": "Precio del dinero prestado"
+    },
+    {
+      "word": "BANCOCENTRAL",
+      "clue": "Institución emisora y reguladora monetaria"
+    },
+    {
+      "word": "RESERVAFEDERAL",
+      "clue": "Banco central de Estados Unidos"
+    },
+    {
+      "word": "BCE",
+      "clue": "Banco Central Europeo"
+    },
+    {
+      "word": "TIPODECAMBIO",
+      "clue": "Relación entre dos monedas"
+    },
+    {
+      "word": "DEVALUACION",
+      "clue": "Reducción del valor de moneda"
+    },
+    {
+      "word": "REVALUACION",
+      "clue": "Aumento del valor de moneda"
+    },
+    {
+      "word": "ARANCEL",
+      "clue": "Impuesto sobre importaciones"
+    },
+    {
+      "word": "PROTECCIONISMO",
+      "clue": "Política de barreras al comercio"
+    },
+    {
+      "word": "LIBRECOMERCIO",
+      "clue": "Intercambio sin barreras arancelarias"
+    },
+    {
+      "word": "GLOBALIZACION",
+      "clue": "Integración económica mundial"
+    },
+    {
+      "word": "DESLOCALIZACION",
+      "clue": "Traslado de producción a otro país"
+    },
+    {
+      "word": "CADENADESUMINISTRO",
+      "clue": "Red de proveedores y distribución"
+    },
+    {
+      "word": "LOGISTICA",
+      "clue": "Gestión del flujo de mercancías"
+    },
+    {
+      "word": "JUSTOATIEMPO",
+      "clue": "Sistema de inventario mínimo"
+    },
+    {
+      "word": "ECONOMIACIRCULAR",
+      "clue": "Modelo de reutilización y reciclaje"
+    },
+    {
+      "word": "ECONOMIAVERDE",
+      "clue": "Actividad respetuosa con medio ambiente"
+    },
+    {
+      "word": "EXTERNALIDAD",
+      "clue": "Efecto de actividad sobre terceros"
+    },
+    {
+      "word": "EXTERNALIDADNEGATIVA",
+      "clue": "Coste impuesto a terceros"
+    },
+    {
+      "word": "EXTERNALIDADPOSITIVA",
+      "clue": "Beneficio generado a terceros"
+    },
+    {
+      "word": "BIENPUBLICO",
+      "clue": "Bien no excluible ni rival"
+    },
+    {
+      "word": "BIENPRIVADO",
+      "clue": "Bien excluible y rival"
+    },
+    {
+      "word": "MONOPOLIO",
+      "clue": "Dominio de mercado por un oferente"
+    },
+    {
+      "word": "OLIGOPOLIO",
+      "clue": "Mercado dominado por pocos oferentes"
+    },
+    {
+      "word": "COMPETENCIAPERFECTA",
+      "clue": "Mercado con muchos oferentes idénticos"
+    },
+    {
+      "word": "COMPETENCIAIMPERFECTA",
+      "clue": "Mercado con barreras o diferenciación"
+    },
+    {
+      "word": "ELASTICIDAD",
+      "clue": "Sensibilidad de demanda al precio"
+    },
+    {
+      "word": "OFERTA",
+      "clue": "Cantidad que productores quieren vender"
+    },
+    {
+      "word": "DEMANDA",
+      "clue": "Cantidad que consumidores quieren comprar"
+    },
+    {
+      "word": "EQUILIBRIODEMERCADO",
+      "clue": "Precio donde oferta iguala demanda"
+    },
+    {
+      "word": "ESCASEZ",
+      "clue": "Exceso de demanda sobre oferta"
+    },
+    {
+      "word": "EXCEDENTE",
+      "clue": "Exceso de oferta sobre demanda"
+    },
+    {
+      "word": "SUBASTA",
+      "clue": "Venta al mejor postor"
+    },
+    {
+      "word": "LICITACIONCOMPETITIVA",
+      "clue": "Concurso por mejor oferta"
+    },
+    {
+      "word": "ECONOMETRIA",
+      "clue": "Aplicación estadística a economía"
+    },
+    {
+      "word": "MACROECONOMIA",
+      "clue": "Estudio de agregados económicos"
+    },
+    {
+      "word": "MICROECONOMIA",
+      "clue": "Estudio de agentes individuales"
+    },
+    {
+      "word": "ECONOMIACONDUCTUAL",
+      "clue": "Estudio de decisiones con sesgos"
+    },
+    {
+      "word": "TEORIADEJUEGOS",
+      "clue": "Análisis matemático de estrategias"
+    },
+    {
+      "word": "EQUILIBRIODENASH",
+      "clue": "Estrategia óptima sin incentivo a desviarse"
+    },
+    {
+      "word": "INFORMACIONASIMETRICA",
+      "clue": "Desigualdad de conocimiento entre partes"
+    },
+    {
+      "word": "SELECCIONADVERSA",
+      "clue": "Elección perjudicial por falta de información"
+    },
+    {
+      "word": "RIESGOMORAL",
+      "clue": "Comportamiento arriesgado por seguro"
+    },
+    {
+      "word": "COSTEDEOPORTUNIDAD",
+      "clue": "Valor de la mejor alternativa renunciada"
+    },
+    {
+      "word": "RENDIMIENTOSDECRECIENTES",
+      "clue": "Menor incremento por unidad adicional"
+    },
+    {
+      "word": "ECONOMIASDEESCALA",
+      "clue": "Reducción de coste por mayor volumen"
+    },
+    {
+      "word": "CURVADEAPRENDIZAJE",
+      "clue": "Mejora por experiencia acumulada"
+    },
+    {
+      "word": "INNOVACIONDISRUPTIVA",
+      "clue": "Cambio que transforma un mercado"
+    },
+    {
+      "word": "PROPIEDADINTELECTUAL",
+      "clue": "Derechos sobre creaciones mentales"
+    },
+    {
+      "word": "PATENTE",
+      "clue": "Derecho exclusivo sobre invención"
+    },
+    {
+      "word": "MARCAREGISTRADA",
+      "clue": "Signo distintivo protegido legalmente"
+    },
+    {
+      "word": "DERECHODEAUTOR",
+      "clue": "Protección de obras creativas"
+    },
+    {
+      "word": "ROYALTY",
+      "clue": "Pago por uso de propiedad intelectual"
+    },
+    {
+      "word": "FRANQUICIA",
+      "clue": "Licencia de modelo de negocio"
+    },
+    {
+      "word": "EMPRENDIMIENTO",
+      "clue": "Creación de nuevo negocio"
+    },
+    {
+      "word": "STARTUP",
+      "clue": "Empresa joven de alto crecimiento"
+    },
+    {
+      "word": "CAPITALRIESGO",
+      "clue": "Inversión en empresas emergentes"
+    },
+    {
+      "word": "BUSINESSANGEL",
+      "clue": "Inversor privado en startups"
+    },
+    {
+      "word": "INCUBADORA",
+      "clue": "Entidad que apoya nuevas empresas"
+    },
+    {
+      "word": "ACELERADORA",
+      "clue": "Programa intensivo de crecimiento empresarial"
+    },
+    {
+      "word": "ESCALABILIDAD",
+      "clue": "Capacidad de crecer sin perder eficiencia"
+    },
+    {
+      "word": "MODELODENEGOCIO",
+      "clue": "Lógica de creación y captura de valor"
+    },
+    {
+      "word": "PROPUESTADEVALOR",
+      "clue": "Beneficio diferencial para el cliente"
+    },
+    {
+      "word": "SEGMENTACION",
+      "clue": "División de mercado en grupos"
+    },
+    {
+      "word": "POSICIONAMIENTO",
+      "clue": "Lugar percibido de marca en mercado"
+    },
+    {
+      "word": "BRANDING",
+      "clue": "Gestión de identidad de marca"
+    },
+    {
+      "word": "FIDELIZACION",
+      "clue": "Estrategia de retención de clientes"
+    },
+    {
+      "word": "CHURN",
+      "clue": "Tasa de abandono de clientes"
+    },
+    {
+      "word": "CONVERSION",
+      "clue": "Proporción de visitantes que compran"
+    },
+    {
+      "word": "EMBUDODEVENTAS",
+      "clue": "Proceso desde contacto hasta compra"
+    },
+    {
+      "word": "LEAD",
+      "clue": "Contacto potencialmente interesado"
+    },
+    {
+      "word": "PROSPECCION",
+      "clue": "Búsqueda de clientes potenciales"
+    },
+    {
+      "word": "NEGOCIACIONCOMERCIAL",
+      "clue": "Diálogo para cerrar acuerdo de venta"
+    },
+    {
+      "word": "CONTRATOMERCANTIL",
+      "clue": "Acuerdo entre empresas o comerciantes"
+    },
+    {
+      "word": "FACTURACIONELECTRONICA",
+      "clue": "Emisión digital de facturas"
+    },
+    {
+      "word": "AUDITORIA",
+      "clue": "Revisión independiente de cuentas"
+    },
+    {
+      "word": "COMPLIANCE",
+      "clue": "Cumplimiento normativo empresarial"
+    },
+    {
+      "word": "GOBIERNOCORPORATIVO",
+      "clue": "Sistema de dirección de empresa"
+    },
+    {
+      "word": "CONSEJODEADMINISTRACION",
+      "clue": "Órgano de gobierno de sociedad"
+    },
+    {
+      "word": "ACCIONISTA",
+      "clue": "Propietario de acciones de empresa"
+    },
+    {
+      "word": "STAKEHOLDER",
+      "clue": "Parte interesada en organización"
+    },
+    {
+      "word": "RESPONSABILIDADSOCIALCORPORATIVA",
+      "clue": "Compromiso social de empresa"
+    },
+    {
+      "word": "INFORMEDESOSTENIBILIDAD",
+      "clue": "Documento de impacto ambiental y social"
+    },
+    {
+      "word": "HUELLADECARBONO",
+      "clue": "Emisiones totales de gases efecto invernadero"
+    },
+    {
+      "word": "COMPENSACIONDEEMISIONES",
+      "clue": "Pago por reducir carbono en otro lugar"
+    },
+    {
+      "word": "ENERGIARENOVABLE",
+      "clue": "Energía de fuentes inagotables"
+    },
+    {
+      "word": "EFICIENCIAENERGETICA",
+      "clue": "Menor consumo para mismo servicio"
+    },
+    {
+      "word": "SMARTGRID",
+      "clue": "Red eléctrica inteligente"
+    },
+    {
+      "word": "ALMACENAMIENTOENERGETICO",
+      "clue": "Guardado de energía para uso posterior"
+    },
+    {
+      "word": "HIDROGENOVERDE",
+      "clue": "Hidrógeno producido con energía renovable"
+    },
+    {
+      "word": "CAPTURADECARBONO",
+      "clue": "Retención de CO2 antes de emitirse"
+    },
+    {
+      "word": "BIODIVERSIDAD",
+      "clue": "Variedad de especies en ecosistema"
+    },
+    {
+      "word": "SERVICIOSECOSISTEMICOS",
+      "clue": "Beneficios que aporta la naturaleza"
+    },
+    {
+      "word": "DEFORESTACION",
+      "clue": "Eliminación masiva de bosques"
+    },
+    {
+      "word": "DESERTIFICACION",
+      "clue": "Degradación de tierra a desierto"
+    },
+    {
+      "word": "ACIDIFICACIONOCEANICA",
+      "clue": "Aumento de acidez del mar"
+    },
+    {
+      "word": "CALENTAMIENTOGLOBAL",
+      "clue": "Aumento de temperatura terrestre"
+    },
+    {
+      "word": "ACUERDODEPARIS",
+      "clue": "Tratado internacional contra cambio climático"
+    },
+    {
+      "word": "ODS",
+      "clue": "Objetivos de Desarrollo Sostenible de la ONU"
+    },
+    {
+      "word": "GEOPOLITICA",
+      "clue": "Análisis de política internacional"
+    },
+    {
+      "word": "REALISMO",
+      "clue": "Corriente que enfatiza poder en relaciones internacionales"
+    },
+    {
+      "word": "IDEALISMO",
+      "clue": "Corriente que enfatiza cooperación y derecho"
+    },
+    {
+      "word": "MULTIPOLARIDAD",
+      "clue": "Distribución de poder entre varios actores"
+    },
+    {
+      "word": "HEGEMONIA",
+      "clue": "Dominio de un estado sobre el sistema"
+    },
+    {
+      "word": "SOFTPOWER",
+      "clue": "Influencia por atractivo cultural y valores"
+    },
+    {
+      "word": "HARDPOWER",
+      "clue": "Influencia por coerción militar o económica"
+    },
+    {
+      "word": "SANCCION",
+      "clue": "Medida punitiva internacional"
+    },
+    {
+      "word": "BLOQUEO",
+      "clue": "Cerco para impedir suministros"
+    },
+    {
+      "word": "INTERVENCIONISMO",
+      "clue": "Injerencia en asuntos de otro estado"
+    },
+    {
+      "word": "NOINTERVENCION",
+      "clue": "Principio de no inmiscuirse en asuntos ajenos"
+    },
+    {
+      "word": "SOBERANIATERRITORIAL",
+      "clue": "Control exclusivo sobre territorio"
+    },
+    {
+      "word": "INTEGRIDADTERRITORIAL",
+      "clue": "Principio de unidad del territorio estatal"
+    },
+    {
+      "word": "AUTODETERMINACION",
+      "clue": "Derecho de pueblo a decidir su estatus"
+    },
+    {
+      "word": "SECESION",
+      "clue": "Separación de parte del territorio estatal"
+    },
+    {
+      "word": "ANEXION",
+      "clue": "Incorporación de territorio por otro estado"
+    },
+    {
+      "word": "OCUPACIONMILITAR",
+      "clue": "Control temporal de territorio ajeno"
+    },
+    {
+      "word": "PAZARMADA",
+      "clue": "Calma mantenida por amenaza militar"
+    },
+    {
+      "word": "DESARME",
+      "clue": "Reducción de armamento"
+    },
+    {
+      "word": "NOPROLIFERACION",
+      "clue": "Prevención de expansión de armas"
+    },
+    {
+      "word": "TRATADODENOPROLIFERACION",
+      "clue": "Acuerdo contra armas nucleares"
+    },
+    {
+      "word": "DETERRENCIA",
+      "clue": "Disuasión por amenaza de represalia"
+    },
+    {
+      "word": "EQUILIBRIODETERROR",
+      "clue": "Estabilidad por capacidad nuclear mutua"
+    },
+    {
+      "word": "OTAN",
+      "clue": "Alianza militar del Atlántico Norte"
+    },
+    {
+      "word": "ONU",
+      "clue": "Organización de Naciones Unidas"
+    },
+    {
+      "word": "CONSEJODESEGURIDAD",
+      "clue": "Órgano de paz de la ONU"
+    },
+    {
+      "word": "TRIBUNALPENALINTERNACIONAL",
+      "clue": "Juzgado para crímenes graves"
+    },
+    {
+      "word": "CORTEINTERNACIONALDEJUSTICIA",
+      "clue": "Tribunal principal de la ONU"
+    },
+    {
+      "word": "DERECHOINTERNACIONALHUMANITARIO",
+      "clue": "Normas para conflictos armados"
+    },
+    {
+      "word": "CRIMENDEGUERRA",
+      "clue": "Violación grave en conflicto armado"
+    },
+    {
+      "word": "CRIMENCONTRALAHUMANIDAD",
+      "clue": "Ataque sistemático a población civil"
+    },
+    {
+      "word": "GENOCIDIO",
+      "clue": "Destrucción intencional de grupo humano"
+    },
+    {
+      "word": "ETNOCIDIO",
+      "clue": "Destrucción de cultura de un pueblo"
+    },
+    {
+      "word": "LIMPIEZAETNICA",
+      "clue": "Expulsión forzada de grupo étnico"
+    },
+    {
+      "word": "REFUGIADO",
+      "clue": "Persona que huye por persecución o guerra"
+    },
+    {
+      "word": "DESPLAZADOINTERNO",
+      "clue": "Persona que huye sin cruzar frontera"
+    },
+    {
+      "word": "APATRIDA",
+      "clue": "Persona sin nacionalidad reconocida"
+    },
+    {
+      "word": "DOBLENACIONALIDAD",
+      "clue": "Ciudadanía de dos estados"
+    },
+    {
+      "word": "EXTRADICION",
+      "clue": "Entrega de imputado a otro estado"
+    },
+    {
+      "word": "ASILODIPLOMATICO",
+      "clue": "Protección en embajada extranjera"
+    },
+    {
+      "word": "INMUNIDADDIPLOMATICA",
+      "clue": "Exención de jurisdicción de diplomáticos"
+    },
+    {
+      "word": "ESPIONAJE",
+      "clue": "Obtención secreta de información estatal"
+    },
+    {
+      "word": "CONTRAINTELIGENCIA",
+      "clue": "Protección contra espionaje"
+    },
+    {
+      "word": "CIBERSEGURIDAD",
+      "clue": "Protección de sistemas informáticos"
+    },
+    {
+      "word": "CIBERATAQUE",
+      "clue": "Agresión contra infraestructura digital"
+    },
+    {
+      "word": "GUERRAHIBRIDA",
+      "clue": "Conflicto que combina medios convencionales y no convencionales"
+    },
+    {
+      "word": "DESINFORMACION",
+      "clue": "Difusión deliberada de información falsa"
+    },
+    {
+      "word": "PROPAGANDA",
+      "clue": "Difusión orientada de ideas o ideología"
+    },
+    {
+      "word": "NARRATIVA",
+      "clue": "Relato que estructura percepción de hechos"
+    },
+    {
+      "word": "SOFTLAW",
+      "clue": "Normas sin fuerza vinculante estricta"
+    },
+    {
+      "word": "HARDLAW",
+      "clue": "Normas jurídicamente vinculantes"
+    },
+    {
+      "word": "COSTUMBREINTERNACIONAL",
+      "clue": "Práctica general aceptada como derecho"
+    },
+    {
+      "word": "JUSCOGENS",
+      "clue": "Norma imperativa de derecho internacional"
+    },
+    {
+      "word": "ARBITRAJEINTERNACIONAL",
+      "clue": "Resolución de disputas por árbitros"
+    },
+    {
+      "word": "MEDIACIONINTERNACIONAL",
+      "clue": "Facilitación de acuerdo entre partes"
+    },
+    {
+      "word": "DIPLOMACIA",
+      "clue": "Gestión de relaciones entre estados"
+    },
+    {
+      "word": "CUMBRE",
+      "clue": "Reunión de máximos líderes"
+    },
+    {
+      "word": "PROTOCOLO",
+      "clue": "Reglas formales de ceremonia diplomática"
+    },
+    {
+      "word": "NOTADIPLOMATICA",
+      "clue": "Comunicación formal entre gobiernos"
+    },
+    {
+      "word": "ULTIMATUM",
+      "clue": "Exigencia con amenaza de consecuencias"
+    },
+    {
+      "word": "RECONCILIACION",
+      "clue": "Restablecimiento de relaciones tras conflicto"
+    },
+    {
+      "word": "DESESCALADA",
+      "clue": "Reducción de tensión en conflicto"
+    },
+    {
+      "word": "CESEELFUEGO",
+      "clue": "Acuerdo temporal de parar combates"
+    },
+    {
+      "word": "ARMISTICIO",
+      "clue": "Suspensión formal de hostilidades"
+    },
+    {
+      "word": "TRATADODEPAZ",
+      "clue": "Acuerdo que pone fin a guerra"
+    },
+    {
+      "word": "REPARACIONESDEGUERRA",
+      "clue": "Compensación tras conflicto"
+    },
+    {
+      "word": "ZONADESMILITARIZADA",
+      "clue": "Territorio sin presencia militar"
+    },
+    {
+      "word": "OBSERVADORINTERNACIONAL",
+      "clue": "Misionero que vigila cumplimiento"
+    },
+    {
+      "word": "MISIONDEPAZ",
+      "clue": "Fuerza internacional para estabilizar zona"
+    },
+    {
+      "word": "HUMANITARISMO",
+      "clue": "Acción para aliviar sufrimiento humano"
+    },
+    {
+      "word": "AYUDAALDESARROLLO",
+      "clue": "Cooperación para reducir pobreza"
+    },
+    {
+      "word": "COOPERACIONINTERNACIONAL",
+      "clue": "Colaboración entre estados o organizaciones"
+    },
+    {
+      "word": "FMI",
+      "clue": "Fondo Monetario Internacional"
+    },
+    {
+      "word": "BANCOMUNDIAL",
+      "clue": "Institución de financiación al desarrollo"
+    },
+    {
+      "word": "OMC",
+      "clue": "Organización Mundial del Comercio"
+    },
+    {
+      "word": "OMS",
+      "clue": "Organización Mundial de la Salud"
+    },
+    {
+      "word": "UNESCO",
+      "clue": "Organismo de cultura y educación de la ONU"
+    },
+    {
+      "word": "UNICEF",
+      "clue": "Fondo de Naciones Unidas para la Infancia"
+    },
+    {
+      "word": "ACNUR",
+      "clue": "Alto Comisionado para Refugiados"
+    },
+    {
+      "word": "CRUZROJA",
+      "clue": "Organización humanitaria internacional"
+    },
+    {
+      "word": "MEDICOSSINFRONTERAS",
+      "clue": "ONG de ayuda médica de emergencia"
+    },
+    {
+      "word": "FILANTROPIA",
+      "clue": "Donación generosa por bien común"
+    },
+    {
+      "word": "MECENAZGO",
+      "clue": "Patrocinio de actividades culturales"
+    },
+    {
+      "word": "PATROCINIO",
+      "clue": "Apoyo financiero a cambio de visibilidad"
+    },
+    {
+      "word": "SUBVENCIONCULTURAL",
+      "clue": "Ayuda pública a proyectos artísticos"
+    },
+    {
+      "word": "PATRIMONIOINMATERIAL",
+      "clue": "Tradiciones y expresiones culturales"
+    },
+    {
+      "word": "PATRIMONIOMATERIAL",
+      "clue": "Bienes físicos de valor histórico"
+    },
+    {
+      "word": "RESTAURACION",
+      "clue": "Recuperación de obra o edificio histórico"
+    },
+    {
+      "word": "CONSERVACION",
+      "clue": "Mantenimiento preventivo de patrimonio"
+    },
+    {
+      "word": "PALEONTOLOGIA",
+      "clue": "Estudio de fósiles y vida antigua"
+    },
+    {
+      "word": "FOSIL",
+      "clue": "Resto o huella de organismo antiguo"
+    },
+    {
+      "word": "ESTRATIGRAFIA",
+      "clue": "Estudio de capas geológicas"
+    },
+    {
+      "word": "GEOLOGIA",
+      "clue": "Ciencia de la Tierra y sus procesos"
+    },
+    {
+      "word": "TECTONICADEPLACAS",
+      "clue": "Teoría de movimiento de litosfera"
+    },
+    {
+      "word": "SISMO",
+      "clue": "Temblor de tierra por falla geológica"
+    },
+    {
+      "word": "MAGNITUD",
+      "clue": "Medida de energía liberada en terremoto"
+    },
+    {
+      "word": "EPICENTRO",
+      "clue": "Punto en superficie sobre foco sísmico"
+    },
+    {
+      "word": "TSUNAMI",
+      "clue": "Ola gigante generada por sismo marino"
+    },
+    {
+      "word": "VOLCANOLOGIA",
+      "clue": "Estudio de volcanes"
+    },
+    {
+      "word": "MAGMA",
+      "clue": "Roca fundida bajo superficie"
+    },
+    {
+      "word": "LAVA",
+      "clue": "Magma expulsado por volcán"
+    },
+    {
+      "word": "ERUPCION",
+      "clue": "Expulsión de material volcánico"
+    },
+    {
+      "word": "METEOROLOGIA",
+      "clue": "Estudio de fenómenos atmosféricos"
+    },
+    {
+      "word": "CLIMATOLOGIA",
+      "clue": "Estudio del clima a largo plazo"
+    },
+    {
+      "word": "ATMOSFERA",
+      "clue": "Capa gaseosa que rodea la Tierra"
+    },
+    {
+      "word": "IONOSFERA",
+      "clue": "Capa ionizada de la atmósfera"
+    },
+    {
+      "word": "EFECTOINVERNADERO",
+      "clue": "Retención de calor por gases"
+    },
+    {
+      "word": "AGUJERODEOZONO",
+      "clue": "Depleción de ozono estratosférico"
+    },
+    {
+      "word": "ASTRONOMIA",
+      "clue": "Estudio de cuerpos celestes"
+    },
+    {
+      "word": "ASTROFISICA",
+      "clue": "Física aplicada a astros"
+    },
+    {
+      "word": "COSMOLOGIA",
+      "clue": "Estudio del origen y evolución del universo"
+    },
+    {
+      "word": "BIGBANG",
+      "clue": "Teoría del origen expansivo del universo"
+    },
+    {
+      "word": "AGUJERONEGRO",
+      "clue": "Región con gravedad extrema"
+    },
+    {
+      "word": "NEBULOSA",
+      "clue": "Nube de gas y polvo en el espacio"
+    },
+    {
+      "word": "GALAXIA",
+      "clue": "Conjunto masivo de estrellas"
+    },
+    {
+      "word": "VIALACTEA",
+      "clue": "Galaxia que contiene el sistema solar"
+    },
+    {
+      "word": "CONSTELACION",
+      "clue": "Grupo aparente de estrellas"
+    },
+    {
+      "word": "ORBITA",
+      "clue": "Trayectoria de cuerpo alrededor de otro"
+    },
+    {
+      "word": "ECLIPSIS",
+      "clue": "Ocultación de astro por otro"
+    },
+    {
+      "word": "SOLSTICIO",
+      "clue": "Momento de máxima inclinación solar"
+    },
+    {
+      "word": "EQUINOCCIO",
+      "clue": "Día y noche de igual duración"
+    },
+    {
+      "word": "FISICA",
+      "clue": "Ciencia de la materia y energía"
+    },
+    {
+      "word": "MECANICACUANTICA",
+      "clue": "Teoría del comportamiento subatómico"
+    },
+    {
+      "word": "RELATIVIDAD",
+      "clue": "Teoría de espacio tiempo y gravedad"
+    },
+    {
+      "word": "TERMODINAMICA",
+      "clue": "Estudio de calor y energía"
+    },
+    {
+      "word": "ENTROPIA",
+      "clue": "Medida de desorden en sistema"
+    },
+    {
+      "word": "ENERGIACINETICA",
+      "clue": "Energía del movimiento"
+    },
+    {
+      "word": "ENERGIAPOTENCIAL",
+      "clue": "Energía almacenada por posición"
+    },
+    {
+      "word": "FOTON",
+      "clue": "Partícula de luz"
+    },
+    {
+      "word": "ELECTRON",
+      "clue": "Partícula con carga negativa"
+    },
+    {
+      "word": "PROTON",
+      "clue": "Partícula con carga positiva en núcleo"
+    },
+    {
+      "word": "NEUTRON",
+      "clue": "Partícula neutra del núcleo atómico"
+    },
+    {
+      "word": "ATOMO",
+      "clue": "Unidad básica de elemento químico"
+    },
+    {
+      "word": "MOLECULA",
+      "clue": "Unión de dos o más átomos"
+    },
+    {
+      "word": "ION",
+      "clue": "Átomo o molécula con carga eléctrica"
+    },
+    {
+      "word": "ISOTOPO",
+      "clue": "Átomo con distinto número de neutrones"
+    },
+    {
+      "word": "TABLAPERIODICA",
+      "clue": "Clasificación de elementos químicos"
+    },
+    {
+      "word": "REACCIONQUIMICA",
+      "clue": "Transformación de sustancias"
+    },
+    {
+      "word": "CATALIZADOR",
+      "clue": "Sustancia que acelera reacción sin consumirse"
+    },
+    {
+      "word": "ACIDO",
+      "clue": "Sustancia donadora de protones"
+    },
+    {
+      "word": "BASE",
+      "clue": "Sustancia aceptora de protones"
+    },
+    {
+      "word": "PH",
+      "clue": "Medida de acidez o basicidad"
+    },
+    {
+      "word": "OXIDACION",
+      "clue": "Pérdida de electrones en reacción"
+    },
+    {
+      "word": "REDUCCION",
+      "clue": "Ganancia de electrones en reacción"
+    },
+    {
+      "word": "COMBUSTION",
+      "clue": "Reacción con oxígeno que libera calor"
+    },
+    {
+      "word": "POLIMERO",
+      "clue": "Macromolécula de unidades repetidas"
+    },
+    {
+      "word": "NANOTECNOLOGIA",
+      "clue": "Manipulación de materia a escala nanométrica"
+    },
+    {
+      "word": "BIOTECNOLOGIA",
+      "clue": "Uso de organismos vivos en tecnología"
+    },
+    {
+      "word": "INGENIERIAGENETICA",
+      "clue": "Modificación del material genético"
+    },
+    {
+      "word": "ADN",
+      "clue": "Ácido desoxirribonucleico portador de genes"
+    },
+    {
+      "word": "ARN",
+      "clue": "Ácido ribonucleico intermediario en expresión génica"
+    },
+    {
+      "word": "GENOMA",
+      "clue": "Conjunto completo de genes de organismo"
+    },
+    {
+      "word": "GEN",
+      "clue": "Unidad hereditaria de información"
+    },
+    {
+      "word": "ALELO",
+      "clue": "Variante de un gen"
+    },
+    {
+      "word": "MUTACION",
+      "clue": "Cambio en secuencia de ADN"
+    },
+    {
+      "word": "CLONACION",
+      "clue": "Reproducción de organismo idéntico"
+    },
+    {
+      "word": "CRISPR",
+      "clue": "Técnica de edición genética precisa"
+    },
+    {
+      "word": "CELULA",
+      "clue": "Unidad básica de los seres vivos"
+    },
+    {
+      "word": "CELULAMADRE",
+      "clue": "Célula con capacidad de diferenciarse"
+    },
+    {
+      "word": "MITOSIS",
+      "clue": "División celular en dos idénticas"
+    },
+    {
+      "word": "MEIOSIS",
+      "clue": "División que produce gametos"
+    },
+    {
+      "word": "FOTOSINTESIS",
+      "clue": "Síntesis de compuestos con luz"
+    },
+    {
+      "word": "RESPIRACIONCELULAR",
+      "clue": "Producción de energía en célula"
+    },
+    {
+      "word": "ECOSISTEMA",
+      "clue": "Comunidad biótica y su ambiente"
+    },
+    {
+      "word": "CADENATROFICA",
+      "clue": "Transferencia de energía entre organismos"
+    },
+    {
+      "word": "ESPECIEINVASORA",
+      "clue": "Especie que altera ecosistema ajeno"
+    },
+    {
+      "word": "EXTINCIONMASIVA",
+      "clue": "Desaparición de muchas especies a la vez"
+    },
+    {
+      "word": "EVOLUCION",
+      "clue": "Cambio de especies a lo largo del tiempo"
+    },
+    {
+      "word": "SELECCIONNATURAL",
+      "clue": "Supervivencia de variantes más adaptadas"
+    },
+    {
+      "word": "ADAPTACION",
+      "clue": "Rasgo que mejora supervivencia"
+    },
+    {
+      "word": "ESPECIACION",
+      "clue": "Formación de nuevas especies"
+    },
+    {
+      "word": "HOMINIDO",
+      "clue": "Primate de la familia humana"
+    },
+    {
+      "word": "PALEOLITICO",
+      "clue": "Etapa prehistórica de cazadores recolectores"
+    }
+  ]
+}

@@ -1,0 +1,2406 @@
+{
+  "language": "en",
+  "difficulty": "wise",
+  "words": [
+    {
+      "word": "MOLECULE",
+      "clue": "Smallest unit of a chemical compound"
+    },
+    {
+      "word": "ATOM",
+      "clue": "Basic unit of matter with protons and electrons"
+    },
+    {
+      "word": "ELECTRON",
+      "clue": "Negatively charged subatomic particle"
+    },
+    {
+      "word": "PROTON",
+      "clue": "Positively charged particle in an atomic nucleus"
+    },
+    {
+      "word": "NEUTRON",
+      "clue": "Neutral particle found in an atomic nucleus"
+    },
+    {
+      "word": "GRAVITY",
+      "clue": "Force that pulls objects toward each other"
+    },
+    {
+      "word": "VELOCITY",
+      "clue": "Speed of something in a given direction"
+    },
+    {
+      "word": "ACCELERATION",
+      "clue": "Rate at which velocity changes over time"
+    },
+    {
+      "word": "MOMENTUM",
+      "clue": "Quantity of motion of a moving object"
+    },
+    {
+      "word": "FRICTION",
+      "clue": "Resistance when two surfaces rub together"
+    },
+    {
+      "word": "INERTIA",
+      "clue": "Tendency of objects to resist changes in motion"
+    },
+    {
+      "word": "MAGNETISM",
+      "clue": "Force exerted by magnets on iron and other metals"
+    },
+    {
+      "word": "RADIATION",
+      "clue": "Energy emitted as waves or particles"
+    },
+    {
+      "word": "SPECTRUM",
+      "clue": "Range of colors or wavelengths of light"
+    },
+    {
+      "word": "WAVELENGTH",
+      "clue": "Distance between peaks of a wave"
+    },
+    {
+      "word": "FREQUENCY",
+      "clue": "Number of wave cycles per second"
+    },
+    {
+      "word": "ENTROPY",
+      "clue": "Measure of disorder in a physical system"
+    },
+    {
+      "word": "CATALYST",
+      "clue": "Substance that speeds up a chemical reaction"
+    },
+    {
+      "word": "ISOTOPE",
+      "clue": "Variant of an element with different neutrons"
+    },
+    {
+      "word": "POLYMER",
+      "clue": "Large molecule made of repeating units"
+    },
+    {
+      "word": "ENZYME",
+      "clue": "Protein that speeds up biochemical reactions"
+    },
+    {
+      "word": "GENOME",
+      "clue": "Complete set of genetic material in an organism"
+    },
+    {
+      "word": "CHROMOSOME",
+      "clue": "Structure carrying genetic information"
+    },
+    {
+      "word": "MUTATION",
+      "clue": "Change in the DNA sequence of a gene"
+    },
+    {
+      "word": "EVOLUTION",
+      "clue": "Gradual change in species over generations"
+    },
+    {
+      "word": "ECOLOGY",
+      "clue": "Study of organisms and their environment"
+    },
+    {
+      "word": "BIOLOGY",
+      "clue": "Science of living organisms"
+    },
+    {
+      "word": "GEOLOGY",
+      "clue": "Study of the Earth and its rocks"
+    },
+    {
+      "word": "ASTRONOMY",
+      "clue": "Study of celestial objects and the universe"
+    },
+    {
+      "word": "ASTROPHYSICS",
+      "clue": "Physics applied to stars and galaxies"
+    },
+    {
+      "word": "QUANTUM",
+      "clue": "Physics dealing with subatomic particles"
+    },
+    {
+      "word": "RELATIVITY",
+      "clue": "Einstein theory linking space, time, and gravity"
+    },
+    {
+      "word": "THERMODYNAMICS",
+      "clue": "Study of heat, energy, and work"
+    },
+    {
+      "word": "NUCLEUS",
+      "clue": "Central core of an atom or cell"
+    },
+    {
+      "word": "MITOCHONDRIA",
+      "clue": "Cell organelle that produces energy"
+    },
+    {
+      "word": "RIBOSOME",
+      "clue": "Cell structure that builds proteins"
+    },
+    {
+      "word": "BACTERIA",
+      "clue": "Single-celled microorganisms without a nucleus"
+    },
+    {
+      "word": "VIRUS",
+      "clue": "Infectious agent that replicates inside host cells"
+    },
+    {
+      "word": "VACUUM",
+      "clue": "Space entirely devoid of matter"
+    },
+    {
+      "word": "PLASMA",
+      "clue": "Ionized gas state of matter"
+    },
+    {
+      "word": "SUPERNOVA",
+      "clue": "Explosive death of a massive star"
+    },
+    {
+      "word": "NEBULA",
+      "clue": "Cloud of gas and dust in space"
+    },
+    {
+      "word": "GALAXY",
+      "clue": "Massive system of stars, gas, and dark matter"
+    },
+    {
+      "word": "ORBIT",
+      "clue": "Curved path of one object around another"
+    },
+    {
+      "word": "TELESCOPE",
+      "clue": "Instrument for observing distant objects"
+    },
+    {
+      "word": "MICROSCOPE",
+      "clue": "Instrument for viewing tiny objects"
+    },
+    {
+      "word": "HYPOTHESIS",
+      "clue": "Proposed explanation tested by experiment"
+    },
+    {
+      "word": "THEORY",
+      "clue": "Well-substantiated explanation of phenomena"
+    },
+    {
+      "word": "EXPERIMENT",
+      "clue": "Controlled test of a scientific hypothesis"
+    },
+    {
+      "word": "VARIABLE",
+      "clue": "Factor that can change in an experiment"
+    },
+    {
+      "word": "CONSTANT",
+      "clue": "Factor kept unchanged in an experiment"
+    },
+    {
+      "word": "PRECISION",
+      "clue": "Closeness of repeated measurements to each other"
+    },
+    {
+      "word": "ACCURACY",
+      "clue": "Closeness of a measurement to the true value"
+    },
+    {
+      "word": "NANOTECHNOLOGY",
+      "clue": "Engineering at the scale of atoms and molecules"
+    },
+    {
+      "word": "BIOTECHNOLOGY",
+      "clue": "Use of living systems for technological applications"
+    },
+    {
+      "word": "PHOTON",
+      "clue": "Particle of light and electromagnetic radiation"
+    },
+    {
+      "word": "LASER",
+      "clue": "Device emitting a concentrated beam of light"
+    },
+    {
+      "word": "SEMICONDUCTOR",
+      "clue": "Material with conductivity between metal and insulator"
+    },
+    {
+      "word": "SUPERCONDUCTOR",
+      "clue": "Material with zero electrical resistance when cooled"
+    },
+    {
+      "word": "FISSION",
+      "clue": "Splitting of an atomic nucleus releasing energy"
+    },
+    {
+      "word": "FUSION",
+      "clue": "Combining of atomic nuclei releasing energy"
+    },
+    {
+      "word": "METAPHYSICS",
+      "clue": "Branch of philosophy studying the nature of reality"
+    },
+    {
+      "word": "EPISTEMOLOGY",
+      "clue": "Philosophy of knowledge and how we know things"
+    },
+    {
+      "word": "ETHICS",
+      "clue": "Branch of philosophy dealing with moral principles"
+    },
+    {
+      "word": "LOGIC",
+      "clue": "Study of valid reasoning and argument"
+    },
+    {
+      "word": "AESTHETICS",
+      "clue": "Philosophy of beauty and artistic taste"
+    },
+    {
+      "word": "DIALECTIC",
+      "clue": "Method of reasoning through opposing ideas"
+    },
+    {
+      "word": "ONTOLOGY",
+      "clue": "Study of what exists and the nature of being"
+    },
+    {
+      "word": "PHENOMENOLOGY",
+      "clue": "Study of structures of conscious experience"
+    },
+    {
+      "word": "EXISTENTIALISM",
+      "clue": "Philosophy emphasizing individual freedom and choice"
+    },
+    {
+      "word": "DETERMINISM",
+      "clue": "Belief that all events are caused by prior conditions"
+    },
+    {
+      "word": "FREEWILL",
+      "clue": "Capacity to choose actions independently"
+    },
+    {
+      "word": "NIHILISM",
+      "clue": "Belief that life lacks objective meaning or value"
+    },
+    {
+      "word": "STOICISM",
+      "clue": "Philosophy of enduring hardship without complaint"
+    },
+    {
+      "word": "HEDONISM",
+      "clue": "Philosophy that pleasure is the highest good"
+    },
+    {
+      "word": "UTILITARIANISM",
+      "clue": "Ethics based on maximizing overall happiness"
+    },
+    {
+      "word": "EMPIRICISM",
+      "clue": "Belief that knowledge comes from sensory experience"
+    },
+    {
+      "word": "RATIONALISM",
+      "clue": "Belief that reason is the chief source of knowledge"
+    },
+    {
+      "word": "SKEPTICISM",
+      "clue": "Philosophical doubt about accepted beliefs"
+    },
+    {
+      "word": "PRAGMATISM",
+      "clue": "Philosophy judging ideas by their practical results"
+    },
+    {
+      "word": "IDEALISM",
+      "clue": "View that reality is fundamentally mental or spiritual"
+    },
+    {
+      "word": "MATERIALISM",
+      "clue": "View that only physical matter truly exists"
+    },
+    {
+      "word": "DUALISM",
+      "clue": "View that mind and body are distinct substances"
+    },
+    {
+      "word": "MONISM",
+      "clue": "View that all of reality is one fundamental substance"
+    },
+    {
+      "word": "HUMANISM",
+      "clue": "Philosophy emphasizing human values and potential"
+    },
+    {
+      "word": "TRANSCENDENTAL",
+      "clue": "Beyond ordinary physical experience"
+    },
+    {
+      "word": "ABSURDISM",
+      "clue": "Philosophy confronting the conflict between meaning and chaos"
+    },
+    {
+      "word": "CONSEQUENTIALISM",
+      "clue": "Ethics judging actions by their outcomes"
+    },
+    {
+      "word": "DEONTOLOGY",
+      "clue": "Ethics based on duty and rules regardless of outcome"
+    },
+    {
+      "word": "VIRTUE",
+      "clue": "Moral excellence as a philosophical ideal"
+    },
+    {
+      "word": "SYLLOGISM",
+      "clue": "Logical argument with major premise, minor premise, conclusion"
+    },
+    {
+      "word": "PARADOX",
+      "clue": "Statement that contradicts itself yet may be true"
+    },
+    {
+      "word": "FALLACY",
+      "clue": "Error in reasoning that undermines an argument"
+    },
+    {
+      "word": "AXIOM",
+      "clue": "Statement accepted as true without proof"
+    },
+    {
+      "word": "PREMISE",
+      "clue": "Proposition supporting a logical conclusion"
+    },
+    {
+      "word": "DEDUCTION",
+      "clue": "Reasoning from general principles to specific conclusions"
+    },
+    {
+      "word": "INDUCTION",
+      "clue": "Reasoning from specific observations to general principles"
+    },
+    {
+      "word": "ANALOGY",
+      "clue": "Comparison used to explain or argue a point"
+    },
+    {
+      "word": "DICHOTOMY",
+      "clue": "Division into two opposed or contrasting parts"
+    },
+    {
+      "word": "SYNTHESIS",
+      "clue": "Combination of ideas into a coherent whole"
+    },
+    {
+      "word": "ANTITHESIS",
+      "clue": "Direct opposite of a proposition or idea"
+    },
+    {
+      "word": "HEGELIAN",
+      "clue": "Relating to the dialectical philosophy of Hegel"
+    },
+    {
+      "word": "CATEGORICAL",
+      "clue": "Unconditional and absolute, as in moral imperatives"
+    },
+    {
+      "word": "IMPERATIVE",
+      "clue": "Command or moral obligation in philosophy"
+    },
+    {
+      "word": "SUBJECTIVE",
+      "clue": "Based on personal feelings rather than objective fact"
+    },
+    {
+      "word": "OBJECTIVE",
+      "clue": "Independent of personal feelings or opinions"
+    },
+    {
+      "word": "RELATIVISM",
+      "clue": "View that truth varies by culture or perspective"
+    },
+    {
+      "word": "UNIVERSALISM",
+      "clue": "Belief that certain truths apply to all people"
+    },
+    {
+      "word": "TELEOLOGY",
+      "clue": "Explanation of phenomena by their purpose or end goal"
+    },
+    {
+      "word": "CAUSALITY",
+      "clue": "Relationship between cause and effect"
+    },
+    {
+      "word": "CONSCIOUSNESS",
+      "clue": "State of being aware of oneself and surroundings"
+    },
+    {
+      "word": "PHENOMENON",
+      "clue": "Observable fact or event in philosophy and science"
+    },
+    {
+      "word": "NOUMENON",
+      "clue": "Thing as it is in itself, beyond perception"
+    },
+    {
+      "word": "SOLIPSISM",
+      "clue": "View that only one own mind is sure to exist"
+    },
+    {
+      "word": "AGNOSTICISM",
+      "clue": "View that ultimate truth about God is unknowable"
+    },
+    {
+      "word": "ATHEISM",
+      "clue": "Disbelief in the existence of God or gods"
+    },
+    {
+      "word": "THEISM",
+      "clue": "Belief in the existence of God or gods"
+    },
+    {
+      "word": "PANTHEISM",
+      "clue": "Belief that God is identical with the universe"
+    },
+    {
+      "word": "ASCETICISM",
+      "clue": "Practice of severe self-discipline and abstinence"
+    },
+    {
+      "word": "EUDAEMONIA",
+      "clue": "Greek term for human flourishing or well-being"
+    },
+    {
+      "word": "APORIA",
+      "clue": "State of puzzlement or irresolvable contradiction"
+    },
+    {
+      "word": "METAPHOR",
+      "clue": "Figure of speech comparing two unlike things directly"
+    },
+    {
+      "word": "SIMILE",
+      "clue": "Comparison using like or as"
+    },
+    {
+      "word": "ALLITERATION",
+      "clue": "Repetition of initial consonant sounds"
+    },
+    {
+      "word": "ASSONANCE",
+      "clue": "Repetition of vowel sounds in nearby words"
+    },
+    {
+      "word": "PERSONIFICATION",
+      "clue": "Giving human traits to nonhuman things"
+    },
+    {
+      "word": "HYPERBOLE",
+      "clue": "Deliberate exaggeration for emphasis"
+    },
+    {
+      "word": "IRONY",
+      "clue": "Expression meaning the opposite of what is said"
+    },
+    {
+      "word": "SATIRE",
+      "clue": "Use of humor to criticize society or individuals"
+    },
+    {
+      "word": "PARODY",
+      "clue": "Imitation of a work for comic effect"
+    },
+    {
+      "word": "ALLEGORY",
+      "clue": "Story with characters symbolizing abstract ideas"
+    },
+    {
+      "word": "FORESHADOWING",
+      "clue": "Hints about events that will occur later"
+    },
+    {
+      "word": "FLASHBACK",
+      "clue": "Scene set in an earlier time in a narrative"
+    },
+    {
+      "word": "PROTAGONIST",
+      "clue": "Main character of a story"
+    },
+    {
+      "word": "ANTAGONIST",
+      "clue": "Character who opposes the main character"
+    },
+    {
+      "word": "NARRATOR",
+      "clue": "Voice telling the story to the reader"
+    },
+    {
+      "word": "OMNISCIENT",
+      "clue": "Narrator who knows all characters thoughts"
+    },
+    {
+      "word": "UNRELIABLE",
+      "clue": "Narrator whose account may not be trustworthy"
+    },
+    {
+      "word": "SUBPLOT",
+      "clue": "Secondary storyline within a larger narrative"
+    },
+    {
+      "word": "CLIMAX",
+      "clue": "Turning point of highest tension in a plot"
+    },
+    {
+      "word": "DENOUEMENT",
+      "clue": "Final resolution of a story plot"
+    },
+    {
+      "word": "EPILOGUE",
+      "clue": "Section after the main story concludes"
+    },
+    {
+      "word": "PROLOGUE",
+      "clue": "Introductory section before the main story"
+    },
+    {
+      "word": "STANZA",
+      "clue": "Grouped set of lines in a poem"
+    },
+    {
+      "word": "SONNET",
+      "clue": "Fourteen-line poem with a fixed rhyme scheme"
+    },
+    {
+      "word": "HAIKU",
+      "clue": "Japanese poem of three lines with syllable limits"
+    },
+    {
+      "word": "BALLAD",
+      "clue": "Narrative poem or song telling a story"
+    },
+    {
+      "word": "EPIC",
+      "clue": "Long poem about heroic deeds and adventures"
+    },
+    {
+      "word": "LYRIC",
+      "clue": "Poem expressing personal emotions"
+    },
+    {
+      "word": "ELEGY",
+      "clue": "Poem mourning the dead"
+    },
+    {
+      "word": "ODE",
+      "clue": "Formal poem praising a person or thing"
+    },
+    {
+      "word": "VILLANELLE",
+      "clue": "Poem with nineteen lines and repeated refrains"
+    },
+    {
+      "word": "FREEVERSE",
+      "clue": "Poetry without regular meter or rhyme"
+    },
+    {
+      "word": "IAMBIC",
+      "clue": "Metrical foot with unstressed then stressed syllable"
+    },
+    {
+      "word": "TROCHAIC",
+      "clue": "Metrical foot with stressed then unstressed syllable"
+    },
+    {
+      "word": "PENTAMETER",
+      "clue": "Line of verse with five metrical feet"
+    },
+    {
+      "word": "RHYMESCHEME",
+      "clue": "Pattern of rhymes at the ends of poem lines"
+    },
+    {
+      "word": "CAESURA",
+      "clue": "Pause or break within a line of poetry"
+    },
+    {
+      "word": "ENJAMBMENT",
+      "clue": "Continuation of a sentence beyond a line break"
+    },
+    {
+      "word": "MOTIF",
+      "clue": "Recurring element with symbolic significance"
+    },
+    {
+      "word": "THEME",
+      "clue": "Central idea or message of a literary work"
+    },
+    {
+      "word": "TONE",
+      "clue": "Author attitude toward the subject or audience"
+    },
+    {
+      "word": "MOOD",
+      "clue": "Emotional atmosphere felt by the reader"
+    },
+    {
+      "word": "DICTION",
+      "clue": "Author choice of words and style of expression"
+    },
+    {
+      "word": "SYNTAX",
+      "clue": "Arrangement of words in sentences"
+    },
+    {
+      "word": "GENRE",
+      "clue": "Category of literature like mystery or romance"
+    },
+    {
+      "word": "FICTION",
+      "clue": "Literature describing imaginary events and people"
+    },
+    {
+      "word": "NONFICTION",
+      "clue": "Writing based on factual events and information"
+    },
+    {
+      "word": "MEMOIR",
+      "clue": "Personal account of the author own experiences"
+    },
+    {
+      "word": "BIOGRAPHY",
+      "clue": "Account of someone else life written by another"
+    },
+    {
+      "word": "AUTOBIOGRAPHY",
+      "clue": "Account of one own life written by oneself"
+    },
+    {
+      "word": "ANTHOLOGY",
+      "clue": "Collection of literary works by various authors"
+    },
+    {
+      "word": "MANUSCRIPT",
+      "clue": "Author original text before publication"
+    },
+    {
+      "word": "PUBLISHER",
+      "clue": "Company that produces and distributes books"
+    },
+    {
+      "word": "COPYRIGHT",
+      "clue": "Legal right protecting an author work"
+    },
+    {
+      "word": "PLAGIARISM",
+      "clue": "Using another person work without credit"
+    },
+    {
+      "word": "CANON",
+      "clue": "Body of works considered most important in literature"
+    },
+    {
+      "word": "CLASSIC",
+      "clue": "Work of enduring quality and recognized excellence"
+    },
+    {
+      "word": "MODERNISM",
+      "clue": "Early 20th century literary movement breaking tradition"
+    },
+    {
+      "word": "POSTMODERNISM",
+      "clue": "Movement questioning grand narratives and certainty"
+    },
+    {
+      "word": "REALISM",
+      "clue": "Literary style depicting everyday life accurately"
+    },
+    {
+      "word": "ROMANTICISM",
+      "clue": "Movement emphasizing emotion and individualism"
+    },
+    {
+      "word": "DIAGNOSIS",
+      "clue": "Identification of a disease from symptoms"
+    },
+    {
+      "word": "PROGNOSIS",
+      "clue": "Forecast of the likely course of a disease"
+    },
+    {
+      "word": "SYMPTOM",
+      "clue": "Physical or mental sign of illness"
+    },
+    {
+      "word": "SYNDROME",
+      "clue": "Group of symptoms occurring together"
+    },
+    {
+      "word": "PATHOLOGY",
+      "clue": "Study of the causes and effects of disease"
+    },
+    {
+      "word": "ETIOLOGY",
+      "clue": "Study of the causes of a disease"
+    },
+    {
+      "word": "MORBIDITY",
+      "clue": "Rate of disease in a population"
+    },
+    {
+      "word": "MORTALITY",
+      "clue": "Rate of death in a population"
+    },
+    {
+      "word": "EPIDEMIC",
+      "clue": "Widespread occurrence of disease in a community"
+    },
+    {
+      "word": "PANDEMIC",
+      "clue": "Disease outbreak affecting populations worldwide"
+    },
+    {
+      "word": "CHRONIC",
+      "clue": "Long-lasting or recurring medical condition"
+    },
+    {
+      "word": "ACUTE",
+      "clue": "Severe condition with rapid onset"
+    },
+    {
+      "word": "BENIGN",
+      "clue": "Not harmful, as a noncancerous growth"
+    },
+    {
+      "word": "MALIGNANT",
+      "clue": "Harmful and spreading, as cancer"
+    },
+    {
+      "word": "CARCINOMA",
+      "clue": "Cancer arising in epithelial tissue"
+    },
+    {
+      "word": "SARCOMA",
+      "clue": "Cancer arising in connective or bone tissue"
+    },
+    {
+      "word": "METASTASIS",
+      "clue": "Spread of cancer from one organ to another"
+    },
+    {
+      "word": "REMISSION",
+      "clue": "Period when disease symptoms lessen or disappear"
+    },
+    {
+      "word": "RELAPSE",
+      "clue": "Return of disease after a period of improvement"
+    },
+    {
+      "word": "ANTIBIOTIC",
+      "clue": "Drug that kills or inhibits bacteria"
+    },
+    {
+      "word": "ANTIVIRAL",
+      "clue": "Drug that treats viral infections"
+    },
+    {
+      "word": "ANALGESIC",
+      "clue": "Medication that relieves pain"
+    },
+    {
+      "word": "ANESTHETIC",
+      "clue": "Drug that causes loss of sensation"
+    },
+    {
+      "word": "SEDATIVE",
+      "clue": "Drug that calms or induces sleep"
+    },
+    {
+      "word": "STIMULANT",
+      "clue": "Drug that increases activity in the body"
+    },
+    {
+      "word": "PLACEBO",
+      "clue": "Inactive treatment given for psychological effect"
+    },
+    {
+      "word": "CLINICAL",
+      "clue": "Relating to direct observation and treatment of patients"
+    },
+    {
+      "word": "RANDOMIZED",
+      "clue": "Trial where participants are assigned by chance"
+    },
+    {
+      "word": "DOUBLEBLIND",
+      "clue": "Trial where neither patient nor doctor knows the treatment"
+    },
+    {
+      "word": "BIOPSY",
+      "clue": "Removal of tissue for microscopic examination"
+    },
+    {
+      "word": "ENDOSCOPY",
+      "clue": "Examination of internal organs with a flexible tube"
+    },
+    {
+      "word": "ULTRASOUND",
+      "clue": "Imaging using high-frequency sound waves"
+    },
+    {
+      "word": "MRI",
+      "clue": "Imaging using magnetic fields and radio waves"
+    },
+    {
+      "word": "CTSCAN",
+      "clue": "Cross-sectional X-ray imaging of the body"
+    },
+    {
+      "word": "ELECTROCARDIOGRAM",
+      "clue": "Recording of the heart electrical activity"
+    },
+    {
+      "word": "HYPERTENSION",
+      "clue": "Medical term for high blood pressure"
+    },
+    {
+      "word": "HYPOTENSION",
+      "clue": "Abnormally low blood pressure"
+    },
+    {
+      "word": "DIABETES",
+      "clue": "Disease involving impaired blood sugar regulation"
+    },
+    {
+      "word": "INSULIN",
+      "clue": "Hormone regulating blood glucose levels"
+    },
+    {
+      "word": "ANEMIA",
+      "clue": "Condition of low red blood cell count"
+    },
+    {
+      "word": "LEUKEMIA",
+      "clue": "Cancer of blood-forming tissues"
+    },
+    {
+      "word": "ARTHRITIS",
+      "clue": "Inflammation of the joints"
+    },
+    {
+      "word": "OSTEOPOROSIS",
+      "clue": "Weakening of bones due to loss of density"
+    },
+    {
+      "word": "PNEUMONIA",
+      "clue": "Infection causing inflammation of the lungs"
+    },
+    {
+      "word": "BRONCHITIS",
+      "clue": "Inflammation of the bronchial tubes"
+    },
+    {
+      "word": "ASTHMA",
+      "clue": "Chronic condition causing airway narrowing"
+    },
+    {
+      "word": "EMPHYSEMA",
+      "clue": "Lung disease damaging air sacs"
+    },
+    {
+      "word": "HEPATITIS",
+      "clue": "Inflammation of the liver"
+    },
+    {
+      "word": "CIRRHOSIS",
+      "clue": "Scarring of the liver from long-term damage"
+    },
+    {
+      "word": "NEFRITIS",
+      "clue": "Inflammation of the kidneys"
+    },
+    {
+      "word": "SEPSIS",
+      "clue": "Life-threatening response to infection in the body"
+    },
+    {
+      "word": "ANTIBODY",
+      "clue": "Protein that neutralizes pathogens"
+    },
+    {
+      "word": "ANTIGEN",
+      "clue": "Substance that triggers an immune response"
+    },
+    {
+      "word": "AUTOIMMUNE",
+      "clue": "Condition where the body attacks its own tissues"
+    },
+    {
+      "word": "IMMUNOLOGY",
+      "clue": "Study of the immune system"
+    },
+    {
+      "word": "PHARMACOLOGY",
+      "clue": "Study of drugs and their effects"
+    },
+    {
+      "word": "TOXICOLOGY",
+      "clue": "Study of poisons and their effects"
+    },
+    {
+      "word": "GERIATRICS",
+      "clue": "Medical care of elderly patients"
+    },
+    {
+      "word": "PEDIATRICS",
+      "clue": "Medical care of infants and children"
+    },
+    {
+      "word": "OBSTETRICS",
+      "clue": "Branch of medicine dealing with childbirth"
+    },
+    {
+      "word": "GYNECOLOGY",
+      "clue": "Branch of medicine dealing with female reproductive health"
+    },
+    {
+      "word": "JURISPRUDENCE",
+      "clue": "Theory and philosophy of law"
+    },
+    {
+      "word": "CONSTITUTION",
+      "clue": "Fundamental legal framework of a nation"
+    },
+    {
+      "word": "STATUTE",
+      "clue": "Written law enacted by a legislature"
+    },
+    {
+      "word": "ORDINANCE",
+      "clue": "Local law passed by a city or town"
+    },
+    {
+      "word": "REGULATION",
+      "clue": "Rule issued by a government agency"
+    },
+    {
+      "word": "PRECEDENT",
+      "clue": "Earlier court decision guiding future cases"
+    },
+    {
+      "word": "LITIGATION",
+      "clue": "Process of taking legal action in court"
+    },
+    {
+      "word": "PLAINTIFF",
+      "clue": "Person who brings a lawsuit"
+    },
+    {
+      "word": "DEFENDANT",
+      "clue": "Person accused or sued in a legal case"
+    },
+    {
+      "word": "PROSECUTION",
+      "clue": "Legal proceedings against someone charged with a crime"
+    },
+    {
+      "word": "INDICTMENT",
+      "clue": "Formal charge of a serious crime"
+    },
+    {
+      "word": "SUBPOENA",
+      "clue": "Court order requiring someone to testify"
+    },
+    {
+      "word": "AFFIDAVIT",
+      "clue": "Written statement confirmed by oath"
+    },
+    {
+      "word": "DEPOSITION",
+      "clue": "Sworn out-of-court testimony"
+    },
+    {
+      "word": "TESTIMONY",
+      "clue": "Spoken evidence given under oath in court"
+    },
+    {
+      "word": "EVIDENCE",
+      "clue": "Information presented to prove or disprove a claim"
+    },
+    {
+      "word": "VERDICT",
+      "clue": "Decision reached by a jury in a trial"
+    },
+    {
+      "word": "SENTENCE",
+      "clue": "Punishment imposed by a court on a convicted person"
+    },
+    {
+      "word": "APPEAL",
+      "clue": "Request for a higher court to review a decision"
+    },
+    {
+      "word": "JURISDICTION",
+      "clue": "Authority of a court to hear a case"
+    },
+    {
+      "word": "BAIL",
+      "clue": "Money paid to secure release before trial"
+    },
+    {
+      "word": "PAROLE",
+      "clue": "Conditional early release from prison"
+    },
+    {
+      "word": "PROBATION",
+      "clue": "Supervised release instead of prison time"
+    },
+    {
+      "word": "FELONY",
+      "clue": "Serious crime punishable by long imprisonment"
+    },
+    {
+      "word": "MISDEMEANOR",
+      "clue": "Less serious criminal offense"
+    },
+    {
+      "word": "TORT",
+      "clue": "Civil wrong causing harm for which damages may be sought"
+    },
+    {
+      "word": "LIABILITY",
+      "clue": "Legal responsibility for one actions"
+    },
+    {
+      "word": "NEGLIGENCE",
+      "clue": "Failure to exercise reasonable care causing harm"
+    },
+    {
+      "word": "DEFAMATION",
+      "clue": "False statement damaging someone reputation"
+    },
+    {
+      "word": "LIBEL",
+      "clue": "Written defamation"
+    },
+    {
+      "word": "SLANDER",
+      "clue": "Spoken defamation"
+    },
+    {
+      "word": "INJUNCTION",
+      "clue": "Court order requiring or forbidding an action"
+    },
+    {
+      "word": "RESTRAINING",
+      "clue": "Court order limiting contact between parties"
+    },
+    {
+      "word": "ARBITRATION",
+      "clue": "Dispute resolution by a neutral third party"
+    },
+    {
+      "word": "MEDIATION",
+      "clue": "Negotiated dispute resolution with a facilitator"
+    },
+    {
+      "word": "SETTLEMENT",
+      "clue": "Agreement resolving a dispute without trial"
+    },
+    {
+      "word": "CONTRACT",
+      "clue": "Legally binding agreement between parties"
+    },
+    {
+      "word": "BREACH",
+      "clue": "Violation of a legal agreement"
+    },
+    {
+      "word": "CONSIDERATION",
+      "clue": "Something of value exchanged in a contract"
+    },
+    {
+      "word": "WARRANTY",
+      "clue": "Promise that a product meets certain standards"
+    },
+    {
+      "word": "INFRINGEMENT",
+      "clue": "Unauthorized use of protected intellectual property"
+    },
+    {
+      "word": "PATENT",
+      "clue": "Exclusive right to an invention"
+    },
+    {
+      "word": "TRADEMARK",
+      "clue": "Legal protection of a brand name or logo"
+    },
+    {
+      "word": "INTELLECTUAL",
+      "clue": "Relating to creations of the mind under law"
+    },
+    {
+      "word": "HABEASCORPUS",
+      "clue": "Right to challenge unlawful detention"
+    },
+    {
+      "word": "DUEPROCESS",
+      "clue": "Fair treatment through the normal judicial system"
+    },
+    {
+      "word": "MIRANDA",
+      "clue": "Rights read to suspects upon arrest in the US"
+    },
+    {
+      "word": "IMMUNITY",
+      "clue": "Protection from legal prosecution"
+    },
+    {
+      "word": "PERJURY",
+      "clue": "Crime of lying under oath"
+    },
+    {
+      "word": "CONTEMPT",
+      "clue": "Disrespect of court authority punishable by law"
+    },
+    {
+      "word": "ACQUITTAL",
+      "clue": "Judgment that a defendant is not guilty"
+    },
+    {
+      "word": "CONVICTION",
+      "clue": "Formal declaration of guilt in court"
+    },
+    {
+      "word": "EXTRADITION",
+      "clue": "Transfer of a suspect between countries for trial"
+    },
+    {
+      "word": "AMNESTY",
+      "clue": "Official pardon for political offenses"
+    },
+    {
+      "word": "CLEMENCY",
+      "clue": "Mercy shown by reducing a criminal sentence"
+    },
+    {
+      "word": "JUROR",
+      "clue": "Citizen who serves on a trial jury"
+    },
+    {
+      "word": "BARRISTER",
+      "clue": "Lawyer who argues cases in higher courts in Britain"
+    },
+    {
+      "word": "SOLICITOR",
+      "clue": "Lawyer who advises clients and prepares cases"
+    },
+    {
+      "word": "NOTARY",
+      "clue": "Official who certifies documents and signatures"
+    },
+    {
+      "word": "TESTATOR",
+      "clue": "Person who makes a will"
+    },
+    {
+      "word": "BENEFICIARY",
+      "clue": "Person who receives benefits from a will or trust"
+    },
+    {
+      "word": "MICROECONOMICS",
+      "clue": "Study of individual and firm economic behavior"
+    },
+    {
+      "word": "MACROECONOMICS",
+      "clue": "Study of economy-wide phenomena like inflation"
+    },
+    {
+      "word": "SUPPLY",
+      "clue": "Amount of a good producers are willing to sell"
+    },
+    {
+      "word": "DEMAND",
+      "clue": "Desire and ability of consumers to buy a good"
+    },
+    {
+      "word": "EQUILIBRIUM",
+      "clue": "Point where supply equals demand"
+    },
+    {
+      "word": "ELASTICITY",
+      "clue": "Responsiveness of demand to price changes"
+    },
+    {
+      "word": "INELASTIC",
+      "clue": "Demand that changes little with price"
+    },
+    {
+      "word": "UTILITY",
+      "clue": "Satisfaction gained from consuming a good"
+    },
+    {
+      "word": "MARGINAL",
+      "clue": "Additional cost or benefit of one more unit"
+    },
+    {
+      "word": "OPPORTUNITY",
+      "clue": "Value of the next best alternative forgone"
+    },
+    {
+      "word": "SCARCITY",
+      "clue": "Limited resources relative to unlimited wants"
+    },
+    {
+      "word": "ALLOCATION",
+      "clue": "Distribution of resources among competing uses"
+    },
+    {
+      "word": "EFFICIENCY",
+      "clue": "Maximum output from given inputs"
+    },
+    {
+      "word": "PRODUCTIVITY",
+      "clue": "Output produced per unit of input"
+    },
+    {
+      "word": "CAPITAL",
+      "clue": "Assets used to produce goods and services"
+    },
+    {
+      "word": "LABOR",
+      "clue": "Human effort used in production"
+    },
+    {
+      "word": "LAND",
+      "clue": "Natural resources used in production"
+    },
+    {
+      "word": "ENTREPRENEUR",
+      "clue": "Person who organizes and assumes business risk"
+    },
+    {
+      "word": "MONOPOLY",
+      "clue": "Market with a single seller"
+    },
+    {
+      "word": "OLIGOPOLY",
+      "clue": "Market dominated by a few large firms"
+    },
+    {
+      "word": "MONOPSONY",
+      "clue": "Market with a single buyer"
+    },
+    {
+      "word": "COMPETITION",
+      "clue": "Rivalry among sellers for customers"
+    },
+    {
+      "word": "ANTITRUST",
+      "clue": "Laws preventing monopolistic business practices"
+    },
+    {
+      "word": "DEREGULATION",
+      "clue": "Removal of government rules from an industry"
+    },
+    {
+      "word": "SUBSIDY",
+      "clue": "Government payment to support an industry"
+    },
+    {
+      "word": "TARIFF",
+      "clue": "Tax on imported goods"
+    },
+    {
+      "word": "QUOTA",
+      "clue": "Limit on the quantity of imports allowed"
+    },
+    {
+      "word": "TRADEDEFICIT",
+      "clue": "Importing more goods than a country exports"
+    },
+    {
+      "word": "TRADESURPLUS",
+      "clue": "Exporting more goods than a country imports"
+    },
+    {
+      "word": "EXCHANGERATE",
+      "clue": "Value of one currency in terms of another"
+    },
+    {
+      "word": "INFLATION",
+      "clue": "General rise in prices over time"
+    },
+    {
+      "word": "DEFLATION",
+      "clue": "General decline in prices over time"
+    },
+    {
+      "word": "STAGFLATION",
+      "clue": "Combination of stagnant growth and inflation"
+    },
+    {
+      "word": "RECESSION",
+      "clue": "Period of significant decline in economic activity"
+    },
+    {
+      "word": "DEPRESSION",
+      "clue": "Severe and prolonged economic downturn"
+    },
+    {
+      "word": "GROSSDOMESTIC",
+      "clue": "Total value of goods produced within a country"
+    },
+    {
+      "word": "FISCAL",
+      "clue": "Relating to government taxation and spending"
+    },
+    {
+      "word": "MONETARY",
+      "clue": "Relating to money supply and interest rates"
+    },
+    {
+      "word": "INTERESTRATE",
+      "clue": "Cost of borrowing money expressed as a percentage"
+    },
+    {
+      "word": "FEDERALRESERVE",
+      "clue": "Central bank of the United States"
+    },
+    {
+      "word": "BUDGET",
+      "clue": "Plan for government revenue and expenditure"
+    },
+    {
+      "word": "DEFICIT",
+      "clue": "Spending more than revenue in a budget"
+    },
+    {
+      "word": "SURPLUS",
+      "clue": "Revenue exceeding spending in a budget"
+    },
+    {
+      "word": "DEBT",
+      "clue": "Money owed by a government or individual"
+    },
+    {
+      "word": "AUSTERITY",
+      "clue": "Strict reduction of government spending"
+    },
+    {
+      "word": "STIMULUS",
+      "clue": "Government spending to boost economic activity"
+    },
+    {
+      "word": "LIQUIDITY",
+      "clue": "Ease of converting assets to cash"
+    },
+    {
+      "word": "SOLVENCY",
+      "clue": "Ability to meet long-term financial obligations"
+    },
+    {
+      "word": "BANKRUPTCY",
+      "clue": "Legal status of inability to repay debts"
+    },
+    {
+      "word": "PORTFOLIO",
+      "clue": "Collection of financial investments"
+    },
+    {
+      "word": "DIVERSIFICATION",
+      "clue": "Spreading investments to reduce risk"
+    },
+    {
+      "word": "SPECULATION",
+      "clue": "High-risk investment hoping for large gains"
+    },
+    {
+      "word": "DERIVATIVE",
+      "clue": "Financial contract based on an underlying asset"
+    },
+    {
+      "word": "HEDGE",
+      "clue": "Investment reducing risk of adverse price movement"
+    },
+    {
+      "word": "ARBITRAGE",
+      "clue": "Profiting from price differences in different markets"
+    },
+    {
+      "word": "COMPOUNDING",
+      "clue": "Earning interest on previously earned interest"
+    },
+    {
+      "word": "AMORTIZATION",
+      "clue": "Gradual repayment of a loan over time"
+    },
+    {
+      "word": "DEPRECIATION",
+      "clue": "Decrease in asset value over time"
+    },
+    {
+      "word": "APPRECIATION",
+      "clue": "Increase in asset value over time"
+    },
+    {
+      "word": "PROFITMARGIN",
+      "clue": "Percentage of revenue that is profit"
+    },
+    {
+      "word": "DIVIDEND",
+      "clue": "Payment of profits to shareholders"
+    },
+    {
+      "word": "RENAISSANCE",
+      "clue": "European cultural rebirth from the 14th to 17th century"
+    },
+    {
+      "word": "BAROQUE",
+      "clue": "Ornate artistic style of the 17th and 18th centuries"
+    },
+    {
+      "word": "ROCOCO",
+      "clue": "Decorative art style with elaborate ornamentation"
+    },
+    {
+      "word": "IMPRESSIONISM",
+      "clue": "Art movement capturing light and momentary effects"
+    },
+    {
+      "word": "EXPRESSIONISM",
+      "clue": "Art emphasizing emotional experience over reality"
+    },
+    {
+      "word": "CUBISM",
+      "clue": "Art style breaking objects into geometric shapes"
+    },
+    {
+      "word": "SURREALISM",
+      "clue": "Art exploring dreams and the unconscious mind"
+    },
+    {
+      "word": "ABSTRACT",
+      "clue": "Art not representing recognizable objects"
+    },
+    {
+      "word": "PORTRAIT",
+      "clue": "Artwork depicting a person face and expression"
+    },
+    {
+      "word": "LANDSCAPE",
+      "clue": "Artwork depicting natural scenery"
+    },
+    {
+      "word": "STILLIFE",
+      "clue": "Painting of inanimate objects like fruit or flowers"
+    },
+    {
+      "word": "FRESCO",
+      "clue": "Painting done on wet plaster on a wall"
+    },
+    {
+      "word": "MURAL",
+      "clue": "Large painting applied directly to a wall"
+    },
+    {
+      "word": "CANVAS",
+      "clue": "Fabric surface used for oil or acrylic painting"
+    },
+    {
+      "word": "PALETTE",
+      "clue": "Board on which an artist mixes colors"
+    },
+    {
+      "word": "PERSPECTIVE",
+      "clue": "Technique creating depth on a flat surface"
+    },
+    {
+      "word": "CHIAROSCURO",
+      "clue": "Strong contrast between light and dark in art"
+    },
+    {
+      "word": "COMPOSITION",
+      "clue": "Arrangement of visual elements in an artwork"
+    },
+    {
+      "word": "TEXTURE",
+      "clue": "Perceived surface quality in a work of art"
+    },
+    {
+      "word": "HUE",
+      "clue": "Pure color without tint or shade"
+    },
+    {
+      "word": "SATURATION",
+      "clue": "Intensity or purity of a color"
+    },
+    {
+      "word": "CONTRAPPOSITO",
+      "clue": "Pose with weight shifted to one leg in sculpture"
+    },
+    {
+      "word": "BASRELIEF",
+      "clue": "Sculpture with figures projecting slightly from background"
+    },
+    {
+      "word": "INSTALLATION",
+      "clue": "Large-scale three-dimensional artwork in a space"
+    },
+    {
+      "word": "PERFORMANCE",
+      "clue": "Art presented through live actions by the artist"
+    },
+    {
+      "word": "AVANTGARDE",
+      "clue": "Experimental art pushing boundaries of convention"
+    },
+    {
+      "word": "MINIMALISM",
+      "clue": "Art using simple forms and limited elements"
+    },
+    {
+      "word": "POPART",
+      "clue": "Art movement using imagery from popular culture"
+    },
+    {
+      "word": "DADAISM",
+      "clue": "Anti-art movement rejecting conventional aesthetics"
+    },
+    {
+      "word": "FUTURISM",
+      "clue": "Movement celebrating speed, technology, and modernity"
+    },
+    {
+      "word": "SYMPHONY",
+      "clue": "Large orchestral composition in multiple movements"
+    },
+    {
+      "word": "CONCERTO",
+      "clue": "Composition featuring a solo instrument with orchestra"
+    },
+    {
+      "word": "SONATA",
+      "clue": "Multi-movement composition for one or two instruments"
+    },
+    {
+      "word": "FUGUE",
+      "clue": "Complex composition with interweaving melodic lines"
+    },
+    {
+      "word": "ARIA",
+      "clue": "Solo vocal piece in an opera"
+    },
+    {
+      "word": "OVERTURE",
+      "clue": "Orchestral introduction to an opera or ballet"
+    },
+    {
+      "word": "TEMPO",
+      "clue": "Speed at which a piece of music is played"
+    },
+    {
+      "word": "DYNAMICS",
+      "clue": "Loudness or softness in a musical performance"
+    },
+    {
+      "word": "HARMONY",
+      "clue": "Combination of simultaneously sounded musical notes"
+    },
+    {
+      "word": "MELODY",
+      "clue": "Sequence of musical notes forming a tune"
+    },
+    {
+      "word": "RHYTHM",
+      "clue": "Pattern of beats and accents in music"
+    },
+    {
+      "word": "TIMBRE",
+      "clue": "Distinctive quality of a musical sound or voice"
+    },
+    {
+      "word": "CADENZA",
+      "clue": "Elaborate solo passage near the end of a movement"
+    },
+    {
+      "word": "CRESCENDO",
+      "clue": "Gradual increase in loudness in music"
+    },
+    {
+      "word": "DIMINUENDO",
+      "clue": "Gradual decrease in loudness in music"
+    },
+    {
+      "word": "STACCATO",
+      "clue": "Playing notes short and detached"
+    },
+    {
+      "word": "LEGATO",
+      "clue": "Playing notes smoothly connected"
+    },
+    {
+      "word": "CHOREOGRAPHY",
+      "clue": "Art of designing dance movements"
+    },
+    {
+      "word": "PAVILION",
+      "clue": "Structure housing an art exhibition"
+    },
+    {
+      "word": "GALLERIA",
+      "clue": "Long passage or hall displaying artworks"
+    },
+    {
+      "word": "AUCTION",
+      "clue": "Public sale where art is sold to the highest bidder"
+    },
+    {
+      "word": "ICONOGRAPHY",
+      "clue": "Visual images and symbols in a work of art"
+    },
+    {
+      "word": "AESTHETIC",
+      "clue": "Relating to the appreciation of beauty in art"
+    },
+    {
+      "word": "ARTISAN",
+      "clue": "Skilled craftsperson making objects by hand"
+    },
+    {
+      "word": "PATRON",
+      "clue": "Person who supports artists financially"
+    },
+    {
+      "word": "ATELIER",
+      "clue": "Artist studio or workshop"
+    },
+    {
+      "word": "COGNITION",
+      "clue": "Mental processes of acquiring knowledge"
+    },
+    {
+      "word": "PERCEPTION",
+      "clue": "Process of interpreting sensory information"
+    },
+    {
+      "word": "ATTENTION",
+      "clue": "Concentration on a specific stimulus or task"
+    },
+    {
+      "word": "MEMORY",
+      "clue": "Ability to store and recall information"
+    },
+    {
+      "word": "ENCODING",
+      "clue": "Process of converting information into memory"
+    },
+    {
+      "word": "RETRIEVAL",
+      "clue": "Accessing stored information from memory"
+    },
+    {
+      "word": "CONDITIONING",
+      "clue": "Learning through association of stimuli"
+    },
+    {
+      "word": "CLASSICAL",
+      "clue": "Pavlovian learning pairing neutral and natural stimuli"
+    },
+    {
+      "word": "OPERANT",
+      "clue": "Learning through rewards and punishments"
+    },
+    {
+      "word": "REINFORCEMENT",
+      "clue": "Consequence that strengthens a behavior"
+    },
+    {
+      "word": "PUNISHMENT",
+      "clue": "Consequence that weakens a behavior"
+    },
+    {
+      "word": "EXTINCTION",
+      "clue": "Gradual disappearance of a learned behavior"
+    },
+    {
+      "word": "HABITUATION",
+      "clue": "Decreased response to repeated stimulation"
+    },
+    {
+      "word": "SENSITIZATION",
+      "clue": "Increased response after strong stimulation"
+    },
+    {
+      "word": "SCHEMA",
+      "clue": "Mental framework organizing knowledge and expectations"
+    },
+    {
+      "word": "HEURISTIC",
+      "clue": "Mental shortcut for quick decision making"
+    },
+    {
+      "word": "BIAS",
+      "clue": "Systematic error in thinking or judgment"
+    },
+    {
+      "word": "CONFIRMATION",
+      "clue": "Bias favoring information that supports beliefs"
+    },
+    {
+      "word": "ANCHORING",
+      "clue": "Relying too heavily on the first piece of information"
+    },
+    {
+      "word": "COGNITIVEDISSONANCE",
+      "clue": "Discomfort from holding conflicting beliefs"
+    },
+    {
+      "word": "MOTIVATION",
+      "clue": "Internal drive that initiates and sustains behavior"
+    },
+    {
+      "word": "INTRINSIC",
+      "clue": "Motivation coming from internal satisfaction"
+    },
+    {
+      "word": "EXTRINSIC",
+      "clue": "Motivation driven by external rewards"
+    },
+    {
+      "word": "PERSONALITY",
+      "clue": "Enduring patterns of thoughts, feelings, and behavior"
+    },
+    {
+      "word": "TEMPERAMENT",
+      "clue": "Inborn behavioral and emotional tendencies"
+    },
+    {
+      "word": "NEUROTICISM",
+      "clue": "Trait involving emotional instability and anxiety"
+    },
+    {
+      "word": "EXTRAVERSION",
+      "clue": "Trait involving sociability and assertiveness"
+    },
+    {
+      "word": "INTROVERSION",
+      "clue": "Trait involving reserved and reflective tendencies"
+    },
+    {
+      "word": "CONSCIENTIOUSNESS",
+      "clue": "Trait involving organization and dependability"
+    },
+    {
+      "word": "AGREEABLENESS",
+      "clue": "Trait involving cooperation and compassion"
+    },
+    {
+      "word": "OPENNESS",
+      "clue": "Trait involving curiosity and appreciation of new ideas"
+    },
+    {
+      "word": "EGO",
+      "clue": "Part of the psyche mediating between id and superego"
+    },
+    {
+      "word": "ID",
+      "clue": "Primitive part of the psyche driven by instinct"
+    },
+    {
+      "word": "SUPEREGO",
+      "clue": "Part of the psyche representing moral standards"
+    },
+    {
+      "word": "UNCONSCIOUS",
+      "clue": "Mental processes outside of awareness"
+    },
+    {
+      "word": "SUBCONSCIOUS",
+      "clue": "Mental activity just below conscious awareness"
+    },
+    {
+      "word": "REPRESSION",
+      "clue": "Unconscious blocking of distressing thoughts"
+    },
+    {
+      "word": "PROJECTION",
+      "clue": "Attributing one own feelings to others"
+    },
+    {
+      "word": "RATIONALIZATION",
+      "clue": "Creating logical excuses for unacceptable behavior"
+    },
+    {
+      "word": "SUBLIMATION",
+      "clue": "Channeling unacceptable impulses into acceptable activities"
+    },
+    {
+      "word": "TRANSFERENCE",
+      "clue": "Redirecting feelings about one person onto another"
+    },
+    {
+      "word": "ATTACHMENT",
+      "clue": "Emotional bond between infant and caregiver"
+    },
+    {
+      "word": "DEVELOPMENTAL",
+      "clue": "Relating to growth and change across the lifespan"
+    },
+    {
+      "word": "ADOLESCENCE",
+      "clue": "Period of development between childhood and adulthood"
+    },
+    {
+      "word": "IDENTITY",
+      "clue": "Sense of self and personal continuity"
+    },
+    {
+      "word": "SELFESTEEM",
+      "clue": "Overall sense of self-worth and value"
+    },
+    {
+      "word": "RESILIENCE",
+      "clue": "Ability to recover from adversity"
+    },
+    {
+      "word": "TRAUMA",
+      "clue": "Deeply distressing experience with lasting effects"
+    },
+    {
+      "word": "PHOBIA",
+      "clue": "Irrational and persistent fear of something"
+    },
+    {
+      "word": "OBSESSION",
+      "clue": "Persistent intrusive thought or urge"
+    },
+    {
+      "word": "COMPULSION",
+      "clue": "Repetitive behavior driven by an urge"
+    },
+    {
+      "word": "DELUSION",
+      "clue": "False belief held despite contradictory evidence"
+    },
+    {
+      "word": "HALLUCINATION",
+      "clue": "Perceiving something not actually present"
+    },
+    {
+      "word": "PSYCHOTHERAPY",
+      "clue": "Treatment of mental disorders through talking"
+    },
+    {
+      "word": "BEHAVIORAL",
+      "clue": "Therapy focused on changing observable behaviors"
+    },
+    {
+      "word": "PSYCHOANALYSIS",
+      "clue": "Therapy exploring unconscious conflicts"
+    },
+    {
+      "word": "HUMANISTIC",
+      "clue": "Therapy emphasizing personal growth and potential"
+    },
+    {
+      "word": "MINDFULNESS",
+      "clue": "Awareness of the present moment without judgment"
+    },
+    {
+      "word": "LONGITUDINAL",
+      "clue": "Study following the same subjects over time"
+    },
+    {
+      "word": "BLUEPRINT",
+      "clue": "Detailed technical drawing of a building plan"
+    },
+    {
+      "word": "FACADE",
+      "clue": "Front exterior face of a building"
+    },
+    {
+      "word": "ELEVATION",
+      "clue": "Drawing showing one side of a building"
+    },
+    {
+      "word": "FLOORPLAN",
+      "clue": "Diagram showing room layout from above"
+    },
+    {
+      "word": "SECTION",
+      "clue": "Drawing showing a building cut vertically"
+    },
+    {
+      "word": "CANTILEVER",
+      "clue": "Beam supported at only one end"
+    },
+    {
+      "word": "COLUMN",
+      "clue": "Vertical structural support in a building"
+    },
+    {
+      "word": "PILLAR",
+      "clue": "Upright support, often decorative"
+    },
+    {
+      "word": "ARCH",
+      "clue": "Curved structure spanning an opening"
+    },
+    {
+      "word": "VAULT",
+      "clue": "Arched ceiling or roof structure"
+    },
+    {
+      "word": "DOME",
+      "clue": "Rounded roof resembling half a sphere"
+    },
+    {
+      "word": "BUTTRESS",
+      "clue": "External support reinforcing a wall"
+    },
+    {
+      "word": "LINTEL",
+      "clue": "Horizontal beam over a door or window"
+    },
+    {
+      "word": "TRUSS",
+      "clue": "Framework of beams supporting a roof"
+    },
+    {
+      "word": "JOIST",
+      "clue": "Horizontal beam supporting a floor or ceiling"
+    },
+    {
+      "word": "BEAM",
+      "clue": "Long structural element bearing weight"
+    },
+    {
+      "word": "FOUNDATION",
+      "clue": "Lowest load-bearing part of a structure"
+    },
+    {
+      "word": "FOOTING",
+      "clue": "Base spreading the load of a foundation"
+    },
+    {
+      "word": "PILASTER",
+      "clue": "Flat column attached to a wall surface"
+    },
+    {
+      "word": "CORINTHIAN",
+      "clue": "Greek order with ornate acanthus leaf capitals"
+    },
+    {
+      "word": "DORIC",
+      "clue": "Simplest and oldest Greek architectural order"
+    },
+    {
+      "word": "IONIC",
+      "clue": "Greek order with scroll-shaped volute capitals"
+    },
+    {
+      "word": "PEDIMENT",
+      "clue": "Triangular gable above a portico or doorway"
+    },
+    {
+      "word": "PORTICO",
+      "clue": "Covered entrance with a roof supported by columns"
+    },
+    {
+      "word": "COLONNADE",
+      "clue": "Row of columns supporting a roof structure"
+    },
+    {
+      "word": "ATRIUM",
+      "clue": "Open central hall or courtyard in a building"
+    },
+    {
+      "word": "CLOISTER",
+      "clue": "Covered walkway around an open courtyard"
+    },
+    {
+      "word": "NARTHEX",
+      "clue": "Entrance porch or vestibule of a church"
+    },
+    {
+      "word": "APSE",
+      "clue": "Semicircular recess at the end of a church"
+    },
+    {
+      "word": "TRANSEPT",
+      "clue": "Arms crossing the nave of a church"
+    },
+    {
+      "word": "NAVE",
+      "clue": "Central aisle of a church between columns"
+    },
+    {
+      "word": "BUTTRESSING",
+      "clue": "System of external supports for walls"
+    },
+    {
+      "word": "CORNICE",
+      "clue": "Decorative molding at the top of a wall"
+    },
+    {
+      "word": "FRIEZE",
+      "clue": "Decorative horizontal band on a building"
+    },
+    {
+      "word": "MOLDING",
+      "clue": "Decorative strip along a wall or ceiling edge"
+    },
+    {
+      "word": "BALUSTRADE",
+      "clue": "Row of short posts supporting a railing"
+    },
+    {
+      "word": "BALCONY",
+      "clue": "Platform projecting from an upper floor"
+    },
+    {
+      "word": "MEZZANINE",
+      "clue": "Intermediate floor between main floors"
+    },
+    {
+      "word": "PENTHOUSE",
+      "clue": "Luxury apartment on the top floor of a building"
+    },
+    {
+      "word": "SKYSCRAPER",
+      "clue": "Very tall multi-story urban building"
+    },
+    {
+      "word": "BRUTALISM",
+      "clue": "Architecture using raw exposed concrete"
+    },
+    {
+      "word": "BAUHAUS",
+      "clue": "Influential German school of modernist design"
+    },
+    {
+      "word": "DECONSTRUCTIVISM",
+      "clue": "Architecture with fragmented non-rectilinear forms"
+    },
+    {
+      "word": "GOTHIC",
+      "clue": "Medieval style with pointed arches and vaults"
+    },
+    {
+      "word": "ROMANESQUE",
+      "clue": "Medieval style with round arches and thick walls"
+    },
+    {
+      "word": "NEOCLASSICAL",
+      "clue": "Revival of classical Greek and Roman architecture"
+    },
+    {
+      "word": "ARTDECO",
+      "clue": "Decorative style of the 1920s and 1930s"
+    },
+    {
+      "word": "FUNCTIONALISM",
+      "clue": "Architecture prioritizing purpose over decoration"
+    },
+    {
+      "word": "POSTMODERN",
+      "clue": "Architecture mixing styles with playful elements"
+    },
+    {
+      "word": "SUSTAINABLE",
+      "clue": "Design minimizing environmental impact"
+    },
+    {
+      "word": "GREENBUILDING",
+      "clue": "Structure designed for energy efficiency"
+    },
+    {
+      "word": "INSULATION",
+      "clue": "Material reducing heat transfer in walls"
+    },
+    {
+      "word": "VENTILATION",
+      "clue": "System providing fresh air circulation"
+    },
+    {
+      "word": "HVAC",
+      "clue": "Heating, ventilation, and air conditioning system"
+    },
+    {
+      "word": "ZONING",
+      "clue": "Regulations dividing land for specific uses"
+    },
+    {
+      "word": "SETBACK",
+      "clue": "Required distance between a building and property line"
+    },
+    {
+      "word": "EASEMENT",
+      "clue": "Legal right to use another person land"
+    },
+    {
+      "word": "RENOVATION",
+      "clue": "Restoring or updating an existing building"
+    },
+    {
+      "word": "DEMOLITION",
+      "clue": "Deliberate destruction of a structure"
+    },
+    {
+      "word": "SCAFFOLDING",
+      "clue": "Temporary platform for construction workers"
+    },
+    {
+      "word": "ANTIQUITY",
+      "clue": "Ancient history before the Middle Ages"
+    },
+    {
+      "word": "MEDIEVAL",
+      "clue": "Period between ancient and modern times in Europe"
+    },
+    {
+      "word": "BYZANTINE",
+      "clue": "Eastern Roman Empire lasting until 1453"
+    },
+    {
+      "word": "ENLIGHTENMENT",
+      "clue": "18th century movement emphasizing reason and science"
+    },
+    {
+      "word": "INDUSTRIAL",
+      "clue": "Period of mechanized factory production"
+    },
+    {
+      "word": "REVOLUTION",
+      "clue": "Sudden and fundamental change in political power"
+    },
+    {
+      "word": "COLONIALISM",
+      "clue": "Practice of acquiring and ruling overseas territories"
+    },
+    {
+      "word": "IMPERIALISM",
+      "clue": "Policy of extending a nation power abroad"
+    },
+    {
+      "word": "NATIONALISM",
+      "clue": "Strong identification with one own nation"
+    },
+    {
+      "word": "FEUDALISM",
+      "clue": "Medieval system of landholding and obligations"
+    },
+    {
+      "word": "SERFDOM",
+      "clue": "Condition of peasants bound to a lord land"
+    },
+    {
+      "word": "MANORIALISM",
+      "clue": "Economic system of self-sufficient estates"
+    },
+    {
+      "word": "CRUSADE",
+      "clue": "Medieval military expedition to the Holy Land"
+    },
+    {
+      "word": "INQUISITION",
+      "clue": "Institution prosecuting heresy in medieval Europe"
+    },
+    {
+      "word": "REFORMATION",
+      "clue": "16th century split in the Western Church"
+    },
+    {
+      "word": "COUNTERREFORMATION",
+      "clue": "Catholic response to the Protestant Reformation"
+    },
+    {
+      "word": "ABSOLUTISM",
+      "clue": "System of government with unlimited monarch power"
+    },
+    {
+      "word": "CONSTITUTIONAL",
+      "clue": "Government limited by a fundamental law"
+    },
+    {
+      "word": "DEMOCRACY",
+      "clue": "Government by the people through elected representatives"
+    },
+    {
+      "word": "REPUBLIC",
+      "clue": "State without a hereditary monarch"
+    },
+    {
+      "word": "MONARCHY",
+      "clue": "Government headed by a king or queen"
+    },
+    {
+      "word": "OLIGARCHY",
+      "clue": "Government controlled by a small elite group"
+    },
+    {
+      "word": "TOTALITARIAN",
+      "clue": "Government exercising complete control over society"
+    },
+    {
+      "word": "FASCISM",
+      "clue": "Authoritarian nationalism of early 20th century Europe"
+    },
+    {
+      "word": "COMMUNISM",
+      "clue": "Political system advocating collective ownership"
+    },
+    {
+      "word": "CAPITALISM",
+      "clue": "Economic system based on private ownership"
+    },
+    {
+      "word": "SOCIALISM",
+      "clue": "System advocating social ownership of production"
+    },
+    {
+      "word": "COLDWAR",
+      "clue": "Geopolitical tension between US and USSR after WWII"
+    },
+    {
+      "word": "DECOLONIZATION",
+      "clue": "Process of colonies gaining independence"
+    },
+    {
+      "word": "GLOBALIZATION",
+      "clue": "Increasing worldwide integration of economies"
+    },
+    {
+      "word": "ARCHAEOLOGY",
+      "clue": "Study of human history through excavation"
+    },
+    {
+      "word": "ARTIFACT",
+      "clue": "Object made by humans in the past"
+    },
+    {
+      "word": "PRIMARY",
+      "clue": "Source created during the period being studied"
+    },
+    {
+      "word": "SECONDARY",
+      "clue": "Source analyzing events after they occurred"
+    },
+    {
+      "word": "CHRONOLOGY",
+      "clue": "Arrangement of events in time order"
+    },
+    {
+      "word": "ANACHRONISM",
+      "clue": "Something placed in the wrong historical period"
+    },
+    {
+      "word": "HISTORIOGRAPHY",
+      "clue": "Study of how history is written and interpreted"
+    },
+    {
+      "word": "ANNALS",
+      "clue": "Chronological record of events year by year"
+    },
+    {
+      "word": "CAUSATION",
+      "clue": "Relationship of events as cause and effect in history"
+    },
+    {
+      "word": "CONTINUITY",
+      "clue": "Persistence of patterns over time in history"
+    },
+    {
+      "word": "CHANGE",
+      "clue": "Transformation of conditions over time in history"
+    },
+    {
+      "word": "EMPIRE",
+      "clue": "Group of territories ruled by a single authority"
+    },
+    {
+      "word": "DYNASTY",
+      "clue": "Series of rulers from the same family"
+    },
+    {
+      "word": "TREATY",
+      "clue": "Formal agreement between nations ending conflict"
+    },
+    {
+      "word": "ALLIANCE",
+      "clue": "Agreement between nations for mutual support"
+    },
+    {
+      "word": "ARMISTICE",
+      "clue": "Agreement to stop fighting temporarily"
+    },
+    {
+      "word": "SURRENDER",
+      "clue": "Giving up in a military conflict"
+    },
+    {
+      "word": "GENOCIDE",
+      "clue": "Deliberate destruction of a national or ethnic group"
+    },
+    {
+      "word": "HOLOCAUST",
+      "clue": "Nazi persecution and murder of six million Jews"
+    },
+    {
+      "word": "APARTHEID",
+      "clue": "Former system of racial segregation in South Africa"
+    },
+    {
+      "word": "SUFFRAGE",
+      "clue": "Right to vote in political elections"
+    },
+    {
+      "word": "ABOLITION",
+      "clue": "Movement to end slavery"
+    },
+    {
+      "word": "EMANCIPATION",
+      "clue": "Freeing from legal or social restrictions"
+    },
+    {
+      "word": "MANIFESTO",
+      "clue": "Public declaration of political principles"
+    },
+    {
+      "word": "PROPAGANDA",
+      "clue": "Biased information promoting a political cause"
+    },
+    {
+      "word": "CENSUS",
+      "clue": "Official count of a population"
+    },
+    {
+      "word": "MIGRATION",
+      "clue": "Movement of people from one place to another"
+    },
+    {
+      "word": "DIASPORA",
+      "clue": "Scattering of a people from their homeland"
+    },
+    {
+      "word": "CIVILIZATION",
+      "clue": "Complex society with cities, government, and culture"
+    },
+    {
+      "word": "HERITAGE",
+      "clue": "Valued traditions and monuments from the past"
+    }
+  ]
+}

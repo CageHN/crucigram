@@ -1,0 +1,55 @@
+:root {
+  --bg: #f5f0e8;
+  --bg-dark: #ebe4d6;
+  --surface: #fffdf8;
+  --ink: #1a1a2e;
+  --ink-muted: #5c5c6e;
+  --accent: #c45d3a;
+  --accent-hover: #a84d2f;
+  --accent-light: #f0ddd4;
+  --border: #d4cbb8;
+  --block: #1a1a2e;
+  --cell-active: #fff3ec;
+  --success: #2d6a4f;
+  --success-bg: #d8f3dc;
+  --error: #9b2226;
+  --error-bg: #fde8e8;
+  --shadow: 0 2px 12px rgba(26, 26, 46, 0.08);
+  --radius: 10px;
+  --font-serif: 'Georgia', 'Times New Roman', serif;
+  --font-sans: system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--ink);
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  margin: 0;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+input {
+  font-family: inherit;
+}

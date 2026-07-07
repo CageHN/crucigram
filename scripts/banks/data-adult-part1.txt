@@ -1,0 +1,1088 @@
+cocina|Habitación donde se preparan alimentos
+salón|Estancia principal de la vivienda
+dormitorio|Habitación para descansar por la noche
+baño|Lugar para asearse y ducharse
+balcón|Espacio exterior de un piso
+garaje|Lugar donde se guarda el coche
+sótano|Planta inferior bajo tierra
+ático|Piso superior bajo el tejado
+ascensor|Aparato que sube y baja pisos
+escalera|Conjunto de peldaños entre plantas
+pasillo|Corredor que une habitaciones
+ventana|Abertura con cristal para la luz
+puerta|Elemento que permite entrar y salir
+cerradura|Mecanismo que asegura una puerta
+llave|Objeto que abre la cerradura
+timbre|Dispositivo que avisa de una visita
+interfono|Aparato para hablar con la entrada
+persiana|Elemento que cubre la ventana
+cortina|Tejido que tapa la ventana
+alfombra|Tejido que cubre el suelo
+lámpara|Fuente de luz en una habitación
+bombilla|Componente que emite luz eléctrica
+enchufe|Punto de conexión eléctrica
+interruptor|Mecanismo para encender la luz
+nevera|Electrodoméstico que enfría alimentos
+horno|Aparato para cocinar al calor
+microondas|Horno rápido por ondas
+lavadora|Máquina para lavar ropa
+secadora|Aparo que seca la ropa lavada
+lavavajillas|Máquina que lava los platos
+cafetera|Aparato para preparar café
+tostadora|Electrodoméstico para tostar pan
+batidora|Utensilio que mezcla alimentos
+sartén|Recipiente para freír comida
+olla|Recipiente para cocinar guisos
+cacerola|Olla pequeña con asa
+cuchillo|Utensilio afilado para cortar
+tenedor|Utensilio con dientes para pinchar
+cuchara|Utensilio cóncavo para servir
+plato|Recipiente donde se sirve comida
+vaso|Recipiente para beber líquidos
+taza|Recipiente con asa para infusiones
+botella|Envase para guardar líquidos
+tarro|Recipiente de vidrio con tapa
+bandeja|Superficie para llevar objetos
+mantel|Paño que cubre la mesa
+servilleta|Paño pequeño para la boca
+fregadero|Lavabo de la cocina
+grifo|Válvula de agua del fregadero
+esponja|Material para fregar superficies
+detergente|Producto para lavar platos
+lejía|Producto blanqueador y desinfectante
+escoba|Utensilio para barrer el suelo
+fregona|Utensilio para fregar suelos
+cubo|Recipiente para el agua sucia
+basura|Residuos que se tiran
+papelera|Recipiente para la basura
+reciclaje|Separación de residuos reutilizables
+percha|Gancho para colgar ropa
+armario|Mueble para guardar ropa
+cajón|Compartimento deslizante del mueble
+estantería|Mueble con baldas para libros
+espejo|Superficie que refleja la imagen
+toalla|Paño para secarse el cuerpo
+jabón|Producto para lavar manos o cuerpo
+champú|Producto para lavar el pelo
+gel|Jabón líquido para ducha
+cepillo|Utensilio para pelo o dientes
+pasta|Crema para limpiar los dientes
+peine|Utensilio para desenredar el pelo
+secador|Aparato de aire caliente para pelo
+maquinilla|Aparato para afeitar la barba
+crema|Producto cosmético para la piel
+perfume|Fragancia que se aplica al cuerpo
+medicina|Producto para tratar enfermedades
+termómetro|Instrumento que mide la temperatura
+tirita|Apósito pequeño para heridas
+farmacia|Establecimiento que vende medicinas
+hospital|Centro médico para enfermos graves
+clínica|Centro de atención sanitaria
+médico|Profesional que trata enfermedades
+enfermera|Profesional que cuida pacientes
+dentista|Profesional que cuida los dientes
+cita|Hora concertada con un profesional
+receta|Indicación médica para un medicamento
+análisis|Examen de sangre u otros fluidos
+radiografía|Imagen interna del cuerpo
+vacuna|Inyección que previene enfermedades
+dolor|Sensación desagradable en el cuerpo
+fiebre|Temperatura corporal elevada
+tos|Expulsión brusca de aire por garganta
+resfriado|Enfermedad leve de vías respiratorias
+gripe|Enfermedad viral con fiebre
+alergia|Reacción del cuerpo a una sustancia
+herida|Lesión en la piel o tejido
+fractura|Rotura de un hueso
+esguince|Lesión de un ligamento
+operación|Intervención quirúrgica en el cuerpo
+reposo|Descanso prescrito por el médico
+dieta|Plan alimenticio controlado
+ejercicio|Actividad física para la salud
+gimnasio|Lugar para hacer deporte interior
+piscina|Instalación con agua para nadar
+carrera|Competición de velocidad a pie
+maratón|Carrera de larga distancia
+entrenador|Persona que prepara deportistas
+árbitro|Juez que aplica las reglas
+portería|Meta donde se marca gol
+cancha|Superficie donde se juega
+equipo|Conjunto de jugadores del mismo club
+jugador|Persona que participa en un deporte
+afición|Seguidores de un equipo
+campeonato|Competición entre varios equipos
+medalla|Premio metálico por un logro
+trofeo|Premio por ganar una competición
+récord|Marca máxima alcanzada
+entrenamiento|Sesión de práctica deportiva
+calentamiento|Ejercicios previos al esfuerzo
+lesión|Daño físico durante el deporte
+árbitro|Oficial que dirige el partido
+empate|Resultado igual para ambos equipos
+victoria|Resultado favorable al ganador
+derrota|Resultado desfavorable al perdedor
+gol|Punto anotado en fútbol
+penalti|Tiro desde el punto de penal
+córner|Tiro de esquina en fútbol
+fuera|Situación de balón fuera del campo
+tarjeta|Advertencia o expulsión del árbitro
+banquillo|Asientos de suplentes y entrenador
+estadio|Gran instalación deportiva al aire libre
+pabellón|Recinto cubierto para deportes
+raqueta|Implemento para golpear la pelota
+red|Barrera que divide la pista
+pelota|Objeto esférico del juego
+balón|Esfera grande de deporte
+guante|Protección de la mano en deporte
+casco|Protección rígida para la cabeza
+rodillera|Protección para la rodilla
+tobillera|Protección para el tobillo
+chándal|Ropa cómoda para entrenar
+zapatilla|Calzado deportivo ligero
+camiseta|Prenda superior del uniforme
+pantalón corto|Prenda deportiva para piernas
+medias|Prenda que cubre pie y pierna
+bufanda|Prenda larga para el cuello
+gorro|Prenda para cubrir la cabeza
+gafas|Accesorio para proteger o ver mejor
+paraguas|Objeto para protegerse de lluvia
+abrigo|Prenda gruesa para el frío
+chaqueta|Prenda exterior ligera
+jersey|Prenda de punto para el torso
+camisa|Prenda con cuello y botones
+corbata|Accesorio estrecho para el cuello
+cinturón|Banda que sujeta el pantalón
+calcetín|Prenda que cubre pie y tobillo
+zapato|Calzado cerrado para diario
+bota|Calzado alto y resistente
+sandalia|Calzado abierto de verano
+talla|Medida del tamaño de la ropa
+moda|Tendencias en vestimenta
+tienda|Establecimiento que vende productos
+comercio|Actividad de compra y venta
+mercado|Lugar donde se venden productos
+supermercado|Tienda grande de alimentación
+centro comercial|Conjunto de muchas tiendas
+escaparate|Vitrina visible desde la calle
+oferta|Precio reducido temporalmente
+descuento|Rebaja sobre el precio habitual
+rebaja|Reducción de precio en tiendas
+precio|Cantidad de dinero de un producto
+coste|Valor económico de algo
+factura|Documento de pago de una compra
+ticket|Comprobante de compra pequeña
+caja|Lugar donde se paga en tienda
+cajero|Persona o máquina que cobra
+efectivo|Dinero en monedas y billetes
+moneda|Pieza metálica de dinero
+billete|Papel moneda de curso legal
+tarjeta|Medio de pago bancario plástico
+banco|Entidad financiera de depósitos
+cuenta|Registro de dinero en un banco
+cajero automático|Máquina para sacar dinero
+préstamo|Dinero prestado que se devuelve
+hipoteca|Préstamo para comprar vivienda
+interés|Coste adicional de un préstamo
+ahorro|Dinero guardado para el futuro
+inversión|Colocación de dinero para ganar
+bolsa|Mercado de compraventa de acciones
+acción|Participación en una empresa cotizada
+empresa|Organización que produce o vende
+negocio|Actividad comercial particular
+oficina|Lugar de trabajo administrativo
+jefe|Persona que dirige un equipo
+empleado|Persona que trabaja por cuenta ajena
+compañero|Colega de trabajo o estudio
+reunión|Encuentro laboral para tratar asuntos
+proyecto|Plan de trabajo con objetivos
+plazo|Tiempo límite para terminar algo
+informe|Documento con datos y conclusiones
+contrato|Acuerdo legal entre partes
+nómina|Pago mensual del salario
+salario|Remuneración por el trabajo
+sueldo|Dinero que recibe un trabajador
+vacaciones|Período de descanso laboral
+jornada|Tiempo diario de trabajo
+horario|Distribución de horas de trabajo
+turno|Período de trabajo asignado
+baja|Permiso por enfermedad o maternidad
+despido|Fin del contrato por la empresa
+entrevista|Conversación para evaluar candidatos
+currículum|Documento con experiencia laboral
+formación|Proceso de aprendizaje profesional
+curso|Programa de enseñanza con duración
+taller|Sesión práctica de aprendizaje
+seminario|Encuentro especializado de estudio
+universidad|Institución de educación superior
+facultad|Centro universitario por áreas
+carrera|Estudios superiores especializados
+titulación|Certificado oficial de estudios
+máster|Posgrado de especialización
+doctorado|Estudios de investigación avanzada
+profesor|Docente de educación superior
+alumno|Persona que recibe enseñanza
+examen|Prueba para evaluar conocimientos
+nota|Calificación numérica de un examen
+aprobado|Resultado suficiente para pasar
+suspenso|Resultado insuficiente en examen
+beca|Ayuda económica para estudiar
+matrícula|Inscripción oficial en un centro
+asignatura|Materia que se estudia
+temario|Contenidos de una asignatura
+deberes|Tareas escolares para casa
+biblioteca|Lugar con libros para consulta
+archivo|Depósito de documentos históricos
+diccionario|Libro de definiciones de palabras
+enciclopedia|Obra con información general
+atlas|Libro de mapas geográficos
+periódico|Publicación diaria de noticias
+revista|Publicación periódica temática
+noticia|Información reciente de actualidad
+artículo|Texto publicado sobre un tema
+editorial|Opinión oficial de un periódico
+reportaje|Texto periodístico detallado
+entrevista|Conversación publicada con alguien
+corresponsal|Periodista en el extranjero
+redacción|Equipo que prepara noticias
+titular|Frase principal de una noticia
+prensa|Conjunto de medios escritos
+televisión|Medio audiovisual de difusión
+radio|Medio de comunicación sonora
+internet|Red global de información digital
+página|Documento accesible en la web
+correo|Mensaje enviado por email
+contraseña|Clave secreta de acceso
+usuario|Identidad de acceso a un sistema
+red social|Plataforma para compartir contenido
+mensaje|Comunicación escrita breve
+videollamada|Conversación con imagen en línea
+aplicación|Programa instalado en móvil
+ordenador|Equipo informático de sobremesa
+portátil|Ordenador que se puede transportar
+tableta|Dispositivo táctil intermedio
+móvil|Teléfono inteligente portátil
+pantalla|Superficie donde se ve la imagen
+teclado|Dispositivo con teclas para escribir
+ratón|Dispositivo para mover el cursor
+impresora|Máquina que imprime en papel
+escáner|Aparato que digitaliza documentos
+archivo|Fichero guardado en disco
+carpeta|Contenedor de archivos digitales
+copia|Duplicado de un archivo
+nube|Almacenamiento remoto de datos
+actualización|Versión nueva de un programa
+virus|Programa malicioso informático
+copia de seguridad|Respaldo de datos importantes
+contraseña|Combinación secreta de acceso
+privacidad|Protección de datos personales
+cifrado|Técnica para proteger información
+wifi|Conexión inalámbrica a internet
+router|Dispositivo que distribuye la red
+cable|Conductor para transmitir señal
+batería|Fuente de energía portátil
+cargador|Dispositivo que recarga baterías
+enchufe|Punto de conexión a la red eléctrica
+energía|Capacidad para realizar trabajo
+electricidad|Forma de energía en la red
+gas|Combustible usado en cocinas
+agua|Líquido esencial para la vida
+factura|Documento de cobro de suministros
+contador|Aparato que mide consumo
+consumo|Cantidad de recurso utilizado
+ahorro|Reducción del gasto o uso
+sostenible|Que cuida el medio ambiente
+reciclaje|Reutilización de materiales usados
+contenedor|Depósito para residuos separados
+contaminación|Daño al medio ambiente
+medio ambiente|Entorno natural que nos rodea
+clima|Condiciones atmosféricas de una zona
+tiempo|Estado atmosférico del momento
+previsión|Predicción del tiempo meteorológico
+temperatura|Grado de calor o frío
+humedad|Cantidad de vapor en el aire
+viento|Movimiento del aire atmosférico
+brisa|Viento suave y agradable
+tormenta|Fenómeno con lluvia y relámpagos
+trueno|Sonido de la descarga eléctrica
+relámpago|Destello eléctrico en la tormenta
+granizo|Precipitación de bolas de hielo
+niebla|Nube baja que reduce visibilidad
+helada|Formación de hielo por frío intenso
+sequía|Período prolongado sin lluvia
+inundación|Exceso de agua que cubre terreno
+terremoto|Sacudida violenta de la tierra
+volcán|Montaña que expulsa lava
+tsunami|Ola gigante tras un terremoto marino
+huracán|Ciclón tropical muy intenso
+tornado|Columna de aire giratoria destructiva
+ecosistema|Conjunto de seres vivos y entorno
+especie|Tipo concreto de ser vivo
+hábitat|Lugar donde vive una especie
+extinción|Desaparición total de una especie
+conservación|Protección de la naturaleza
+parque natural|Zona protegida por su valor
+reserva|Área protegida para fauna o flora
+deforestación|Destrucción masiva de bosques
+reforestación|Plantación de árboles nuevos
+contaminación|Presencia de sustancias dañinas
+emisiones|Sustancias liberadas a la atmósfera
+efecto invernadero|Calentamiento por gases
+cambio climático|Alteración global del clima
+energía solar|Electricidad obtenida del sol
+energía eólica|Electricidad del viento
+panel|Dispositivo que captura energía solar
+molino|Estructura que aprovecha el viento
+biodiversidad|Variedad de vida en un lugar
+fauna|Conjunto de animales de una zona
+flora|Conjunto de plantas de una zona
+migración|Desplazamiento estacional de animales
+hibernación|Descanso invernal de algunos animales
+depredador|Animal que caza a otros
+presa|Animal cazado por un depredador
+cadena alimenticia|Relación de comer y ser comido
+fotosíntesis|Proceso de las plantas con luz
+polinización|Transporte de polen entre flores
+abeja|Insecto clave para polinizar flores
+colmena|Lugar donde viven las abejas
+miel|Producto dulce de las abejas
+cera|Sustancia producida por abejas
+granja|Explotación agrícola o ganadera
+cultivo|Plantación de un producto agrícola
+cosecha|Recolección de productos del campo
+siembra|Acción de plantar semillas
+regar|Añadir agua a las plantas
+abono|Sustancia que nutre el suelo
+pesticida|Producto contra plagas agrícolas
+tractor|Máquina agrícola de gran potencia
+cosechadora|Máquina que recoge el cereal
+granero|Edificio para guardar grano
+establo|Edificio para animales de granja
+corral|Recinto para ganado
+pasto|Hierba donde pastan animales
+ganado|Animales criados en explotación
+rebaño|Grupo de ovejas o cabras
+manada|Grupo de animales que van juntos
+veterinario|Médico especializado en animales
+vacunación|Inyección preventiva en animales
+matadero|Lugar donde se sacrifica ganado
+carnicería|Tienda que vende carne
+pescadería|Tienda que vende pescado fresco
+panadería|Tienda que vende pan recién hecho
+pastelería|Tienda de dulces y pasteles
+frutería|Tienda especializada en frutas
+verdulería|Tienda de hortalizas frescas
+charcutería|Tienda de embutidos y quesos
+ultramarinos|Tienda de productos variados
+mercado|Plaza donde se venden alimentos
+puesto|Lugar de venta en un mercado
+vendedor|Persona que ofrece productos
+cliente|Persona que compra un producto
+cola|Fila de personas esperando
+atención|Servicio prestado al cliente
+queja|Reclamación por un mal servicio
+devolución|Entrega de producto para reembolso
+garantía|Compromiso de reparación o cambio
+envío|Transporte de un pedido al destino
+paquete|Bulto preparado para enviar
+mensajería|Servicio de entrega rápida
+repartidor|Persona que entrega pedidos
+dirección|Datos para localizar un lugar
+código postal|Número que identifica una zona
+mapa|Representación gráfica del territorio
+brújula|Instrumento que indica el norte
+ruta|Camino planificado hacia un destino
+carretera|Vía para circular con vehículos
+autopista|Carretera rápida de gran capacidad
+rotonda|Intersección circular de calles
+semáforo|Señal luminosa que regula tráfico
+señal|Indicación para conductores o peatones
+peatón|Persona que camina por la acera
+acera|Zona lateral para caminar
+paso de cebra|Cruce señalizado para peatones
+aparcamiento|Lugar para dejar el vehículo
+multa|Sanción económica por infracción
+carnet|Documento que autoriza a conducir
+conductor|Persona que maneja un vehículo
+pasajero|Persona que viaja sin conducir
+volante|Dispositivo para dirigir el coche
+freno|Mecanismo para detener el vehículo
+acelerador|Pedal que aumenta la velocidad
+embrague|Pedal para cambiar de marcha
+motor|Mecanismo que impulsa el vehículo
+rueda|Elemento circular que gira
+neumático|Cubierta de goma de la rueda
+gasolina|Combustible común para coches
+diésel|Combustible usado en muchos coches
+gasolinera|Estación de servicio de combustible
+taller|Mecánica donde se repara el coche
+revisión|Comprobación periódica del vehículo
+avería|Fallo mecánico del vehículo
+grúa|Vehículo para remolcar coches
+seguro|Contrato que cubre daños del vehículo
+matrícula|Placa identificativa del coche
+itv|Inspección técnica obligatoria del coche
+cinturón|Elemento de seguridad en el coche
+airbag|Bolsa de seguridad en accidentes
+navegador|Sistema que indica la ruta
+tráfico|Circulación de vehículos en vías
+atasco|Congestión que frena la circulación
+desvío|Ruta alternativa por obras o corte
+obra|Trabajo que altera la vía temporalmente
+autobús|Transporte público por carretera
+metro|Tren subterráneo urbano
+tranvía|Tren ligero por la ciudad
+tren|Vehículo que circula por vías férreas
+estación|Lugar de parada de tren o autobús
+andén|Plataforma donde suben pasajeros
+billete|Documento que autoriza un viaje
+abono|Pase de transporte por período
+horario|Tabla con salidas y llegadas
+retraso|Llegada más tarde de lo previsto
+cancelación|Anulación de un servicio previsto
+equipaje|Maletas y bolsas del viajero
+maleta|Contenedor rígido para ropa de viaje
+mochila|Bolsa con correas para la espalda
+pasaporte|Documento para viajar al extranjero
+visado|Permiso para entrar en un país
+aduana|Control de mercancías en frontera
+frontera|Límite entre dos países
+aeropuerto|Instalación para salida de aviones
+pista|Superficie donde despegan aviones
+terminal|Edificio principal del aeropuerto
+facturación|Entrega de equipaje antes del vuelo
+embarque|Subida al avión por la puerta
+vuelo|Trayecto realizado en avión
+piloto|Profesional que conduce el avión
+azafata|Tripulante que atiende pasajeros
+turbulencia|Movimiento brusco del avión
+aterrizaje|Maniobra de llegada al suelo
+despegue|Maniobra de salida del suelo
+retraso|Demora en la hora de salida
+conexión|Escala para cambiar de vuelo
+hotel|Establecimiento de alojamiento turístico
+hostal|Alojamiento económico para viajeros
+reserva|Contratación previa de habitación
+recepción|Mostrador de entrada del hotel
+habitación|Estancia alquilada en un hotel
+llave|Objeto para abrir la habitación
+desayuno|Primera comida incluida en hotel
+limpieza|Servicio de arreglo de la habitación
+toalla|Paño que deja el hotel en baño
+cama|Mobiliario para dormir en hotel
+almohada|Cojín blando para la cabeza
+sábana|Tela que cubre el colchón
+manta|Cobija para abrigarse al dormir
+minibar|Nevera pequeña en la habitación
+caja fuerte|Compartimento seguro para objetos
+turista|Persona que viaja por ocio
+guía|Persona que explica lugares turísticos
+excursión|Visita organizada a un lugar
+monumento|Edificio o lugar de valor histórico
+museo|Lugar donde se exhiben obras o piezas
+exposición|Muestra temporal de objetos o arte
+entrada|Billete para acceder a un recinto
+cola|Fila de espera para comprar entradas
+audioguía|Explicación grabada para visitantes
+recuerdo|Objeto comprado de un viaje
+postal|Tarjeta ilustrada para enviar
+fotografía|Imagen capturada de un lugar
+cámara|Aparato para tomar fotografías
+trípode|Soporte de tres patas para cámara
+paisaje|Vista amplia del entorno natural
+playa|Orilla de arena junto al mar
+montaña|Gran elevación del terreno
+valle|Depresión entre montañas
+río|Corriente de agua dulce
+lago|Gran masa de agua continental
+isla|Tierra rodeada completamente de agua
+península|Tierra rodeada de agua salvo un lado
+costa|Franja de tierra junto al mar
+acantilado|Pared rocosa junto al mar
+cueva|Hueco natural en roca o montaña
+bosque|Gran extensión de árboles
+selva|Bosque tropical muy denso
+desierto|Zona árida con poca vegetación
+pradera|Extensión de hierba sin árboles
+volcán|Montaña que puede expulsar lava
+glaciar|Masa de hielo que se desplaza
+cascada|Caída de agua desde altura
+manantial|Fuente natural de agua
+oasis|Lugar con agua en el desierto
+continente|Gran masa de tierra emergida
+océano|Gran extensión de agua salada
+mar|Masa de agua salada menor que océano
+golfo|Entrada amplia del mar en la costa
+bahía|Entrada protegida del mar
+estrecho|Paso estrecho entre dos masas de agua
+archipiélago|Conjunto de islas cercanas
+capital|Ciudad principal de un país
+provincia|División territorial dentro de país
+municipio|Ayuntamiento y su territorio
+barrio|Zona urbana de un municipio
+plaza|Espacio público abierto en ciudad
+calle|Vía urbana para circular
+avenida|Calle amplia y principal
+peatonal|Calle reservada solo a caminar
+farola|Poste con luz en la calle
+banco|Asiento público en parques o plazas
+fuente|Estructura con agua decorativa
+estatua|Escultura de figura en espacio público
+ayuntamiento|Edificio del gobierno municipal
+gobierno|Órgano que dirige un estado
+presidente|Máxima autoridad de un estado
+ministro|Miembro del gobierno con cartera
+parlamento|Cámara de representantes políticos
+ley|Norma obligatoria aprobada por estado
+constitución|Ley fundamental de un país
+elección|Proceso para elegir representantes
+voto|Manifestación de preferencia electoral
+ciudadano|Persona con derechos políticos
+derecho|Facultad reconocida por la ley
+deber|Obligación moral o legal
+justicia|Sistema que aplica las leyes
+tribunal|Órgano que juzga conflictos legales
+juez|Profesional que dicta sentencias
+abogado|Profesional que defiende o asesora
+fiscal|Representante de la acusación pública
+juicio|Proceso legal ante un tribunal
+sentencia|Resolución final de un juicio
+testigo|Persona que declara lo que vio
+prueba|Elemento que demuestra un hecho
+delito|Acción prohibida y sancionada por ley
+multa|Sanción económica por infracción
+cárcel|Centro de privación de libertad
+policía|Cuerpo que mantiene el orden público
+comisaría|Oficina local de la policía
+denuncia|Comunicación formal de un delito
+seguridad|Protección de personas y bienes
+alarma|Sistema que avisa de intrusión
+vigilante|Persona que protege un recinto
+incendio|Fuego fuera de control destructivo
+bombero|Profesional que apaga incendios
+emergencia|Situación urgente que requiere ayuda
+ambulancia|Vehículo para trasladar enfermos
+rescate|Operación para salvar a alguien
+evacuación|Salida organizada por peligro
+siniestro|Accidente con daños importantes
+seguro|Contrato que cubre riesgos económicos
+póliza|Documento de un contrato de seguro
+siniestro|Hecho cubierto por la póliza
+indemnización|Pago por daños cubiertos
+herencia|Bienes recibidos tras una muerte
+testamento|Documento con últimas voluntades
+notario|Profesional que da fe de documentos
+contrato|Acuerdo con fuerza legal entre partes
+alquiler|Pago por uso temporal de inmueble
+inquilino|Persona que alquila una vivienda
+propietario|Persona dueña de un inmueble
+hipoteca|Préstamo con garantía de vivienda
+comunidad|Gastos compartidos del edificio
+reforma|Obra para mejorar una vivienda
+pintura|Capa de color sobre paredes
+fontanero|Profesional que repara tuberías
+electricista|Profesional de instalaciones eléctricas
+carpintero|Profesional que trabaja la madera
+albañil|Profesional de obra y construcción
+obra|Trabajo de construcción o reforma
+andamio|Estructura temporal para trabajar alto
+cemento|Material que une ladrillos y piedras
+ladrillo|Pieza rectangular de construcción
+hormigón|Mezcla resistente de obra
+viga|Elemento horizontal que soporta peso
+columna|Elemento vertical de soporte
+cimiento|Base estructural de un edificio
+tejado|Cubierta superior de un edificio
+canalón|Conducto que recoge agua de lluvia
+chimenea|Conducto por donde sale el humo
+calefacción|Sistema que calienta la vivienda
+aire acondicionado|Sistema que enfría el ambiente
+aislamiento|Material que reduce pérdida térmica
+ventilación|Renovación del aire interior
+humedad|Exceso de agua en paredes o aire
+moho|Hongo que aparece con humedad
+plaga|Presencia nociva de insectos o roedores
+fumigación|Tratamiento contra plagas
+jardín|Espacio exterior con plantas en casa
+césped|Hierba corta del jardín
+riego|Sistema para regar plantas
+maceta|Recipiente para plantas pequeñas
+tijeras|Herramienta para podar plantas
+rastrillo|Herramienta para recoger hojas
+manguera|Tubo flexible para regar
+barbacoa|Aparato para asar al aire libre
+terraza|Espacio exterior de una vivienda
+vecino|Persona que vive cerca de tu casa
+comunidad|Relación entre vecinos de un edificio
+ruido molesto|Sonido que perturba la convivencia
+fiesta|Celebración con música y gente
+invitación|Llamada a asistir a un evento
+celebración|Acto festivo por una ocasión
+cumpleaños|Aniversario del día de nacimiento
+aniversario|Celebración de años de un hecho
+boda|Ceremonia de matrimonio
+matrimonio|Unión legal de dos personas
+novio|Hombre que va a casarse
+novia|Mujer que va a casarse
+anillo|Joya circular simbólica
+alianza|Anillo de matrimonio
+testigo|Persona que acompaña en ceremonia
+banquete|Comida festiva de celebración
+brindis|Gesto de beber por alguien
+regalo|Objeto dado por afecto o celebración
+envoltorio|Papel o caja que cubre un regalo
+tarjeta|Papel con mensaje de felicitación
+sorpresa|Algo inesperado y agradable
+agradecimiento|Expresión de gratitud sincera
+disculpa|Reconocimiento de un error propio
+perdón|Acto de excusar una falta
+reconciliación|Restablecimiento de buena relación
+confianza|Creencia en la honestidad ajena
+honestidad|Cualidad de decir la verdad
+sinceridad|Expresión genuina de lo que se piensa
+respeto|Consideración hacia otras personas
+tolerancia|Aceptación de diferencias ajenas
+empatía|Capacidad de comprender al otro
+solidaridad|Apoyo desinteresado a quien lo necesita
+generosidad|Disposición a dar sin esperar
+egoísmo|Actitud de pensar solo en uno
+envidia|Malestar por el bien ajeno
+celos|Miedo a perder afecto o atención
+orgullo|Satisfacción por un logro propio
+humildad|Reconocimiento de limitaciones propias
+paciencia|Capacidad de esperar sin enfadarse
+impaciencia|Falta de tolerancia a la espera
+calma|Estado de tranquilidad interior
+estrés|Tensión por exigencias o presión
+ansiedad|Preocupación intensa y persistente
+miedo|Emoción ante un peligro percibido
+valentía|Capacidad de afrontar el miedo
+esperanza|Confianza en algo bueno futuro
+ilusión|Entusiasmo por algo que se desea
+decepción|Sentimiento tras una expectativa fallida
+nostalgia|Añoranza de tiempos pasados
+soledad|Sensación de estar solo
+compañía|Presencia agradable de otra persona
+amistad|Relación afectiva entre amigos
+cariño|Afecto tierno hacia alguien
+amor|Sentimiento profundo de afecto
+enamoramiento|Estado inicial de amor intenso
+pareja|Dos personas en relación sentimental
+ruptura|Fin de una relación de pareja
+reconciliación|Vuelta a la armonía tras conflicto
+familia|Grupo unido por parentesco o afecto
+hijo|Descendiente directo de una persona
+hija|Descendiente femenina directa
+padre|Progenitor masculino
+madre|Progenitora femenina
+abuelo|Padre del padre o de la madre
+abuela|Madre del padre o de la madre
+nieto|Hijo del hijo o de la hija
+tío|Hermano del padre o de la madre
+tía|Hermana del padre o de la madre
+primo|Hijo de tío o tía
+prima|Hija de tío o tía
+suegro|Padre del cónyuge
+suegra|Madre del cónyuge
+cuñado|Hermano del cónyuge
+cuñada|Hermana del cónyuge
+yerno|Marido de la hija
+nuera|Esposa del hijo
+padrino|Compadre en bautizo o confirmación
+madrina|Comadre en bautizo o confirmación
+ahijado|Persona con padrino o madrina
+pariente|Persona emparentada contigo
+genealogía|Estudio del origen familiar
+apellido|Nombre heredado de la familia
+nombre|Palabra que identifica a una persona
+segundo nombre|Nombre adicional personal
+sobrenombre|Nombre informal o apodo
+apodo|Nombre cariñoso o burlón
+edad|Años cumplidos de una persona
+nacimiento|Momento en que alguien nace
+infancia|Etapa de vida de niño pequeño
+adolescencia|Etapa entre infancia y adultez
+juventud|Etapa de vida joven y activa
+adultez|Etapa de madurez plena
+vejez|Etapa avanzada de la vida
+jubilación|Retiro del trabajo por edad
+pensión|Ingreso tras jubilarse
+memoria|Capacidad de recordar experiencias
+recuerdo|Imagen guardada en la memoria
+olvido|Pérdida de algo recordado
+sueño|Estado de descanso inconsciente
+pesadilla|Sueño angustioso y desagradable
+insomnio|Dificultad para conciliar el sueño
+despertador|Reloj que suena para despertar
+rutina|Secuencia habitual de actividades
+hábito|Conducta repetida con frecuencia
+costumbre|Práctica tradicional o habitual
+tradición|Costumbre transmitida generación a generación
+cultura|Conjunto de valores y costumbres
+idioma|Lengua hablada por un pueblo
+acento|Forma particular de pronunciar
+dialecto|Variante regional de un idioma
+traducción|Paso de un idioma a otro
+intérprete|Persona que traduce oralmente
+traductor|Persona que traduce textos escritos
+gramática|Conjunto de reglas de un idioma
+ortografía|Normas de escritura correcta
+vocabulario|Conjunto de palabras de un idioma
+sinónimo|Palabra con significado parecido
+antónimo|Palabra con significado opuesto
+definición|Explicación del significado
+significado|Idea que expresa una palabra
+contexto|Entorno que aclara el sentido
+metáfora|Figura que compara de forma implícita
+símil|Comparación explícita entre cosas
+ironía|Decir lo contrario con intención
+humor|Capacidad de provocar risa
+chiste|Historia breve con final gracioso
+risa|Expresión audible de alegría
+sonrisa|Expresión facial de simpatía
+llanto|Expresión de tristeza con lágrimas
+abrazo|Gesto de afecto con los brazos
+beso|Gesto de afecto con los labios
+saludo|Gesto o palabra al encontrarse
+despedida|Gesto o palabra al irse
+cortesía|Trato educado y respetuoso
+educación|Formación y buenos modales
+modales|Normas de comportamiento social
+formalidad|Rigor en el trato protocolario
+informalidad|Trato relajado y cercano
+reunión|Encuentro de varias personas
+conversación|Intercambio oral de ideas
+debate|Discusión organizada de opiniones
+acuerdo|Resolución aceptada por las partes
+desacuerdo|Opinión contraria entre personas
+negociación|Diálogo para alcanzar un acuerdo
+compromiso|Obligación asumida voluntariamente
+promesa|Palabra de cumplir algo futuro
+mentira|Afirmación que no es verdad
+verdad|Lo que corresponde a la realidad
+secreto|Información que no se revela
+confidencial|Información que debe protegerse
+rumor|Noticia no confirmada que circula
+noticia|Información de actualidad difundida
+escándalo|Hecho que causa gran revuelo
+reputación|Opinión general sobre alguien
+prestigio|Reconocimiento por mérito o calidad
+fama|Notoriedad conocida por muchos
+anonimato|Condición de no ser identificado
+privacidad|Derecho a mantener datos personales
+intimidad|Espacio personal reservado
+confianza|Creencia en la lealtad ajena
+traición|Ruptura de la confianza depositada
+lealtad|Fidelidad a persona o principio
+fidelidad|Constancia en compromisos afectivos
+infidelidad|Quebrantamiento de fidelidad
+celo|Interés intenso por algo o alguien
+pasión|Emoción muy intensa hacia algo
+entusiasmo|Gran interés y energía positiva
+motivación|Impulso interno para actuar
+inspiración|Estímulo creativo o emocional
+creatividad|Capacidad de crear cosas nuevas
+imaginación|Facultad de formar ideas mentales
+curiosidad|Deseo de saber o descubrir
+conocimiento|Conjunto de saber adquirido
+sabiduría|Conocimiento profundo y reflexivo
+experiencia|Conocimiento adquirido con la práctica
+aprendizaje|Proceso de adquirir conocimiento
+enseñanza|Transmisión de conocimiento a otros
+error|Acción o idea incorrecta
+acierto|Decisión o respuesta correcta
+mejora|Cambio que hace algo mejor
+progreso|Avance hacia un objetivo
+retroceso|Pérdida de avance conseguido
+éxito|Resultado favorable y destacado
+fracaso|Resultado no conseguido
+oportunidad|Circunstancia favorable para actuar
+riesgo|Posibilidad de resultado negativo
+decisión|Elección entre varias opciones
+consecuencia|Efecto de una acción tomada
+responsabilidad|Obligación de responder por algo
+compromiso|Implicación seria con una causa
+esfuerzo|Trabajo intenso para lograr algo
+perseverancia|Constancia pese a dificultades
+disciplina|Orden y constancia en el comportamiento
+organización|Orden sistemático de tareas
+planificación|Diseño previo de acciones
+objetivo|Meta que se quiere alcanzar
+meta|Fin deseado de un esfuerzo
+prioridad|Asunto que debe atenderse primero
+plazo|Tiempo máximo para completar algo
+urgencia|Necesidad de actuar de inmediato
+calendario|Registro organizado de fechas
+agenda|Plan de actividades por días
+cita|Encuentro concertado con hora
+recordatorio|Aviso para no olvidar algo
+olvido|No conservar algo en la memoria
+atención|Concentración en lo que se hace
+distracción|Algo que aparta la concentración
+concentración|Foco mental en una tarea
+productividad|Cantidad de trabajo útil realizado
+eficiencia|Buen resultado con pocos recursos
+calidad|Grado de excelencia de algo
+defecto|Imperfección o fallo de un producto
+reclamación|Queja formal por un problema
+solución|Respuesta que resuelve un problema
+alternativa|Opción distinta a la principal
+elección|Acto de escoger entre opciones
+preferencia|Opción que se gusta más
+gusto|Sensación agradable o preferencia
+disgusto|Sensación desagradable o enfado
+opinión|Juicio personal sobre algo
+criterio|Capacidad de juzgar con fundamento
+juicio|Valoración o evaluación de algo
+prejuicio|Opinión previa sin fundamento
+estereotipo|Imagen simplificada de un grupo
+diversidad|Variedad de personas o ideas
+inclusión|Integración de todos sin exclusión
+discriminación|Trato injusto por diferencia
+igualdad|Trato justo sin distinciones
+libertad|Facultad de actuar sin coacción
+justicia|Principio de dar a cada uno lo suyo
+dignidad|Valor inherente de cada persona
+derechos humanos|Garantías básicas de toda persona
+deber cívico|Obligación con la comunidad
+participación|Implicación en asuntos comunes
+voluntariado|Trabajo desinteresado por ayudar
+ONG|Organización sin ánimo de lucro social
+caridad|Ayuda gratuita a quien lo necesita
+donación|Entrega gratuita de dinero o bienes
+solidaridad|Apoyo mutuo en momentos difíciles
+crisis|Situación grave y difícil
+conflicto|Enfrentamiento entre intereses
+paz|Ausencia de guerra o violencia
+guerra|Conflicto armado entre estados
+armisticio|Acuerdo temporal para cesar fuego
+tratado|Acuerdo formal entre naciones
+diplomacia|Gestión política entre países
+embajada|Representación de un país en otro
+embajador|Representante oficial de un estado
+frontera|Límite territorial entre países
+inmigración|Entrada de personas a otro país
+emigración|Salida de personas de su país
+refugiado|Persona que huye de conflicto o persecución
+asilo|Protección concedida a refugiado
+ciudadanía|Condición jurídica de nacional
+nacionalidad|Pertenencia legal a un estado
+pasaporte|Documento para viajar internacionalmente
+identidad|Conjunto de rasgos que definen a alguien
+cultura|Patrimonio compartido de un pueblo
+patrimonio|Bienes culturales o históricos
+tradición oral|Relatos transmitidos de viva voz
+folclore|Conjunto de tradiciones populares
+fiesta popular|Celebración tradicional de un pueblo
+procesión|Desfile religioso o tradicional
+carnaval|Fiesta popular antes de Cuaresma
+Semana Santa|Celebración religiosa de primavera
+Navidad|Fiesta cristiana de diciembre
+Año Nuevo|Celebración del primero de enero
+Reyes|Festividad de regalos en enero
+Halloween|Fiesta de disfraces de octubre
+San Valentín|Día de los enamorados en febrero
+Día de la Madre|Homenaje a las madres en mayo
+Día del Padre|Homenaje a los padres en marzo
+cumpleaños|Aniversario del día de nacimiento
+aniversario|Celebración de años de un evento
+conmemoración|Acto para recordar un hecho histórico
+homenaje|Reconocimiento público a alguien
+legado|Lo que deja una persona o época
+historia|Relato de hechos del pasado
+época|Período histórico determinado
+antigüedad|Tiempo muy remoto del pasado
+medieval|Relativo a la Edad Media
+moderno|Relativo a épocas recientes
+contemporáneo|Del tiempo presente o muy cercano
+revolución|Cambio profundo y brusco
+independencia|Libertad política de un territorio
+colonia|Territorio dominado por otro país
+imperio|Estado con dominio sobre otros pueblos
+monarquía|Gobierno de un rey o reina
+república|Estado sin monarca hereditario
+democracia|Gobierno elegido por el pueblo
+dictadura|Gobierno autoritario sin libertades
+tiranía|Gobierno opresor e injusto
+revolución|Levantamiento que cambia el régimen
+golpe de estado|Toma del poder por la fuerza
+constitución|Ley suprema de un estado
+referéndum|Votación popular sobre una cuestión
+manifestación|Concentración pública de protesta
+huelga|Cese de trabajo como reclamación
+sindicato|Organización que defiende trabajadores
+pensiones|Sistema de ingresos para jubilados
+sanidad|Sistema público de salud
+educación pública|Enseñanza financiada por el estado
+infraestructura|Obras básicas de un territorio
+carretera|Vía de comunicación terrestre
+puente|Estructura que cruza un obstáculo
+túnel|Paso subterráneo bajo montaña o ciudad
+puerto|Instalación para barcos mercantes
+aeropuerto|Terminal de aviación comercial
+ferrocarril|Sistema de transporte por tren
+metro|Transporte urbano subterráneo
+autobús|Vehículo de transporte colectivo
+bicicleta|Medio de transporte de dos ruedas
+ciclismo|Deporte o uso de bicicleta
+peatón|Persona que va a pie por la ciudad
+movilidad|Capacidad de desplazarse en ciudad
+tráfico|Flujo de vehículos en las vías
+contaminación atmosférica|Aire dañado por emisiones
+ruido ambiental|Sonido molesto en entorno urbano
+zona verde|Espacio con vegetación en ciudad
+parque urbano|Área ajardinada de recreo
+banco público|Asiento en parques y plazas
+fuente ornamental|Elemento decorativo con agua
+escultura|Obra artística de volumen
+mural|Pintura grande en una pared
+grafiti|Dibujo o firma en muro público
+arte urbano|Expresión artística en la calle
+galería|Local donde se expone arte
+subasta|Venta pública al mejor postor
+colección|Conjunto reunido de objetos valiosos
+antigüedad|Objeto viejo de valor histórico
+joya|Adorno precioso de metal o piedra
+anillo|Pieza circular de joyería
+collar|Joya que cuelga del cuello
+pulsera|Joya que rodea la muñeca
+pendiente|Joya que cuelga de la oreja
+reloj|Instrumento que marca las horas
+correa|Banda que sujeta el reloj a muñeca
+gafas de sol|Accesorio que protege del sol
+paraguas|Objeto para cubrirse de lluvia
+bolso|Bolsa para llevar objetos personales
+cartera|Bolsa pequeña para dinero y tarjetas
+monedero|Estuche pequeño para monedas
+llavero|Anilla con llaves de casa
+mechero|Objeto para encender fuego pequeño
+encendedor|Dispositivo para producir llama
+cerilla|Palito con punta inflamable
+vela|Cilindro de cera con mecha
+incienso|Sustancia aromática al quemarse
+aroma|Olor agradable en ambiente
+fragancia|Olor delicado y agradable
+perfume|Líquido aromático para el cuerpo
+colonias|Agua perfumada más ligera
+desodorante|Producto contra el olor corporal
+maquillaje|Productos para embellecer el rostro
+labial|Color para los labios
+rimel|Máscara para pestañas
+sombra|Color en párpados del ojo
+crema hidratante|Producto para humedecer piel
+protector solar|Crema contra rayos ultravioleta
+afeitado|Acción de quitar la barba
+depilación|Eliminación del vello corporal
+peluquería|Local para cortar y peinar pelo
+corte de pelo|Reducción de la longitud del cabello
+tinte|Colorante para cambiar el pelo
+peinado|Forma en que se arregla el cabello
+barba|Vello facial del hombre
+bigote|Vello sobre el labio superior
+uñas|Láminas duras en dedos de manos
+manicura|Cuidado estético de las uñas
+pedicura|Cuidado estético de pies y uñas
+spa|Centro de tratamientos de bienestar
+masaje|Presión relajante sobre el cuerpo
+relajación|Estado de calma y descanso
+meditación|Práctica de calma mental
+yoga|Disciplina de posturas y respiración
+pilates|Método de ejercicio de control corporal
+gimnasio|Centro con aparatos de ejercicio
+pesas|Objetos pesados para entrenar fuerza
+cinta de correr|Aparato para correr en sitio
+bicicleta estática|Aparato para pedalear sin moverse
+entrenador personal|Profesional que guía ejercicios
+rutina de ejercicio|Plan habitual de actividad física
+calentamiento|Ejercicios previos al esfuerzo intenso
+estiramiento|Ejercicios para flexibilizar músculos
+recuperación|Descanso tras el esfuerzo físico
+lesión muscular|Daño en tejido por esfuerzo
+esguince|Lesión de ligamento por torsión
+contractura|Tensión dolorosa en un músculo
+calambre|Contracción involuntaria y dolorosa
+fatiga|Cansancio extremo por esfuerzo
+resistencia|Capacidad de sostener esfuerzo
+velocidad|Rapidez en desplazamiento o reacción
+fuerza|Capacidad muscular de empujar o levantar
+coordinación|Armonía entre movimientos del cuerpo
+equilibrio|Capacidad de mantenerse estable
+agilidad|Rapidez y facilidad de movimiento
+reflejo|Respuesta automática ante estímulo
+concentración|Enfoque mental durante actividad
+competición|Encuentro con ganador y perdedor
+amistoso|Partido sin consecuencia oficial
+liga|Competición regular entre equipos
+copa|Torneo eliminatorio por trofeo
+clasificación|Orden de equipos por puntos
+ascenso|Subida a categoría superior
+descenso|Bajada a categoría inferior
+temporada|Período anual de competición
+pretemporada|Fase de preparación previa
+mercado de fichajes|Período de contratación de jugadores
+contrato|Acuerdo laboral de un deportista
+cláusula|Condición especial en un contrato
+fichaje|Incorporación de jugador a un club
+cedencia|Préstamo temporal de un jugador
+agente|Representante de intereses del jugador
+presidente|Máxima autoridad de un club
+entrenador|Técnico que dirige al equipo
+capitán|Jugador líder dentro del equipo
+portero|Jugador que defiende la meta
+defensa|Jugador que protege su portería
+centrocampista|Jugador del medio del campo
+delantero|Jugador cerca de la portería rival
+suplente|Jugador que entra desde el banquillo
+expulsión|Salida obligatoria por tarjeta roja
+amonestación|Advertencia con tarjeta amarilla
+córner|Tiro desde la esquina del campo
+fuera de juego|Posición adelantada ilegal
+penalti|Lanzamiento desde el punto de penal
+gol|Anotación que suma un punto
+empate|Marcador igual al final
+prórroga|Tiempo extra tras empate
+penaltis|Desempate desde el punto de penal
+campeón|Ganador de una competición
+subcampeón|Segundo clasificado del torneo
+podio|Plataforma de los tres primeros
+medalla de oro|Premio al primer puesto
+medalla de plata|Premio al segundo puesto
+medalla de bronce|Premio al tercer puesto
+récord mundial|Mejor marca histórica global
+récord nacional|Mejor marca en un país
+olimpiadas|Juegos deportivos internacionales
+paralímpicos|Juegos para deportistas con discapacidad
+ceremonia|Acto formal de apertura o cierre
+antorcha|Símbolo encendido en olimpiadas
+himno|Canción oficial de un país o club
+bandera|Símbolo con colores de un país
+escudo|Emblema de un equipo o institución
+afición|Hinchas que apoyan a un equipo
+grada|Zona de asientos en un estadio
+entrada|Billete para acceder al recinto
+abono|Pase de temporada para partidos
+merchandising|Productos oficiales de un club
+camiseta oficial|Prenda del uniforme del equipo
+bufanda|Prenda alargada con colores del club
+cántico|Canción cantada por la afición
+coreografía|Movimiento coordinado de hinchas
+derbi|Partido entre equipos de la misma ciudad
+clásico|Partido entre grandes rivales históricos
+rivalidad|Competencia intensa entre equipos
+hinchada|Grupo organizado de seguidores
+ultra|Grupo radical de aficionados
+fair play|Juego limpio y respetuoso
+antisporting|Conducta contraria al juego limpio
+arbitraje|Labor del árbitro en el partido
+VAR|Sistema de revisión por vídeo
+fuera de juego|Posición ilegal del atacante
+mano|Toque ilegal con brazo o mano
+falta|Infracción sancionada por el árbitro
+tarjeta amarilla|Advertencia disciplinaria
+tarjeta roja|Expulsión inmediata del jugador
+lesión|Daño físico durante el partido
+asistencia|Pase que provoca un gol
+autogol|Gol en propia portería por error
+hat trick|Tres goles de un jugador en partido
+portería a cero|Partido sin encajar goles
+máximo goleador|Jugador con más goles
+balón de oro|Premio al mejor jugador del año

@@ -1,0 +1,2406 @@
+{
+  "language": "sv",
+  "difficulty": "wise",
+  "words": [
+    {
+      "word": "FILOSOFI",
+      "clue": "Studiet av grundläggande existensfrågor"
+    },
+    {
+      "word": "METAFOR",
+      "clue": "Bildligt uttryck som jämför"
+    },
+    {
+      "word": "ALGORITM",
+      "clue": "Stegvis beräkningsprocedur"
+    },
+    {
+      "word": "ARKITEKTUR",
+      "clue": "Konsten att designa byggnader"
+    },
+    {
+      "word": "ASTRONOMI",
+      "clue": "Vetenskap om himlakroppar"
+    },
+    {
+      "word": "BIOGRAFI",
+      "clue": "Skildring av någons liv"
+    },
+    {
+      "word": "KAPITALISM",
+      "clue": "Ekonomiskt system med privat ägande"
+    },
+    {
+      "word": "DEMOKRATI",
+      "clue": "Folkstyre"
+    },
+    {
+      "word": "EPISTEMOLOGI",
+      "clue": "Filosofisk gren om kunskap"
+    },
+    {
+      "word": "HIERARKI",
+      "clue": "System av rangordnade nivåer"
+    },
+    {
+      "word": "JUXTAPOSITION",
+      "clue": "Placera sida vid sida för kontrast"
+    },
+    {
+      "word": "KINETISK",
+      "clue": "Som rör rörelse"
+    },
+    {
+      "word": "LABYRINT",
+      "clue": "Komplex labyrintliknande struktur"
+    },
+    {
+      "word": "MAGNITUD",
+      "clue": "Stor storlek eller betydelse"
+    },
+    {
+      "word": "NOMENKLATUR",
+      "clue": "System för att namnge saker"
+    },
+    {
+      "word": "OBSKYR",
+      "clue": "Inte välkänd; svår att förstå"
+    },
+    {
+      "word": "PARADOX",
+      "clue": "Till synes motsägelsefullt påstående"
+    },
+    {
+      "word": "KVINTESSENS",
+      "clue": "Mest fulländade förkroppsligande"
+    },
+    {
+      "word": "RESONANS",
+      "clue": "Djup betydelse eller vibration"
+    },
+    {
+      "word": "SYNTES",
+      "clue": "Kombination av idéer till en helhet"
+    },
+    {
+      "word": "TANGENT",
+      "clue": "Bara lätt relevant"
+    },
+    {
+      "word": "ALLESTADESNARVARANDE",
+      "clue": "Närvarande överallt"
+    },
+    {
+      "word": "EMPATI",
+      "clue": "Upplevt genom en annan person"
+    },
+    {
+      "word": "NYCKFULL",
+      "clue": "Lekfullt fantasifull"
+    },
+    {
+      "word": "IVRIG",
+      "clue": "Visar stor entusiasm"
+    },
+    {
+      "word": "TVETYDIG",
+      "clue": "Öppen för mer än en tolkning"
+    },
+    {
+      "word": "BYRAKRATI",
+      "clue": "Komplext administrativt system"
+    },
+    {
+      "word": "KATHARSIS",
+      "clue": "Emotionellt utlopp genom konst"
+    },
+    {
+      "word": "DIKOTOMI",
+      "clue": "Uppdelning i två motsatta delar"
+    },
+    {
+      "word": "VALTALIG",
+      "clue": "Flytande och övertygande i tal"
+    },
+    {
+      "word": "FELAKTIG",
+      "clue": "Baserad på ett misstag"
+    },
+    {
+      "word": "SLAKTFORSKNING",
+      "clue": "Studiet av familjehistoria"
+    },
+    {
+      "word": "HEURISTIK",
+      "clue": "Praktisk problemlösning"
+    },
+    {
+      "word": "IKONOKLAST",
+      "clue": "Den som utmanar tradition"
+    },
+    {
+      "word": "OMDOMESGILL",
+      "clue": "Visar gott omdöme"
+    },
+    {
+      "word": "KALEJDOSKOP",
+      "clue": "Rör som visar skiftande mönster"
+    },
+    {
+      "word": "LAKONIC",
+      "clue": "Använder mycket få ord"
+    },
+    {
+      "word": "MELODIOS",
+      "clue": "Sött eller musikaliskt att höra"
+    },
+    {
+      "word": "DIMMA",
+      "clue": "Vag eller otydlig"
+    },
+    {
+      "word": "ONTOLOGI",
+      "clue": "Studiet av varelsens natur"
+    },
+    {
+      "word": "SKARPSINNIG",
+      "clue": "Med skarp insikt"
+    },
+    {
+      "word": "TRASK",
+      "clue": "Svår eller osäker situation"
+    },
+    {
+      "word": "MOTSPAND",
+      "clue": "Envist osamarbetsvillig"
+    },
+    {
+      "word": "KLOK",
+      "clue": "Med skarpt omdöme"
+    },
+    {
+      "word": "FAORDIG",
+      "clue": "Reserverad eller tystlåten"
+    },
+    {
+      "word": "SMORIG",
+      "clue": "Överdrivet smickrande"
+    },
+    {
+      "word": "SANNOLIKHET",
+      "clue": "Sken av att vara sant"
+    },
+    {
+      "word": "FAST",
+      "clue": "Helt säker och solid"
+    },
+    {
+      "word": "FRAMLINGSKAP",
+      "clue": "Rädsla eller hat mot utlänningar"
+    },
+    {
+      "word": "FORR",
+      "clue": "Tid i det nära förflutna"
+    },
+    {
+      "word": "VINDFLAKT",
+      "clue": "Mild bris"
+    },
+    {
+      "word": "AVVIKELSE",
+      "clue": "Avvikelse från det normala"
+    },
+    {
+      "word": "KAKOFONI",
+      "clue": "Hård blandning av ljud"
+    },
+    {
+      "word": "SKADLIG",
+      "clue": "Som orsakar skada"
+    },
+    {
+      "word": "BUBBLIG",
+      "clue": "Livlig och entusiastisk"
+    },
+    {
+      "word": "NOGGRANN",
+      "clue": "Mycket uppmärksam på detaljer"
+    },
+    {
+      "word": "GRANDIOS",
+      "clue": "Imponerande men överdrivet"
+    },
+    {
+      "word": "HAPHAZARD",
+      "clue": "Utan organisation"
+    },
+    {
+      "word": "OLAMPLIG",
+      "clue": "Inte i harmoni med omgivningen"
+    },
+    {
+      "word": "JUGGERNAUT",
+      "clue": "Enorm kraftfull kraft"
+    },
+    {
+      "word": "ABSTRAKTION",
+      "clue": "Koncept skilt från konkret verklighet"
+    },
+    {
+      "word": "EPITOM",
+      "clue": "Perfekt exempel på en egenskap"
+    },
+    {
+      "word": "HERMENEUTIK",
+      "clue": "Konsten att tolka texter"
+    },
+    {
+      "word": "METAFYSIK",
+      "clue": "Filosofi om den yttersta verkligheten"
+    },
+    {
+      "word": "FENOMENOLOGI",
+      "clue": "Studium av levda fenomen"
+    },
+    {
+      "word": "EXISTENTIALISM",
+      "clue": "Filosofi om existens och val"
+    },
+    {
+      "word": "NIHILISM",
+      "clue": "Förnekelse av mening och värden"
+    },
+    {
+      "word": "STOICISM",
+      "clue": "Filosofi om att behärska lidande"
+    },
+    {
+      "word": "EPIKURISM",
+      "clue": "Filosofi om måttlig njutning"
+    },
+    {
+      "word": "SOFIST",
+      "clue": "Retoriker som undervisar i övertygelse"
+    },
+    {
+      "word": "DIALEKTIK",
+      "clue": "Metod genom motsättningar"
+    },
+    {
+      "word": "RETORIK",
+      "clue": "Konsten att övertyga med tal"
+    },
+    {
+      "word": "LOGIK",
+      "clue": "Vetenskap om giltigt resonemang"
+    },
+    {
+      "word": "AXIOM",
+      "clue": "Sant påstående utan bevis"
+    },
+    {
+      "word": "TEOREM",
+      "clue": "Påstående som bevisats"
+    },
+    {
+      "word": "KOROLLARIUM",
+      "clue": "Direkt följd av ett teorem"
+    },
+    {
+      "word": "HYPOTES",
+      "clue": "Förslag som ska prövas"
+    },
+    {
+      "word": "EMPIRISM",
+      "clue": "Kunskap genom erfarenhet"
+    },
+    {
+      "word": "RATIONALISM",
+      "clue": "Kunskap genom förnuft"
+    },
+    {
+      "word": "SKEPTICISM",
+      "clue": "Tvivel om absolut sanning"
+    },
+    {
+      "word": "RELATIVISM",
+      "clue": "Sanning beror på sammanhang"
+    },
+    {
+      "word": "DOGM",
+      "clue": "Orubblig lärosats"
+    },
+    {
+      "word": "ORTODOXI",
+      "clue": "Följsamhet mot etablerad tro"
+    },
+    {
+      "word": "HETERODOXI",
+      "clue": "Avvikelse från officiell lära"
+    },
+    {
+      "word": "PEDANT",
+      "clue": "Person som skryter med lärdom"
+    },
+    {
+      "word": "ERUDIT",
+      "clue": "Person med omfattande kunskap"
+    },
+    {
+      "word": "POLYMAT",
+      "clue": "Person med bred kunskap"
+    },
+    {
+      "word": "DILETTANT",
+      "clue": "Amatör utan djup"
+    },
+    {
+      "word": "INTELLEKTUELL",
+      "clue": "Person av tanken"
+    },
+    {
+      "word": "AKADEMIKER",
+      "clue": "Universitetsforskare"
+    },
+    {
+      "word": "DOKTRIN",
+      "clue": "Lära eller principuppsättning"
+    },
+    {
+      "word": "KANON",
+      "clue": "Samling av klassiska verk"
+    },
+    {
+      "word": "ANAKRONISM",
+      "clue": "Fel tidsperiod i verk"
+    },
+    {
+      "word": "ARKAISM",
+      "clue": "Gammalmodigt språkbruk"
+    },
+    {
+      "word": "NEOLOGISM",
+      "clue": "Nybildat ord"
+    },
+    {
+      "word": "ETYMOLOGI",
+      "clue": "Studium av ords ursprung"
+    },
+    {
+      "word": "SEMANTIK",
+      "clue": "Studium av betydelse"
+    },
+    {
+      "word": "PRAGMATIK",
+      "clue": "Språk i användning"
+    },
+    {
+      "word": "FONETIK",
+      "clue": "Studium av taljud"
+    },
+    {
+      "word": "MORFOLOGI",
+      "clue": "Studium av ords form"
+    },
+    {
+      "word": "SYNTAX",
+      "clue": "Studium av meningsbyggnad"
+    },
+    {
+      "word": "LEXIKOGRAFI",
+      "clue": "Konsten att skriva lexikon"
+    },
+    {
+      "word": "FILOLOGI",
+      "clue": "Vetenskaplig textstudie"
+    },
+    {
+      "word": "PALEOGRAFI",
+      "clue": "Studium av gamla skrifter"
+    },
+    {
+      "word": "EPIGRAFI",
+      "clue": "Studium av inskrifter"
+    },
+    {
+      "word": "ARKEOLOGI",
+      "clue": "Studium av materiella lämningar"
+    },
+    {
+      "word": "ANTROPOLOGI",
+      "clue": "Studium av människan"
+    },
+    {
+      "word": "ETNOGRAFI",
+      "clue": "Beskrivning av kulturer"
+    },
+    {
+      "word": "SOCIOLOGI",
+      "clue": "Studium av samhället"
+    },
+    {
+      "word": "PSYKOLOGI",
+      "clue": "Studium av sinne och beteende"
+    },
+    {
+      "word": "PSYKIATRI",
+      "clue": "Medicin för psykisk sjukdom"
+    },
+    {
+      "word": "NEUROLOGI",
+      "clue": "Medicin för nervsystemet"
+    },
+    {
+      "word": "KARDIOLOGI",
+      "clue": "Medicin för hjärtat"
+    },
+    {
+      "word": "ONKOLOGI",
+      "clue": "Medicin för cancer"
+    },
+    {
+      "word": "DERMATOLOGI",
+      "clue": "Medicin för huden"
+    },
+    {
+      "word": "GINEKOLOGI",
+      "clue": "Medicin för kvinnors hälsa"
+    },
+    {
+      "word": "UROLOGI",
+      "clue": "Medicin för urinvägar"
+    },
+    {
+      "word": "OFTALMOLOGI",
+      "clue": "Medicin för ögonen"
+    },
+    {
+      "word": "ENDOKRINOLOGI",
+      "clue": "Medicin för hormoner"
+    },
+    {
+      "word": "IMMUNOLOGI",
+      "clue": "Studium av immunförsvaret"
+    },
+    {
+      "word": "EPIDEMIOLOGI",
+      "clue": "Studium av sjukdomsspridning"
+    },
+    {
+      "word": "FARMAKOLOGI",
+      "clue": "Studium av läkemedel"
+    },
+    {
+      "word": "TOXIKOLOGI",
+      "clue": "Studium av gifter"
+    },
+    {
+      "word": "ANATOMI",
+      "clue": "Studium av kroppens struktur"
+    },
+    {
+      "word": "FYSIOLOGI",
+      "clue": "Studium av kroppens funktion"
+    },
+    {
+      "word": "PATOLOGI",
+      "clue": "Studium av sjukdomar"
+    },
+    {
+      "word": "DIAGNOS",
+      "clue": "Identifiering av sjukdom"
+    },
+    {
+      "word": "PROGNOS",
+      "clue": "Förutsägelse om sjukdomsförlopp"
+    },
+    {
+      "word": "TERAPI",
+      "clue": "Behandling av sjukdom"
+    },
+    {
+      "word": "KIRURGI",
+      "clue": "Behandling genom operation"
+    },
+    {
+      "word": "ANESTESI",
+      "clue": "Bedövning vid ingrepp"
+    },
+    {
+      "word": "REHABILITERING",
+      "clue": "Återställning efter skada"
+    },
+    {
+      "word": "PROFYLAX",
+      "clue": "Förebyggande vård"
+    },
+    {
+      "word": "MOLEKYL",
+      "clue": "Minsta enhet av förening"
+    },
+    {
+      "word": "ATOM",
+      "clue": "Grundenhet av materia"
+    },
+    {
+      "word": "ELEKTRON",
+      "clue": "Negativt laddad partikel"
+    },
+    {
+      "word": "PROTON",
+      "clue": "Positivt laddad kärnpartikel"
+    },
+    {
+      "word": "NEUTRON",
+      "clue": "Neutral partikel i kärnan"
+    },
+    {
+      "word": "GRAVITATION",
+      "clue": "Kraft som drar kroppar"
+    },
+    {
+      "word": "HASTIGHET",
+      "clue": "Fart i en riktning"
+    },
+    {
+      "word": "ACCELERATION",
+      "clue": "Förändring av hastighet"
+    },
+    {
+      "word": "RORELSEMANGD",
+      "clue": "Mängd av rörelse"
+    },
+    {
+      "word": "FRIKTION",
+      "clue": "Motstånd vid kontakt"
+    },
+    {
+      "word": "TROGHET",
+      "clue": "Motstånd mot rörelseförändring"
+    },
+    {
+      "word": "MAGNETISM",
+      "clue": "Kraft från magneter"
+    },
+    {
+      "word": "STRALNING",
+      "clue": "Energi som vågor eller partiklar"
+    },
+    {
+      "word": "SPEKTRUM",
+      "clue": "Utbud av våglängder"
+    },
+    {
+      "word": "VAGLANGD",
+      "clue": "Avstånd mellan vågtoppar"
+    },
+    {
+      "word": "FREKVENS",
+      "clue": "Svängningar per sekund"
+    },
+    {
+      "word": "ENTROPI",
+      "clue": "Mått på oordning"
+    },
+    {
+      "word": "KATALYSATOR",
+      "clue": "Påskyndar reaktion"
+    },
+    {
+      "word": "ISOTOP",
+      "clue": "Variant av grundämne"
+    },
+    {
+      "word": "POLYMER",
+      "clue": "Stor molekyl av enheter"
+    },
+    {
+      "word": "ENZYM",
+      "clue": "Protein som katalyserar"
+    },
+    {
+      "word": "GENOM",
+      "clue": "Organismens arvsmassa"
+    },
+    {
+      "word": "KROMOSOM",
+      "clue": "Bärare av gener"
+    },
+    {
+      "word": "MUTATION",
+      "clue": "Förändring i DNA"
+    },
+    {
+      "word": "EVOLUTION",
+      "clue": "Gradvis artsförändring"
+    },
+    {
+      "word": "EKOLOGI",
+      "clue": "Studium av miljöer"
+    },
+    {
+      "word": "BIOLOGI",
+      "clue": "Vetenskap om liv"
+    },
+    {
+      "word": "GEOLOGI",
+      "clue": "Vetenskap om jorden"
+    },
+    {
+      "word": "ASTROFYSIK",
+      "clue": "Fysik om himlakroppar"
+    },
+    {
+      "word": "KVANTMEKANIK",
+      "clue": "Fysik om det subatomära"
+    },
+    {
+      "word": "RELATIVITETSTEORI",
+      "clue": "Einsteins rumtidslära"
+    },
+    {
+      "word": "TERMODYNAMIK",
+      "clue": "Studium av värme och energi"
+    },
+    {
+      "word": "KARNA",
+      "clue": "Centrum i atom eller cell"
+    },
+    {
+      "word": "MITOKONDRIE",
+      "clue": "Cellens energifabrik"
+    },
+    {
+      "word": "RIBOSOM",
+      "clue": "Bygger proteiner i cellen"
+    },
+    {
+      "word": "BAKTERIE",
+      "clue": "Encellig utan kärna"
+    },
+    {
+      "word": "VIRUS",
+      "clue": "Smittämne i värdcell"
+    },
+    {
+      "word": "VAKUUM",
+      "clue": "Tomt på materia"
+    },
+    {
+      "word": "PLASMA",
+      "clue": "Joniserat gasformigt tillstånd"
+    },
+    {
+      "word": "SUPERNOVA",
+      "clue": "Explosiv stjärndöd"
+    },
+    {
+      "word": "NEBULOSA",
+      "clue": "Gas- och stoftmoln i rymden"
+    },
+    {
+      "word": "GALAX",
+      "clue": "Stort system av stjärnor"
+    },
+    {
+      "word": "BANA",
+      "clue": "Kurvad väg kring kropp"
+    },
+    {
+      "word": "TELESKOP",
+      "clue": "Instrument för avlägsna objekt"
+    },
+    {
+      "word": "MIKROSKOP",
+      "clue": "Instrument för små objekt"
+    },
+    {
+      "word": "EXPERIMENT",
+      "clue": "Kontrollerat vetenskapligt test"
+    },
+    {
+      "word": "TEORI",
+      "clue": "Väl underbyggd förklaring"
+    },
+    {
+      "word": "EMPIRI",
+      "clue": "Kunskap från observation"
+    },
+    {
+      "word": "INDUKTION",
+      "clue": "Slutsats från exempel"
+    },
+    {
+      "word": "DEDUKTION",
+      "clue": "Slutsats från allmän regel"
+    },
+    {
+      "word": "FALSIFIERING",
+      "clue": "Motbevisande av hypotes"
+    },
+    {
+      "word": "PARADIGM",
+      "clue": "Dominerande vetenskaplig modell"
+    },
+    {
+      "word": "REVOLUTION",
+      "clue": "Radikal förändring av vetenskap"
+    },
+    {
+      "word": "PEERREVIEW",
+      "clue": "Granskning av kollegor"
+    },
+    {
+      "word": "PUBLICERING",
+      "clue": "Gör forskning offentlig"
+    },
+    {
+      "word": "CITERING",
+      "clue": "Hänvisning till källa"
+    },
+    {
+      "word": "PATENT",
+      "clue": "Skydd för uppfinning"
+    },
+    {
+      "word": "UPPFINNING",
+      "clue": "Ny teknisk lösning"
+    },
+    {
+      "word": "INNOVATION",
+      "clue": "Ny tillämpning av idé"
+    },
+    {
+      "word": "TEKNOLOGI",
+      "clue": "Tillämpad vetenskap"
+    },
+    {
+      "word": "DIGITALISERING",
+      "clue": "Övergång till digital form"
+    },
+    {
+      "word": "AUTOMATION",
+      "clue": "Maskiner gör arbetet"
+    },
+    {
+      "word": "ARTIFICIELLINTELLIGENS",
+      "clue": "Maskiner som tänker"
+    },
+    {
+      "word": "MASKININLARNING",
+      "clue": "Datorer lär av data"
+    },
+    {
+      "word": "NEURALTNATVERK",
+      "clue": "Modell inspirerad av hjärnan"
+    },
+    {
+      "word": "BIGDATA",
+      "clue": "Enorma datamängder"
+    },
+    {
+      "word": "KRYPTOGRAFI",
+      "clue": "Konsten att koda meddelanden"
+    },
+    {
+      "word": "BLOCKKEDJA",
+      "clue": "Distribuerad digital bokföring"
+    },
+    {
+      "word": "CYBERSAKERHET",
+      "clue": "Skydd mot digitala hot"
+    },
+    {
+      "word": "ALGORITMISK",
+      "clue": "Styrd av beräkningssteg"
+    },
+    {
+      "word": "OPTIMERING",
+      "clue": "Förbättring av resultat"
+    },
+    {
+      "word": "KOMPLEXITET",
+      "clue": "Svårighetsgrad i system"
+    },
+    {
+      "word": "KAOS",
+      "clue": "Känslighet för startvillkor"
+    },
+    {
+      "word": "FRAKTAL",
+      "clue": "Självsimilar struktur"
+    },
+    {
+      "word": "TOPOLOGI",
+      "clue": "Studium av rumsliga egenskaper"
+    },
+    {
+      "word": "ALGEBRA",
+      "clue": "Gren med ekvationer"
+    },
+    {
+      "word": "GEOMETRI",
+      "clue": "Studium av former"
+    },
+    {
+      "word": "TRIGONOMETRI",
+      "clue": "Studium av vinklar"
+    },
+    {
+      "word": "KALKYL",
+      "clue": "Gren om förändring"
+    },
+    {
+      "word": "STATISTIK",
+      "clue": "Samling och analys av data"
+    },
+    {
+      "word": "SANNOLIKHETSTEORI",
+      "clue": "Matematik om slump"
+    },
+    {
+      "word": "REGRESSION",
+      "clue": "Modell av samband"
+    },
+    {
+      "word": "KORRELATION",
+      "clue": "Statistiskt samband"
+    },
+    {
+      "word": "SIGNIFIKANS",
+      "clue": "Statistiskt meningsfull skillnad"
+    },
+    {
+      "word": "VARIANS",
+      "clue": "Spridning i data"
+    },
+    {
+      "word": "MEDIAN",
+      "clue": "Mittvärde i ordnad lista"
+    },
+    {
+      "word": "STANDARDAVVIKELSE",
+      "clue": "Mått på spridning"
+    },
+    {
+      "word": "EKONOMETRI",
+      "clue": "Statistik i ekonomi"
+    },
+    {
+      "word": "MIKROEKONOMI",
+      "clue": "Studium av enskilda aktörer"
+    },
+    {
+      "word": "MAKROEKONOMI",
+      "clue": "Studium av hela ekonomin"
+    },
+    {
+      "word": "KEYNESIANISM",
+      "clue": "Statlig stimulanslära"
+    },
+    {
+      "word": "MONETARISM",
+      "clue": "Styrning via penningmängd"
+    },
+    {
+      "word": "MERKANTILISM",
+      "clue": "Handel ger rikedom"
+    },
+    {
+      "word": "SOCIALISM",
+      "clue": "Kollektivt ägande"
+    },
+    {
+      "word": "KOMMUNISM",
+      "clue": "Klasslöst samhälle"
+    },
+    {
+      "word": "ANARKISM",
+      "clue": "Avskaffande av staten"
+    },
+    {
+      "word": "LIBERALISM",
+      "clue": "Individuell frihet"
+    },
+    {
+      "word": "KONSERVATISM",
+      "clue": "Bevarande av tradition"
+    },
+    {
+      "word": "NATIONALISM",
+      "clue": "Nationens främsta värde"
+    },
+    {
+      "word": "INTERNATIONALISM",
+      "clue": "Gränsöverskridande solidaritet"
+    },
+    {
+      "word": "IMPERIALISM",
+      "clue": "Expansion av imperium"
+    },
+    {
+      "word": "KOLONIALISM",
+      "clue": "Styre över kolonier"
+    },
+    {
+      "word": "POSTKOLONIALISM",
+      "clue": "Efter kolonialt styre"
+    },
+    {
+      "word": "GLOBALISERING",
+      "clue": "Ökad världsomspännande koppling"
+    },
+    {
+      "word": "NEOLIBERALISM",
+      "clue": "Marknadsorienterad politik"
+    },
+    {
+      "word": "VALFARDSSTAT",
+      "clue": "Stat med social trygghet"
+    },
+    {
+      "word": "PROTEKTIONISM",
+      "clue": "Skydd av inhemsk industri"
+    },
+    {
+      "word": "SUBVENTION",
+      "clue": "Statligt ekonomiskt stöd"
+    },
+    {
+      "word": "AUSTERITY",
+      "clue": "Stram finanspolitik"
+    },
+    {
+      "word": "STAGFLATION",
+      "clue": "Stagnation med inflation"
+    },
+    {
+      "word": "DEFLATION",
+      "clue": "Fallande prisnivå"
+    },
+    {
+      "word": "KONJUNKTUR",
+      "clue": "Cykliska ekonomiska svängningar"
+    },
+    {
+      "word": "RANTEPOLITIK",
+      "clue": "Styrning via ränta"
+    },
+    {
+      "word": "KVANTITATIVALATTNADER",
+      "clue": "Centralbank köper tillgångar"
+    },
+    {
+      "word": "STATSBUDGET",
+      "clue": "Statens inkomster och utgifter"
+    },
+    {
+      "word": "OFFENTLIGSKULD",
+      "clue": "Statens upplåning"
+    },
+    {
+      "word": "BUDGETUNDERSKOTT",
+      "clue": "Utgifter överstiger intäkter"
+    },
+    {
+      "word": "BUDGETOVERSKOTT",
+      "clue": "Intäkter överstiger utgifter"
+    },
+    {
+      "word": "VALUTARESERV",
+      "clue": "Utländsk valuta i förråd"
+    },
+    {
+      "word": "HANDELSBALANS",
+      "clue": "Export minus import"
+    },
+    {
+      "word": "BNP",
+      "clue": "Värdet av nationens produktion"
+    },
+    {
+      "word": "BRUTTONATIONALPRODUKT",
+      "clue": "Total produktion i landet"
+    },
+    {
+      "word": "KOPKRAFT",
+      "clue": "Vad pengar räcker till"
+    },
+    {
+      "word": "LEVNADSSTANDARD",
+      "clue": "Materiell välfärd"
+    },
+    {
+      "word": "OJAMLIKHET",
+      "clue": "Ojämn fördelning"
+    },
+    {
+      "word": "GINI",
+      "clue": "Mått på inkomstojämlikhet"
+    },
+    {
+      "word": "FATTIGDOM",
+      "clue": "Brist på resurser"
+    },
+    {
+      "word": "VALGORENHET",
+      "clue": "Gåvor till behövande"
+    },
+    {
+      "word": "FILANTROPI",
+      "clue": "Storskaligt välgörande"
+    },
+    {
+      "word": "LOBBYISM",
+      "clue": "Påverkan av beslutsfattare"
+    },
+    {
+      "word": "KORRUPTION",
+      "clue": "Missbruk av makt"
+    },
+    {
+      "word": "NEPOTISM",
+      "clue": "Gynnande av släktingar"
+    },
+    {
+      "word": "TRANSPARENT",
+      "clue": "Öppen och insynsvänlig"
+    },
+    {
+      "word": "ACCOUNTABILITY",
+      "clue": "Ansvarsskyldighet"
+    },
+    {
+      "word": "LEGITIMITET",
+      "clue": "Erkänd rätt att styra"
+    },
+    {
+      "word": "SUVERANITET",
+      "clue": "Statens självbestämmande"
+    },
+    {
+      "word": "FEDERALISM",
+      "clue": "Delad makt mellan nivåer"
+    },
+    {
+      "word": "ENHETSSTAT",
+      "clue": "Centraliserad stat"
+    },
+    {
+      "word": "KONFEDERATION",
+      "clue": "Lös sammanslutning"
+    },
+    {
+      "word": "REPUBLIK",
+      "clue": "Stat utan monark"
+    },
+    {
+      "word": "MONARKI",
+      "clue": "Stat med kung eller drottning"
+    },
+    {
+      "word": "KONSTITUTIONELLMONARKI",
+      "clue": "Kung med begränsad makt"
+    },
+    {
+      "word": "TEOKRATI",
+      "clue": "Styre av religiösa ledare"
+    },
+    {
+      "word": "AUTOKRATI",
+      "clue": "Enpersonsstyre"
+    },
+    {
+      "word": "DIKTATUR",
+      "clue": "Oinskränkt envälde"
+    },
+    {
+      "word": "TOTALITARISM",
+      "clue": "Total kontroll av staten"
+    },
+    {
+      "word": "AUKTORITART",
+      "clue": "Strikt och odemokratiskt"
+    },
+    {
+      "word": "PLURALISM",
+      "clue": "Många intressen i samhället"
+    },
+    {
+      "word": "CIVILSAMHALLE",
+      "clue": "Organisationer utanför staten"
+    },
+    {
+      "word": "FACKFORENING",
+      "clue": "Organiserar arbetstagare"
+    },
+    {
+      "word": "STREJKA",
+      "clue": "Arbetsnedläggelse i protest"
+    },
+    {
+      "word": "MEDLING",
+      "clue": "Förhandling mellan parter"
+    },
+    {
+      "word": "SKILJEDOM",
+      "clue": "Tredje part avgör tvist"
+    },
+    {
+      "word": "RATTSSTAT",
+      "clue": "Styre enligt lag"
+    },
+    {
+      "word": "RATTSSAKERHET",
+      "clue": "Skydd mot godtycke"
+    },
+    {
+      "word": "HABEASCORPUS",
+      "clue": "Rätt att inte fängslas godtyckligt"
+    },
+    {
+      "word": "PRESUMTION",
+      "clue": "Antagande tills motsatsen bevisas"
+    },
+    {
+      "word": "JURISDIKTION",
+      "clue": "Rättslig behörighet"
+    },
+    {
+      "word": "PREJUDIKAT",
+      "clue": "Tidigare dom som vägleder"
+    },
+    {
+      "word": "LAGSTIFTNING",
+      "clue": "Process att skapa lagar"
+    },
+    {
+      "word": "PROPOSITION",
+      "clue": "Förslag till ny lag"
+    },
+    {
+      "word": "PARLAMENT",
+      "clue": "Folkvalda beslutar lagar"
+    },
+    {
+      "word": "OPPOSITION",
+      "clue": "Partier utan regeringsmakt"
+    },
+    {
+      "word": "KOALITION",
+      "clue": "Sammanslagning av partier"
+    },
+    {
+      "word": "MANDAT",
+      "clue": "Uppdrag från väljare"
+    },
+    {
+      "word": "VALKRETS",
+      "clue": "Område som väljer representant"
+    },
+    {
+      "word": "PROPORTIONALITET",
+      "clue": "Mandat efter röstandel"
+    },
+    {
+      "word": "FOLKOMROSTNING",
+      "clue": "Direkt beslut av folket"
+    },
+    {
+      "word": "INITIATIV",
+      "clue": "Medborgarförslag till omröstning"
+    },
+    {
+      "word": "LOBBY",
+      "clue": "Påverkar politiska beslut"
+    },
+    {
+      "word": "SPIN",
+      "clue": "Vinklad politisk kommunikation"
+    },
+    {
+      "word": "PROPAGANDA",
+      "clue": "Systematisk opinionsskapande"
+    },
+    {
+      "word": "DESINFORMATION",
+      "clue": "Avsiktligt falsk information"
+    },
+    {
+      "word": "CENSUR",
+      "clue": "Förhindrar publicering"
+    },
+    {
+      "word": "YTTRANDEFRIHET",
+      "clue": "Rätt att uttrycka åsikter"
+    },
+    {
+      "word": "PRESSFRIHET",
+      "clue": "Media utan statlig kontroll"
+    },
+    {
+      "word": "KALLSKYDD",
+      "clue": "Journalist skyddar källa"
+    },
+    {
+      "word": "INTEGRITET",
+      "clue": "Skydd av personuppgifter"
+    },
+    {
+      "word": "OVERVAKNING",
+      "clue": "Systematisk bevakning"
+    },
+    {
+      "word": "WHISTLEBLOWER",
+      "clue": "Avslöjar missförhållanden"
+    },
+    {
+      "word": "KORRUPTIONSBEKAMPNING",
+      "clue": "Motverkar mutor"
+    },
+    {
+      "word": "STATSKUPP",
+      "clue": "Våldsam maktövertagande"
+    },
+    {
+      "word": "REFORM",
+      "clue": "Gradvis förändring"
+    },
+    {
+      "word": "KONTRAREVOLUTION",
+      "clue": "Motverkar revolution"
+    },
+    {
+      "word": "GERILLA",
+      "clue": "Oregelbunden krigföring"
+    },
+    {
+      "word": "TERRORISM",
+      "clue": "Våld för politiskt syfte"
+    },
+    {
+      "word": "MILITAR",
+      "clue": "Försvarsmakt"
+    },
+    {
+      "word": "DIPLOMATI",
+      "clue": "Förhandling mellan stater"
+    },
+    {
+      "word": "AMBASSAD",
+      "clue": "Diplomatisk beskickning"
+    },
+    {
+      "word": "SANKTION",
+      "clue": "Straff mot annan stat"
+    },
+    {
+      "word": "EMBARGO",
+      "clue": "Förbud mot handel"
+    },
+    {
+      "word": "ALLIANS",
+      "clue": "Militärt eller politiskt förbund"
+    },
+    {
+      "word": "NEUTRALITET",
+      "clue": "Står utanför konflikt"
+    },
+    {
+      "word": "FREDSFORDRAG",
+      "clue": "Avslutar krig"
+    },
+    {
+      "word": "GENVEKONVENTION",
+      "clue": "Regler för krigföring"
+    },
+    {
+      "word": "KRIGSFORBRYTELSE",
+      "clue": "Brott under krig"
+    },
+    {
+      "word": "FOLKMORD",
+      "clue": "Systematisk utrotning av grupp"
+    },
+    {
+      "word": "ETNISKRENSNING",
+      "clue": "Driva bort folkgrupp"
+    },
+    {
+      "word": "FLYKTING",
+      "clue": "Tvingas lämna hemlandet"
+    },
+    {
+      "word": "ASYL",
+      "clue": "Skydd för förföljd"
+    },
+    {
+      "word": "MIGRATION",
+      "clue": "Flyttning mellan länder"
+    },
+    {
+      "word": "INTEGRATION",
+      "clue": "Inkludering av invandrare"
+    },
+    {
+      "word": "ASSIMILATION",
+      "clue": "Anpassning till majoritetskultur"
+    },
+    {
+      "word": "MULTIKULTURALISM",
+      "clue": "Flera kulturer sida vid sida"
+    },
+    {
+      "word": "XENOFOBI",
+      "clue": "Främlingsfientlighet"
+    },
+    {
+      "word": "RASISM",
+      "clue": "Diskriminering efter härkomst"
+    },
+    {
+      "word": "ANTISEMITISM",
+      "clue": "Hat mot judar"
+    },
+    {
+      "word": "ISLAMOFOBI",
+      "clue": "Fientlighet mot muslimer"
+    },
+    {
+      "word": "DISKRIMINERING",
+      "clue": "Orättvis behandling"
+    },
+    {
+      "word": "AFFIRMATIVACTION",
+      "clue": "Positiv särbehandling"
+    },
+    {
+      "word": "JAMSTALLDHET",
+      "clue": "Lika rättigheter oavsett kön"
+    },
+    {
+      "word": "FEMINISM",
+      "clue": "Kamp för kvinnors rätt"
+    },
+    {
+      "word": "PATRIARKAT",
+      "clue": "Mansdominerat samhälle"
+    },
+    {
+      "word": "KONSROLLER",
+      "clue": "Förväntningar efter kön"
+    },
+    {
+      "word": "INTERSEKTIONALITET",
+      "clue": "Överlappande diskriminering"
+    },
+    {
+      "word": "QUEERTEORI",
+      "clue": "Kritik av könsnormer"
+    },
+    {
+      "word": "IDENTITETSPOLITIK",
+      "clue": "Politik kring gruppidentitet"
+    },
+    {
+      "word": "KULTURARV",
+      "clue": "Ärvda traditioner och värden"
+    },
+    {
+      "word": "FOLKLORE",
+      "clue": "Traditionell berättelse och sed"
+    },
+    {
+      "word": "MYTOLOGI",
+      "clue": "Samling av myter"
+    },
+    {
+      "word": "ARCHETYP",
+      "clue": "Urgammalt symbolmönster"
+    },
+    {
+      "word": "RITUAL",
+      "clue": "Formell ceremoniell handling"
+    },
+    {
+      "word": "LITURGI",
+      "clue": "Ordning för gudstjänst"
+    },
+    {
+      "word": "SEKULARISERING",
+      "clue": "Minskad religiös påverkan"
+    },
+    {
+      "word": "SEKULARISM",
+      "clue": "Separation av religion och stat"
+    },
+    {
+      "word": "TEOLOGI",
+      "clue": "Systematisk studie av Gud"
+    },
+    {
+      "word": "AGNOSTICISM",
+      "clue": "Osäkerhet om gudomsfrågan"
+    },
+    {
+      "word": "ATEISM",
+      "clue": "Förnekelse av gud"
+    },
+    {
+      "word": "PANTEISM",
+      "clue": "Gud i allt"
+    },
+    {
+      "word": "DEISM",
+      "clue": "Gud skapade men ingriper inte"
+    },
+    {
+      "word": "MYSTICISM",
+      "clue": "Direkt upplevelse av det gudomliga"
+    },
+    {
+      "word": "KONTEMPLATION",
+      "clue": "Djup eftertänksam meditation"
+    },
+    {
+      "word": "ASCETISM",
+      "clue": "Strikt avstånd från njutning"
+    },
+    {
+      "word": "HEDONISM",
+      "clue": "Njutning som livsmål"
+    },
+    {
+      "word": "UTILITARISM",
+      "clue": "Största lycka för flest"
+    },
+    {
+      "word": "DEONTOLOGI",
+      "clue": "Pliktetik oberoende av följder"
+    },
+    {
+      "word": "VIRTUETIK",
+      "clue": "Fokus på dygd och karaktär"
+    },
+    {
+      "word": "KONSEKVENTIALISM",
+      "clue": "Moral efter följder"
+    },
+    {
+      "word": "ABSOLUTISM",
+      "clue": "Moral är universell"
+    },
+    {
+      "word": "ABSURDISM",
+      "clue": "Livet saknar inneboende mening"
+    },
+    {
+      "word": "HUMANISM",
+      "clue": "Människans värde i centrum"
+    },
+    {
+      "word": "POSTHUMANISM",
+      "clue": "Utmanar människocentrerat tänkande"
+    },
+    {
+      "word": "TRANSHUMANISM",
+      "clue": "Förbättra människan tekniskt"
+    },
+    {
+      "word": "BIOETIK",
+      "clue": "Etik kring livsvetenskap"
+    },
+    {
+      "word": "DJURRATT",
+      "clue": "Etiska krav för djur"
+    },
+    {
+      "word": "MILJOETIK",
+      "clue": "Moraliska skyldigheter till naturen"
+    },
+    {
+      "word": "HALLBARHET",
+      "clue": "Långsiktig ekologisk balans"
+    },
+    {
+      "word": "RESILIENS",
+      "clue": "Förmåga att återhämta sig"
+    },
+    {
+      "word": "ANTROPOCEN",
+      "clue": "Människans geologiska epok"
+    },
+    {
+      "word": "BIODIVERSITET",
+      "clue": "Mångfald av arter"
+    },
+    {
+      "word": "UTARMNING",
+      "clue": "Förlust av näringsämnen"
+    },
+    {
+      "word": "OKENIFIERING",
+      "clue": "Land blir öken"
+    },
+    {
+      "word": "AVSKOGNING",
+      "clue": "Skog försvinner"
+    },
+    {
+      "word": "MONOKULTUR",
+      "clue": "Endast en art odlas"
+    },
+    {
+      "word": "GENTEKNIK",
+      "clue": "Modifiering av arvsmassa"
+    },
+    {
+      "word": "KLONING",
+      "clue": "Genetisk kopia"
+    },
+    {
+      "word": "STAMCELL",
+      "clue": "Cell som kan bli många typer"
+    },
+    {
+      "word": "GENTERAPI",
+      "clue": "Behandling via gener"
+    },
+    {
+      "word": "EUTANASI",
+      "clue": "Medveten avslutning av liv"
+    },
+    {
+      "word": "ASSISTERATSJALVMORD",
+      "clue": "Hjälp att avsluta liv"
+    },
+    {
+      "word": "DODSHJALP",
+      "clue": "Läkarassisterad livsavslutning"
+    },
+    {
+      "word": "PALLIATIVVARD",
+      "clue": "Lindrar i livets slut"
+    },
+    {
+      "word": "HOSPIS",
+      "clue": "Vård i livets slutskede"
+    },
+    {
+      "word": "SORGEARBETE",
+      "clue": "Bearbetning av förlust"
+    },
+    {
+      "word": "TRAUMA",
+      "clue": "Djup psykisk sår"
+    },
+    {
+      "word": "PTSD",
+      "clue": "Stress efter trauma"
+    },
+    {
+      "word": "KOGNITIV",
+      "clue": "Relaterat till tänkande"
+    },
+    {
+      "word": "METAKOGNITION",
+      "clue": "Tänka om sitt tänkande"
+    },
+    {
+      "word": "BIAS",
+      "clue": "Systematisk snedvridning"
+    },
+    {
+      "word": "KONFIRMATIONSBIAS",
+      "clue": "Söker bekräftelse"
+    },
+    {
+      "word": "HALOEFFEKT",
+      "clue": "En egenskap färgar hela bedömningen"
+    },
+    {
+      "word": "GRUPPTANK",
+      "clue": "Konformitet i grupp"
+    },
+    {
+      "word": "DEINDIVIDUATION",
+      "clue": "Förlorar själv i grupp"
+    },
+    {
+      "word": "SOCIALISATION",
+      "clue": "Lär samhällets normer"
+    },
+    {
+      "word": "HABITUS",
+      "clue": "Inrelograde vanor och dispositioner"
+    },
+    {
+      "word": "HABIT",
+      "clue": "Automatiserat beteende"
+    },
+    {
+      "word": "KOGNITION",
+      "clue": "Mental bearbetning"
+    },
+    {
+      "word": "PERCEPTION",
+      "clue": "Sinnesintryck tolkas"
+    },
+    {
+      "word": "ILLUSION",
+      "clue": "Felaktig uppfattning"
+    },
+    {
+      "word": "HALLUCINATION",
+      "clue": "Upplevelse utan yttre stimuli"
+    },
+    {
+      "word": "MINNE",
+      "clue": "Lagring av erfarenheter"
+    },
+    {
+      "word": "EPISODISKTMINNE",
+      "clue": "Minns händelser"
+    },
+    {
+      "word": "SEMANTISKTMINNE",
+      "clue": "Minns fakta"
+    },
+    {
+      "word": "PROCEDURALTMINNE",
+      "clue": "Minns hur man gör"
+    },
+    {
+      "word": "AMNESI",
+      "clue": "Minnesförlust"
+    },
+    {
+      "word": "NOSTALGI",
+      "clue": "Längtan till det förflutna"
+    },
+    {
+      "word": "MELANKOLI",
+      "clue": "Djupt vemod"
+    },
+    {
+      "word": "EUFORI",
+      "clue": "Extrem lycka"
+    },
+    {
+      "word": "APATISK",
+      "clue": "Känslomässigt likgiltig"
+    },
+    {
+      "word": "AMBIVALENT",
+      "clue": "Motstridiga känslor"
+    },
+    {
+      "word": "KATARSIS",
+      "clue": "Rensande känsloutlopp"
+    },
+    {
+      "word": "SUBLIMERING",
+      "clue": "Omdirigerar drift till kultur"
+    },
+    {
+      "word": "PROJEKTION",
+      "clue": "Tillskriver andra egna drag"
+    },
+    {
+      "word": "FORNEKELSE",
+      "clue": "Vägrar erkänna verklighet"
+    },
+    {
+      "word": "RATIONALISERING",
+      "clue": "Motiverar irrationellt beteende"
+    },
+    {
+      "word": "FORSVARSMEKANISM",
+      "clue": "Skyddar mot ångest"
+    },
+    {
+      "word": "LIBIDO",
+      "clue": "Psykisk energi och drift"
+    },
+    {
+      "word": "OVERJAG",
+      "clue": "Moralisk inre kontroll"
+    },
+    {
+      "word": "UNDERMEDVETEN",
+      "clue": "Utanför medveten uppmärksamhet"
+    },
+    {
+      "word": "KOLLEKTIVTOMEDVETET",
+      "clue": "Delat arvpsykologiskt"
+    },
+    {
+      "word": "ARKETYP",
+      "clue": "Urgammalt psykiskt mönster"
+    },
+    {
+      "word": "INDIVIDUATION",
+      "clue": "Bli hel och unik"
+    },
+    {
+      "word": "SJALVFORVERKLIGANDE",
+      "clue": "Uppnå sin potential"
+    },
+    {
+      "word": "AUTENTICITET",
+      "clue": "Vara sann mot sig"
+    },
+    {
+      "word": "ALIENATION",
+      "clue": "Främlingskap till sig själv"
+    },
+    {
+      "word": "EXISTENTIELL",
+      "clue": "Om existens och mening"
+    },
+    {
+      "word": "ANGEST",
+      "clue": "Grundläggande existentiell oro"
+    },
+    {
+      "word": "FORTVIVLAN",
+      "clue": "Hopplöshet inför livet"
+    },
+    {
+      "word": "HOPPLOSHET",
+      "clue": "Avsaknad av hopp"
+    },
+    {
+      "word": "GRIT",
+      "clue": "Uthållighet mot mål"
+    },
+    {
+      "word": "FLODE",
+      "clue": "Fullt engagemang i aktivitet"
+    },
+    {
+      "word": "MEDITATION",
+      "clue": "Fokuserad mental vila"
+    },
+    {
+      "word": "MINDFULNESS",
+      "clue": "Medveten närvaro"
+    },
+    {
+      "word": "INTROSPEKTION",
+      "clue": "Inåtvänd självgranskning"
+    },
+    {
+      "word": "EXTROSPEKTION",
+      "clue": "Utåtriktad observation"
+    },
+    {
+      "word": "SYMPATI",
+      "clue": "Medkänsla med andra"
+    },
+    {
+      "word": "MEDKANSLA",
+      "clue": "Bryr sig om andras lidande"
+    },
+    {
+      "word": "ALTRUISM",
+      "clue": "Självuppoffrande för andra"
+    },
+    {
+      "word": "EGOISM",
+      "clue": "Handlar för egen vinning"
+    },
+    {
+      "word": "NARCISSISM",
+      "clue": "Överdriven självkärlek"
+    },
+    {
+      "word": "MACHIAVELLISM",
+      "clue": "Manipulerar för makt"
+    },
+    {
+      "word": "PSYKOPATI",
+      "clue": "Brist på empati och skuld"
+    },
+    {
+      "word": "SOCIOPATI",
+      "clue": "Antisocial personlighetsstörning"
+    },
+    {
+      "word": "KARISMA",
+      "clue": "Personlig dragningskraft"
+    },
+    {
+      "word": "AUKTORITET",
+      "clue": "Erkänd makt att leda"
+    },
+    {
+      "word": "PRESTIGE",
+      "clue": "Hög social status"
+    },
+    {
+      "word": "STATUS",
+      "clue": "Position i hierarki"
+    },
+    {
+      "word": "KAST",
+      "clue": "Strikt social skiktning"
+    },
+    {
+      "word": "KLASS",
+      "clue": "Social grupp efter resurser"
+    },
+    {
+      "word": "ELIT",
+      "clue": "Maktgrupp i toppen"
+    },
+    {
+      "word": "MERITOKRATI",
+      "clue": "Belöning efter förtjänst"
+    },
+    {
+      "word": "OLIGARKI",
+      "clue": "Styre av få rika"
+    },
+    {
+      "word": "PLUTOKRATI",
+      "clue": "Styre av de rika"
+    },
+    {
+      "word": "KLEPTOKRATI",
+      "clue": "Styre som stjäl"
+    },
+    {
+      "word": "KAKISTOKRATI",
+      "clue": "Styre av de sämsta"
+    },
+    {
+      "word": "TEKNOKRATI",
+      "clue": "Styre av experter"
+    },
+    {
+      "word": "GERONTOKRATI",
+      "clue": "Styre av de äldsta"
+    },
+    {
+      "word": "GENIOKRATI",
+      "clue": "Styre av de klokaste"
+    },
+    {
+      "word": "DEMAGOGI",
+      "clue": "Folkledare som manipulerar"
+    },
+    {
+      "word": "POPULISM",
+      "clue": "Appellerar till folklig ilska"
+    },
+    {
+      "word": "ELITISM",
+      "clue": "Företräder privilegierade"
+    },
+    {
+      "word": "MERIT",
+      "clue": "Förtjänst och duglighet"
+    },
+    {
+      "word": "PATRONAGE",
+      "clue": "Beskyddarskap mot lojalitet"
+    },
+    {
+      "word": "KLIENTELISM",
+      "clue": "Politiska gåvor mot röster"
+    },
+    {
+      "word": "KORPORATIVISM",
+      "clue": "Sammanslutning av intressen"
+    },
+    {
+      "word": "SYNDIKALISM",
+      "clue": "Arbetarstyrda fack"
+    },
+    {
+      "word": "ANARKOSYNDIKALISM",
+      "clue": "Fack utan statligt styre"
+    },
+    {
+      "word": "KOMMUNALISM",
+      "clue": "Lokal självstyrelse"
+    },
+    {
+      "word": "REGIONALISM",
+      "clue": "Främjar regionens intressen"
+    },
+    {
+      "word": "SEPARATISM",
+      "clue": "Vill bryta sig loss"
+    },
+    {
+      "word": "SJALVBESTAMMANDE",
+      "clue": "Folk bestämmer över sig"
+    },
+    {
+      "word": "IRREDENTISM",
+      "clue": "Vill återta förlorat territorium"
+    },
+    {
+      "word": "REVANCHISM",
+      "clue": "Hämndlystnad efter nederlag"
+    },
+    {
+      "word": "MILITARISM",
+      "clue": "Militärens dominans"
+    },
+    {
+      "word": "PACIFISM",
+      "clue": "Motstånd mot krig"
+    },
+    {
+      "word": "NONVIOLENS",
+      "clue": "Vägran att bruka våld"
+    },
+    {
+      "word": "CIVILOLYDNAD",
+      "clue": "Bryter orättvis lag"
+    },
+    {
+      "word": "SABOTAGE",
+      "clue": "Förstör för politiskt syfte"
+    },
+    {
+      "word": "PARTISAN",
+      "clue": "Lokal motståndsgrupp"
+    },
+    {
+      "word": "GERILLAKRIGFORING",
+      "clue": "Oregelbunden krigföring"
+    },
+    {
+      "word": "ASYMMETRISKKRIGFORING",
+      "clue": "Ojämna parter"
+    },
+    {
+      "word": "HYBRIDKRIGFORING",
+      "clue": "Blandar militärt och cyber"
+    },
+    {
+      "word": "CYBERKRIG",
+      "clue": "Anfall i digital sfär"
+    },
+    {
+      "word": "DRONARE",
+      "clue": "Obemannat flygande vapen"
+    },
+    {
+      "word": "AUTONOMTVAPEN",
+      "clue": "Väljer mål själständigt"
+    },
+    {
+      "word": "MASSFORSTORELSEVAPEN",
+      "clue": "Kärnvapen eller kemvapen"
+    },
+    {
+      "word": "AVSKRACKNING",
+      "clue": "Hot hindrar angrepp"
+    },
+    {
+      "word": "AVRUSTNING",
+      "clue": "Minskar vapen"
+    },
+    {
+      "word": "ICKESPRIDNING",
+      "clue": "Förhindrar spridning av vapen"
+    },
+    {
+      "word": "NEDRUSTNING",
+      "clue": "Minskar kärnvapen"
+    },
+    {
+      "word": "FREDSBEVARANDE",
+      "clue": "FN-styrkor i konflikt"
+    },
+    {
+      "word": "HUMANITARINTERVENTION",
+      "clue": "Ingriper för att skydda civila"
+    },
+    {
+      "word": "ANSVARATTSKYDDA",
+      "clue": "Skydda mot folkmord"
+    },
+    {
+      "word": "TRANSITIONALJUSTICE",
+      "clue": "Rättvisa efter förtryck"
+    },
+    {
+      "word": "SANNINGOCHFORSONING",
+      "clue": "Offentlig uppgörelse"
+    },
+    {
+      "word": "AMNESTI",
+      "clue": "Strafffrihet för politiska brott"
+    },
+    {
+      "word": "REPARATION",
+      "clue": "Ersättning till offer"
+    },
+    {
+      "word": "MINNESPOLITIK",
+      "clue": "Hur historien minns"
+    },
+    {
+      "word": "HISTORIEREVISIONISM",
+      "clue": "Omskriver historien"
+    },
+    {
+      "word": "HISTORICISM",
+      "clue": "Förstår genom historisk kontext"
+    },
+    {
+      "word": "TELEOLOGI",
+      "clue": "Målstyrd utveckling"
+    },
+    {
+      "word": "DETERMINISM",
+      "clue": "Allt är förutbestämt"
+    },
+    {
+      "word": "LIBERTARIANISM",
+      "clue": "Maximal individuell frihet"
+    },
+    {
+      "word": "KOMPATIBILISM",
+      "clue": "Fri vilja och determinism förenas"
+    },
+    {
+      "word": "FATALISM",
+      "clue": "Ödet styr allt"
+    },
+    {
+      "word": "STOISKFATALISM",
+      "clue": "Acceptera det som inte går att ändra"
+    },
+    {
+      "word": "NIHILISTISK",
+      "clue": "Förnekar mening"
+    },
+    {
+      "word": "ABSURDIST",
+      "clue": "Livet är meningslöst men lever vidare"
+    },
+    {
+      "word": "EXISTENTIALIST",
+      "clue": "Skapar egen mening"
+    },
+    {
+      "word": "PHENOMENOLOGIST",
+      "clue": "Studerar upplevelsens struktur"
+    },
+    {
+      "word": "STRUCTURALIST",
+      "clue": "Ser underliggande system"
+    },
+    {
+      "word": "POSTSTRUKTURALIST",
+      "clue": "Ifrågasätter fasta strukturer"
+    },
+    {
+      "word": "DEKONSTRUKTION",
+      "clue": "Demonterar textens antaganden"
+    },
+    {
+      "word": "HERMENEUTISKCIRKEL",
+      "clue": "Förståelse genom helhet och delar"
+    },
+    {
+      "word": "INTERTEXTUALITET",
+      "clue": "Texter refererar till texter"
+    },
+    {
+      "word": "METATEXT",
+      "clue": "Text om text"
+    },
+    {
+      "word": "SUBTEXT",
+      "clue": "Dold mening under ytan"
+    },
+    {
+      "word": "ALLEGORI",
+      "clue": "Berättelse med symbolisk mening"
+    },
+    {
+      "word": "SYMBOLISM",
+      "clue": "Representerar idéer med symboler"
+    },
+    {
+      "word": "IRONI",
+      "clue": "Säger motsatsen till meningen"
+    },
+    {
+      "word": "SARKASM",
+      "clue": "Hånande ironi"
+    },
+    {
+      "word": "SATIR",
+      "clue": "Hånar för att kritisera"
+    },
+    {
+      "word": "PARODI",
+      "clue": "Imiterar för att skämta"
+    },
+    {
+      "word": "PASTICHE",
+      "clue": "Blandar stilar"
+    },
+    {
+      "word": "MONTAGE",
+      "clue": "Sätter ihop fragment"
+    },
+    {
+      "word": "COLLAGE",
+      "clue": "Konst av sammanfogade delar"
+    },
+    {
+      "word": "BRICOLAGE",
+      "clue": "Bygger av det som finns"
+    },
+    {
+      "word": "EKFRASIS",
+      "clue": "Konst beskriver annan konst"
+    },
+    {
+      "word": "MIMESIS",
+      "clue": "Efterbildning av verkligheten"
+    },
+    {
+      "word": "DIEGESIS",
+      "clue": "Berättande i konstverk"
+    },
+    {
+      "word": "VERFREMDUNG",
+      "clue": "Gör det främmande synligt"
+    },
+    {
+      "word": "SUBLIMT",
+      "clue": "Överväldigande storhet"
+    },
+    {
+      "word": "ASTETIK",
+      "clue": "Filosofi om skönhet"
+    },
+    {
+      "word": "ESTETIK",
+      "clue": "Lär om det vackra"
+    },
+    {
+      "word": "KITSCH",
+      "clue": "Smaklös men populär konst"
+    },
+    {
+      "word": "AVANTGARDE",
+      "clue": "Banbrytande konstnärlig rörelse"
+    },
+    {
+      "word": "MODERNISM",
+      "clue": "Bryter med tradition"
+    },
+    {
+      "word": "POSTMODERNISM",
+      "clue": "Ifrågasätter modernismens sanningar"
+    },
+    {
+      "word": "MINIMALISM",
+      "clue": "Reducerar till det väsentliga"
+    },
+    {
+      "word": "MAXIMALISM",
+      "clue": "Överdådig rikedom i uttryck"
+    },
+    {
+      "word": "BAROCK",
+      "clue": "Överdådig och dramatisk stil"
+    },
+    {
+      "word": "ROMANTIK",
+      "clue": "Känsla och natur i centrum"
+    },
+    {
+      "word": "KLASSICISM",
+      "clue": "Form och balans"
+    },
+    {
+      "word": "REALISM",
+      "clue": "Skildrar verkligheten"
+    },
+    {
+      "word": "NATURALISM",
+      "clue": "Deterministisk realism"
+    },
+    {
+      "word": "IMPRESSIONISM",
+      "clue": "Fångar ljusets intryck"
+    },
+    {
+      "word": "EXPRESSIONISM",
+      "clue": "Uttrycker inre känsla"
+    },
+    {
+      "word": "SURREALISM",
+      "clue": "Drömlogik i konst"
+    },
+    {
+      "word": "DADAISM",
+      "clue": "Anti-konst och absurditet"
+    },
+    {
+      "word": "FUTURISM",
+      "clue": "Hyllar modernitet och fart"
+    },
+    {
+      "word": "KUBISM",
+      "clue": "Geometriska former"
+    },
+    {
+      "word": "FAUVISM",
+      "clue": "Vilda färger"
+    },
+    {
+      "word": "ARTNOUVEAU",
+      "clue": "Organiska dekorativa former"
+    },
+    {
+      "word": "DECO",
+      "clue": "Geometrisk dekorativ stil"
+    },
+    {
+      "word": "BRUTALISM",
+      "clue": "Rå betongarkitektur"
+    },
+    {
+      "word": "FUNKTIONALISM",
+      "clue": "Form följer funktion"
+    },
+    {
+      "word": "POSTMODERNARKITEKTUR",
+      "clue": "Lekfull och eklektisk"
+    },
+    {
+      "word": "LANDSKAPSARKITEKTUR",
+      "clue": "Designar utomhusmiljöer"
+    },
+    {
+      "word": "STADSPLANERING",
+      "clue": "Organiserar stadsutveckling"
+    },
+    {
+      "word": "GENTRIFIERING",
+      "clue": "Förädlar och höjer hyror"
+    },
+    {
+      "word": "FORORT",
+      "clue": "Område utanför centrum"
+    },
+    {
+      "word": "GETTO",
+      "clue": "Segregerat fattigt område"
+    },
+    {
+      "word": "SLUM",
+      "clue": "Mycket fattig bebyggelse"
+    },
+    {
+      "word": "BOSTADSBRIST",
+      "clue": "För få bostäder"
+    },
+    {
+      "word": "HEMLOSHET",
+      "clue": "Saknar bostad"
+    },
+    {
+      "word": "SOCIALBIDRAG",
+      "clue": "Ekonomiskt stöd till behövande"
+    },
+    {
+      "word": "ARBETSLOSHETSERSATTNING",
+      "clue": "Stöd utan jobb"
+    },
+    {
+      "word": "PENSIONSSYSTEM",
+      "clue": "Inkomst efter arbetsliv"
+    },
+    {
+      "word": "DEMOGRAFI",
+      "clue": "Studium av befolkning"
+    },
+    {
+      "word": "FERTILITET",
+      "clue": "Fruktsamhet och barnafödande"
+    },
+    {
+      "word": "MORTALITET",
+      "clue": "Dödlighet i befolkning"
+    },
+    {
+      "word": "URBANISERING",
+      "clue": "Flytt till städer"
+    },
+    {
+      "word": "SUBURBANISERING",
+      "clue": "Flytt till förorter"
+    },
+    {
+      "word": "BEFOLKNINGSPYRAMID",
+      "clue": "Åldersfördelning"
+    },
+    {
+      "word": "ALDRANDE",
+      "clue": "Befolkningen blir äldre"
+    },
+    {
+      "word": "PRODUKTIVITETSKRIS",
+      "clue": "Lägre tillväxt per arbetare"
+    },
+    {
+      "word": "INNOVATIONSKRAFT",
+      "clue": "Förmåga att förnya"
+    },
+    {
+      "word": "HUMANKAPITAL",
+      "clue": "Kompetens i befolkningen"
+    },
+    {
+      "word": "SOCIALTKAPITAL",
+      "clue": "Förtroende och nätverk"
+    },
+    {
+      "word": "INSTITUTIONELLTKAPITAL",
+      "clue": "Regler och organisationer"
+    },
+    {
+      "word": "KULTURELLTKAPITAL",
+      "clue": "Kunskap och smak som resurs"
+    },
+    {
+      "word": "SYMBOLISKTKAPITAL",
+      "clue": "Prestige och erkännande"
+    },
+    {
+      "word": "DOXA",
+      "clue": "Det som tas för givet"
+    },
+    {
+      "word": "SYMBOLISKTVALD",
+      "clue": "Dominans genom symboler"
+    },
+    {
+      "word": "MISRECOGNITION",
+      "clue": "Felaktig erkännande av makt"
+    },
+    {
+      "word": "REPRODUKTION",
+      "clue": "Återskapar social ordning"
+    },
+    {
+      "word": "DISTINKTION",
+      "clue": "Skillnad som skapar status"
+    }
+  ]
+}

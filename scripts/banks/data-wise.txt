@@ -1,0 +1,943 @@
+abstracción|Concepto separado de la realidad concreta
+paradoja|Afirmación que parece contradictoria
+epítome|Ejemplo perfecto de una cualidad
+dicotomía|División en dos partes opuestas
+síntesis|Combinación de ideas en un todo
+análisis|Descomposición para estudiar partes
+hermenéutica|Arte de interpretar textos
+epistemología|Estudio del conocimiento humano
+ontología|Rama que estudia el ser
+metafísica|Filosofía sobre la realidad última
+fenomenología|Estudio de los fenómenos vividos
+existencialismo|Corriente que enfatiza la existencia
+nihilismo|Negación de valores y sentido
+estoicismo|Doctrina de dominio de las pasiones
+epicureísmo|Doctrina del placer moderado
+cínico|Filósofo que desprecia convenciones
+sofista|Retórico que enseña persuasión
+dialéctica|Método de debate por contradicción
+retórica|Arte de persuadir con el discurso
+lógica|Ciencia del razonamiento válido
+axioma|Principio admitido sin demostración
+teorema|Proposición demostrada matemáticamente
+corolario|Consecuencia directa de un teorema
+hipótesis|Suposición provisional a verificar
+empirismo|Doctrina basada en la experiencia
+racionalismo|Doctrina basada en la razón
+escepticismo|Duda sobre la verdad absoluta
+relativismo|Doctrina de verdad dependiente del contexto
+dogma|Principio incuestionable de fe
+ortodoxia|Conformidad con doctrina establecida
+heterodoxia|Desviación de la doctrina oficial
+iconoclasta|Persona que rompe tradiciones
+pedante|Persona que presume de erudición
+erudito|Persona de vasto conocimiento
+polímata|Persona versada en muchas disciplinas
+dilettante|Aficionado sin profundidad real
+intelectual|Persona dedicada al pensamiento
+académico|Investigador de universidad
+doctrina|Conjunto de principios enseñados
+canon|Conjunto de obras consideradas clásicas
+anacronismo|Error temporal en una obra
+arcaísmo|Palabra o uso anticuado
+neologismo|Palabra de creación reciente
+etimología|Estudio del origen de palabras
+semántica|Estudio del significado
+pragmática|Estudio del lenguaje en uso
+fonética|Estudio de los sonidos del habla
+morfología|Estudio de la forma de palabras
+sintaxis|Estudio de la estructura oracional
+lexicografía|Arte de elaborar diccionarios
+filología|Estudio científico de textos
+paleografía|Estudio de escrituras antiguas
+epigrafía|Estudio de inscripciones antiguas
+arqueología|Estudio de restos materiales pasados
+antropología|Estudio de las culturas humanas
+etnografía|Descripción detallada de una cultura
+sociología|Estudio de la sociedad y sus estructuras
+psicología|Estudio de la mente y conducta
+psiquiatría|Medicina de trastornos mentales
+neurología|Medicina del sistema nervioso
+cardiología|Medicina del corazón
+oncología|Medicina del cáncer
+dermatología|Medicina de la piel
+ginecología|Medicina del aparato femenino
+urología|Medicina del aparato urinario
+oftalmología|Medicina de los ojos
+otorrinolaringología|Medicina de oído nariz y garganta
+endocrinología|Medicina de las hormonas
+inmunología|Estudio del sistema inmunitario
+epidemiología|Estudio de enfermedades en población
+farmacología|Estudio de medicamentos
+toxicología|Estudio de sustancias venenosas
+anatomía|Estudio de la estructura del cuerpo
+fisiología|Estudio del funcionamiento vital
+patología|Estudio de las enfermedades
+diagnóstico|Identificación de una enfermedad
+pronóstico|Predicción de evolución de enfermedad
+síntoma|Manifestación de una enfermedad
+etiología|Estudio de causas de enfermedad
+epidemia|Propagación masiva de enfermedad
+pandemia|Epidemia de alcance mundial
+endemia|Enfermedad habitual en una zona
+vacunación|Inmunización mediante vacuna
+inmunidad|Resistencia a enfermedad
+antígeno|Sustancia que provoca respuesta inmune
+anticuerpo|Proteína que neutraliza antígenos
+bacteria|Microorganismo unicelular
+virus|Agente infeccioso intracelular
+hongo|Organismo del reino fungi
+parásito|Organismo que vive a costa de otro
+antibiótico|Fármaco contra bacterias
+antiviral|Fármaco contra virus
+analgésico|Medicamento que alivia el dolor
+anestesia|Pérdida de sensibilidad inducida
+cirugía|Intervención manual sobre el cuerpo
+trasplante|Injerto de órgano o tejido
+diálisis|Filtración artificial de sangre
+quimioterapia|Tratamiento con fármacos antitumorales
+radioterapia|Tratamiento con radiación
+biopsia|Extracción de tejido para análisis
+resonancia|Imagen por campos magnéticos
+tomografía|Imagen por rayos en secciones
+ecografía|Imagen por ultrasonidos
+electrocardiograma|Registro eléctrico del corazón
+hemograma|Análisis de células sanguíneas
+glucosa|Azúcar principal en sangre
+colesterol|Lípido presente en sangre
+triglicéridos|Grasas circulantes en sangre
+presión arterial|Fuerza de sangre en arterias
+taquicardia|Frecuencia cardíaca acelerada
+bradicardia|Frecuencia cardíaca lenta
+arritmia|Alteración del ritmo cardíaco
+infarto|Muerte de tejido por falta de sangre
+ictus|Accidente cerebrovascular
+trombosis|Formación de coágulo en vaso
+embolia|Obstrucción por émbolo
+aneurisma|Dilatación patológica de arteria
+hipertensión|Presión arterial elevada
+hipotensión|Presión arterial baja
+diabetes|Trastorno del metabolismo glucosa
+insulina|Hormona que regula glucosa
+obesidad|Exceso de grasa corporal
+anorexia|Trastorno de restricción alimentaria
+bulimia|Trastorno de atracones y purgas
+depresión|Trastorno del ánimo bajo
+ansiedad|Estado de preocupación excesiva
+fobia|Miedo irracional intenso
+esquizofrenia|Trastorno psicótico crónico
+bipolaridad|Alternancia de estados de ánimo
+autismo|Trastorno del neurodesarrollo
+demencia|Deterioro cognitivo progresivo
+alzheimer|Demencia neurodegenerativa común
+parkinson|Enfermedad neurodegenerativa motora
+epilepsia|Trastorno de crisis recurrentes
+migraña|Cefalea intensa recurrente
+insomnio|Dificultad persistente para dormir
+apnea|Pausa respiratoria durante sueño
+asma|Enfermedad inflamatoria de vías aéreas
+EPOC|Enfermedad pulmonar obstructiva crónica
+neumonía|Infección inflamatoria del pulmón
+tuberculosis|Infección bacteriana pulmonar
+hepatitis|Inflamación del hígado
+cirrosis|Fibrosis avanzada del hígado
+pancreatitis|Inflamación del páncreas
+gastritis|Inflamación de la mucosa gástrica
+úlcera|Lesión en mucosa digestiva
+colitis|Inflamación del intestino grueso
+apendicitis|Inflamación del apéndice
+cálculo renal|Concreción en riñón o vía urinaria
+artritis|Inflamación de las articulaciones
+artrosis|Degeneración del cartílago articular
+osteoporosis|Pérdida de densidad ósea
+fractura|Rotura de un hueso
+luxación|Desplazamiento de articulación
+esguince|Lesión de ligamentos
+tendinitis|Inflamación de un tendón
+bursitis|Inflamación de una bursa
+hernia|Protrusión de órgano por debilidad
+variz|Vena dilatada y tortuosa
+hemorroida|Variz en el recto
+anemia|Disminución de glóbulos rojos
+leucemia|Cáncer de células sanguíneas
+linfoma|Cáncer del sistema linfático
+melanoma|Tumor maligno de piel
+carcinoma|Cáncer de tejido epitelial
+metástasis|Diseminación de cáncer a distancia
+benigno|Tumor que no invade ni metastatiza
+maligno|Tumor con potencial invasivo
+paliativo|Tratamiento que alivia síntomas
+terminal|Fase final de enfermedad incurable
+eutanasia|Muerte asistida por decisión médica
+bioética|Ética aplicada a ciencias de la vida
+consentimiento informado|Autorización tras información médica
+confidencialidad|Deber de guardar secreto profesional
+deontología|Normas éticas de una profesión
+jurisprudencia|Conjunto de sentencias interpretativas
+doctrina legal|Opinión de juristas sobre la ley
+codificación|Reunión sistemática de leyes
+constitucionalismo|Sistema basado en constitución
+separación de poderes|División entre ejecutivo legislativo y judicial
+estado de derecho|Sometimiento de todos a la ley
+imperio de la ley|Primacía de normas jurídicas
+habeas corpus|Garantía contra detención ilegal
+debido proceso|Garantía de procedimiento justo
+presunción de inocencia|Principio hasta sentencia firme
+non bis in idem|Prohibición de doble juzgamiento
+caducidad|Extinción de acción por tiempo
+prescripción|Adquisición o extinción por plazo
+nulidad|Inexistencia jurídica de un acto
+anulabilidad|Posibilidad de invalidar un acto
+rescisión|Resolución de contrato por causa
+resolución|Extinción anticipada de contrato
+incumplimiento|Violación de obligación contractual
+fuerza mayor|Imposibilidad por causa irresistible
+caso fortuito|Suceso imprevisible e inevitable
+buena fe|Conducta honesta en relaciones jurídicas
+mala fe|Conducta dolosa o desleal
+dolo|Intención de engañar o perjudicar
+culpa|Negligencia en cumplimiento de deber
+responsabilidad civil|Obligación de reparar daños
+responsabilidad penal|Sanción por delito
+responsabilidad administrativa|Sanción por infracción pública
+daños y perjuicios|Indemnización por perjuicio causado
+lucro cesante|Ganancia dejada de obtener
+daño emergente|Pérdida efectivamente sufrida
+daño moral|Perjuicio no patrimonial
+reincidencia|Repetición de delito condenado
+agravante|Circunstancia que aumenta pena
+atenuante|Circunstancia que reduce pena
+eximente|Circunstancia que excluye responsabilidad
+legítima defensa|Repulsión de agresión injusta
+estado de necesidad|Acto para evitar mal mayor
+error de tipo|Desconocimiento de hecho delictivo
+error de prohibición|Ignorancia de ilicitud del acto
+tentativa|Inicio de delito no consumado
+complicidad|Cooperación sin autoría principal
+coautoría|Participación conjunta en delito
+encubrimiento|Ayuda posterior al delincuente
+blanqueo|Ocultación de origen ilícito de bienes
+corrupción|Soborno de funcionario público
+prevaricación|Resolución injusta de autoridad
+malversación|Apropiación de fondos públicos
+cohecho|Soborno de autoridad
+tráfico de influencias|Uso de relaciones para beneficio
+nepotismo|Favoritismo hacia familiares
+clientelismo|Intercambio de favores por apoyo
+lobby|Presión organizada sobre decisores
+transparencia|Acceso público a información
+rendición de cuentas|Obligación de justificar actuación
+gobierno abierto|Gestión pública transparente
+participación ciudadana|Involucración en decisiones públicas
+referendo|Consulta popular vinculante o consultiva
+plebiscito|Votación sobre cuestión concreta
+censura|Control o prohibición de expresión
+libertad de expresión|Derecho a manifestar opiniones
+libertad de prensa|Derecho informativo sin censura
+derecho de reunión|Facultad de congregarse pacíficamente
+derecho de asociación|Facultad de crear organizaciones
+sufragio universal|Voto de todos los ciudadanos
+sufragio activo|Derecho a votar
+sufragio pasivo|Derecho a ser elegido
+representación proporcional|Distribución de escaños por votos
+mayoría absoluta|Más de la mitad de votos o escaños
+mayoría simple|Más votos que cualquier otra opción
+coalición|Alianza de partidos para gobernar
+oposición|Partidos que no están en gobierno
+bancada|Grupo parlamentario de un partido
+interpelación|Pregunta formal al gobierno en parlamento
+moción de censura|Votación para destituir gobierno
+decreto ley|Norma con fuerza de ley por urgencia
+ordenanza|Norma municipal de rango inferior
+reglamento|Norma de desarrollo de ley
+directiva|Norma europea de armonización
+reglamento europeo|Norma directamente aplicable en UE
+acervo comunitario|Conjunto de derecho de la Unión Europea
+soberanía|Poder supremo del estado
+subsidiariedad|Principio de actuación del nivel más cercano
+federalismo|División de poder entre centro y regiones
+autonomía|Autogobierno de territorio
+descentralización|Traspaso de competencias a niveles inferiores
+burocracia|Administración basada en procedimientos
+funcionario|Empleado de la administración pública
+concurso|Prueba para acceso a empleo público
+carrera administrativa|Progresión en empleo público
+inamovilidad|Garantía de no destitución arbitraria
+expediente|Conjunto documental de un procedimiento
+recurso|Impugnación de acto administrativo
+silencio administrativo|Efecto por falta de respuesta
+caducidad administrativa|Extinción de procedimiento por plazo
+expropiación|Privación de bien por interés público
+indemnización expropiatoria|Compensación por expropiación
+licencia|Autorización administrativa de actividad
+concesión|Autorización de explotación de servicio
+subvención|Ayuda pública económica
+ayuda de estado|Subvención con posible distorsión de mercado
+contratación pública|Compras de administraciones
+licitación|Procedimiento competitivo de contratación
+adjudicación|Asignación del contrato al ganador
+fianza|Garantía de cumplimiento contractual
+aval|Garantía de tercero por deuda
+hipoteca|Garantía real sobre inmueble
+prenda|Garantía real sobre mueble
+embargo|Afectación de bienes por deuda
+subasta judicial|Venta pública de bienes embargados
+quiebra|Estado de insolvencia empresarial
+concurso de acreedores|Procedimiento por insolvencia
+suspensión de pagos|Acuerdo temporal con acreedores
+liquidación|Cierre y venta de activos empresariales
+fusión|Unión de dos empresas en una
+escisión|División de empresa en varias
+adquisición|Compra de control de empresa
+OPA|Oferta pública de adquisición de acciones
+capitalización bursátil|Valor de mercado de acciones
+dividendo|Reparto de beneficios a accionistas
+beneficio|Ganancia neta de empresa
+pérdida|Resultado negativo de explotación
+balance|Estado de situación patrimonial
+cuenta de resultados|Estado de ingresos y gastos
+flujo de caja|Entradas y salidas de efectivo
+amortización|Distribución del coste de activo
+depreciación|Pérdida de valor de activo
+provisión|Reserva para gasto futuro probable
+deuda|Obligación de pago pendiente
+endeudamiento|Nivel de deuda respecto a activos
+apalancamiento|Uso de deuda para financiar inversión
+liquidez|Capacidad de pago a corto plazo
+solvencia|Capacidad de pago a largo plazo
+rentabilidad|Retorno sobre inversión o capital
+inflación|Subida general sostenida de precios
+deflación|Bajada general sostenida de precios
+estanflación|Inflación con estancamiento económico
+recesión|Contracción de actividad económica
+PIB|Valor de producción de un país
+productividad|Producción por unidad de factor
+desempleo|Porcentaje de población sin trabajo
+subempleo|Trabajo insuficiente o por debajo de cualificación
+precariedad laboral|Empleo inestable o mal retribuido
+salario mínimo|Remuneración mínima legal
+convenio colectivo|Acuerdo laboral sectorial
+huelga|Interrupción colectiva del trabajo
+cierre patronal|Paralización impuesta por empresario
+sindicato|Organización de defensa laboral
+negociación colectiva|Diálogo patronal y sindical
+paro estructural|Desempleo por cambios en economía
+paro cíclico|Desempleo por recesión económica
+paro friccional|Desempleo por búsqueda de empleo
+política monetaria|Control de oferta monetaria
+política fiscal|Uso de gasto e impuestos públicos
+tipos de interés|Precio del dinero prestado
+banco central|Institución emisora y reguladora monetaria
+reserva federal|Banco central de Estados Unidos
+BCE|Banco Central Europeo
+tipo de cambio|Relación entre dos monedas
+devaluación|Reducción del valor de moneda
+revaluación|Aumento del valor de moneda
+arancel|Impuesto sobre importaciones
+proteccionismo|Política de barreras al comercio
+libre comercio|Intercambio sin barreras arancelarias
+globalización|Integración económica mundial
+deslocalización|Traslado de producción a otro país
+cadena de suministro|Red de proveedores y distribución
+logística|Gestión del flujo de mercancías
+justo a tiempo|Sistema de inventario mínimo
+economía circular|Modelo de reutilización y reciclaje
+economía verde|Actividad respetuosa con medio ambiente
+externalidad|Efecto de actividad sobre terceros
+externalidad negativa|Coste impuesto a terceros
+externalidad positiva|Beneficio generado a terceros
+bien público|Bien no excluible ni rival
+bien privado|Bien excluible y rival
+monopolio|Dominio de mercado por un oferente
+oligopolio|Mercado dominado por pocos oferentes
+competencia perfecta|Mercado con muchos oferentes idénticos
+competencia imperfecta|Mercado con barreras o diferenciación
+elasticidad|Sensibilidad de demanda al precio
+oferta|Cantidad que productores quieren vender
+demanda|Cantidad que consumidores quieren comprar
+equilibrio de mercado|Precio donde oferta iguala demanda
+escasez|Exceso de demanda sobre oferta
+excedente|Exceso de oferta sobre demanda
+subasta|Venta al mejor postor
+licitación competitiva|Concurso por mejor oferta
+econometría|Aplicación estadística a economía
+macroeconomía|Estudio de agregados económicos
+microeconomía|Estudio de agentes individuales
+economía conductual|Estudio de decisiones con sesgos
+teoría de juegos|Análisis matemático de estrategias
+equilibrio de Nash|Estrategia óptima sin incentivo a desviarse
+información asimétrica|Desigualdad de conocimiento entre partes
+selección adversa|Elección perjudicial por falta de información
+riesgo moral|Comportamiento arriesgado por seguro
+coste de oportunidad|Valor de la mejor alternativa renunciada
+rendimientos decrecientes|Menor incremento por unidad adicional
+economías de escala|Reducción de coste por mayor volumen
+curva de aprendizaje|Mejora por experiencia acumulada
+innovación disruptiva|Cambio que transforma un mercado
+propiedad intelectual|Derechos sobre creaciones mentales
+patente|Derecho exclusivo sobre invención
+marca registrada|Signo distintivo protegido legalmente
+derecho de autor|Protección de obras creativas
+royalty|Pago por uso de propiedad intelectual
+franquicia|Licencia de modelo de negocio
+emprendimiento|Creación de nuevo negocio
+startup|Empresa joven de alto crecimiento
+capital riesgo|Inversión en empresas emergentes
+business angel|Inversor privado en startups
+incubadora|Entidad que apoya nuevas empresas
+aceleradora|Programa intensivo de crecimiento empresarial
+escalabilidad|Capacidad de crecer sin perder eficiencia
+modelo de negocio|Lógica de creación y captura de valor
+propuesta de valor|Beneficio diferencial para el cliente
+segmentación|División de mercado en grupos
+posicionamiento|Lugar percibido de marca en mercado
+branding|Gestión de identidad de marca
+fidelización|Estrategia de retención de clientes
+churn|Tasa de abandono de clientes
+conversión|Proporción de visitantes que compran
+embudo de ventas|Proceso desde contacto hasta compra
+lead|Contacto potencialmente interesado
+prospección|Búsqueda de clientes potenciales
+negociación comercial|Diálogo para cerrar acuerdo de venta
+contrato mercantil|Acuerdo entre empresas o comerciantes
+facturación electrónica|Emisión digital de facturas
+auditoría|Revisión independiente de cuentas
+compliance|Cumplimiento normativo empresarial
+gobierno corporativo|Sistema de dirección de empresa
+consejo de administración|Órgano de gobierno de sociedad
+accionista|Propietario de acciones de empresa
+stakeholder|Parte interesada en organización
+responsabilidad social corporativa|Compromiso social de empresa
+informe de sostenibilidad|Documento de impacto ambiental y social
+huella de carbono|Emisiones totales de gases efecto invernadero
+compensación de emisiones|Pago por reducir carbono en otro lugar
+energía renovable|Energía de fuentes inagotables
+eficiencia energética|Menor consumo para mismo servicio
+smart grid|Red eléctrica inteligente
+almacenamiento energético|Guardado de energía para uso posterior
+hidrogeno verde|Hidrógeno producido con energía renovable
+captura de carbono|Retención de CO2 antes de emitirse
+biodiversidad|Variedad de especies en ecosistema
+servicios ecosistémicos|Beneficios que aporta la naturaleza
+deforestación|Eliminación masiva de bosques
+desertificación|Degradación de tierra a desierto
+acidificación oceánica|Aumento de acidez del mar
+calentamiento global|Aumento de temperatura terrestre
+Acuerdo de París|Tratado internacional contra cambio climático
+ODS|Objetivos de Desarrollo Sostenible de la ONU
+geopolítica|Análisis de política internacional
+realismo|Corriente que enfatiza poder en relaciones internacionales
+idealismo|Corriente que enfatiza cooperación y derecho
+multipolaridad|Distribución de poder entre varios actores
+hegemonía|Dominio de un estado sobre el sistema
+soft power|Influencia por atractivo cultural y valores
+hard power|Influencia por coerción militar o económica
+sancción|Medida punitiva internacional
+bloqueo|Cerco para impedir suministros
+intervencionismo|Injerencia en asuntos de otro estado
+no intervención|Principio de no inmiscuirse en asuntos ajenos
+soberanía territorial|Control exclusivo sobre territorio
+integridad territorial|Principio de unidad del territorio estatal
+autodeterminación|Derecho de pueblo a decidir su estatus
+secesión|Separación de parte del territorio estatal
+anexión|Incorporación de territorio por otro estado
+ocupación militar|Control temporal de territorio ajeno
+paz armada|Calma mantenida por amenaza militar
+desarme|Reducción de armamento
+no proliferación|Prevención de expansión de armas
+tratado de no proliferación|Acuerdo contra armas nucleares
+deterrencia|Disuasión por amenaza de represalia
+equilibrio de terror|Estabilidad por capacidad nuclear mutua
+OTAN|Alianza militar del Atlántico Norte
+ONU|Organización de Naciones Unidas
+Consejo de Seguridad|Órgano de paz de la ONU
+Tribunal Penal Internacional|Juzgado para crímenes graves
+Corte Internacional de Justicia|Tribunal principal de la ONU
+derecho internacional humanitario|Normas para conflictos armados
+crimen de guerra|Violación grave en conflicto armado
+crimen contra la humanidad|Ataque sistemático a población civil
+genocidio|Destrucción intencional de grupo humano
+etnocidio|Destrucción de cultura de un pueblo
+limpieza étnica|Expulsión forzada de grupo étnico
+refugiado|Persona que huye por persecución o guerra
+desplazado interno|Persona que huye sin cruzar frontera
+apátrida|Persona sin nacionalidad reconocida
+doble nacionalidad|Ciudadanía de dos estados
+extradición|Entrega de imputado a otro estado
+asilo diplomático|Protección en embajada extranjera
+inmunidad diplomática|Exención de jurisdicción de diplomáticos
+espionaje|Obtención secreta de información estatal
+contrainteligencia|Protección contra espionaje
+ciberseguridad|Protección de sistemas informáticos
+ciberataque|Agresión contra infraestructura digital
+guerra híbrida|Conflicto que combina medios convencionales y no convencionales
+desinformación|Difusión deliberada de información falsa
+propaganda|Difusión orientada de ideas o ideología
+narrativa|Relato que estructura percepción de hechos
+soft law|Normas sin fuerza vinculante estricta
+hard law|Normas jurídicamente vinculantes
+costumbre internacional|Práctica general aceptada como derecho
+jus cogens|Norma imperativa de derecho internacional
+arbitraje internacional|Resolución de disputas por árbitros
+mediación internacional|Facilitación de acuerdo entre partes
+diplomacia|Gestión de relaciones entre estados
+cumbre|Reunión de máximos líderes
+protocolo|Reglas formales de ceremonia diplomática
+nota diplomática|Comunicación formal entre gobiernos
+ultimátum|Exigencia con amenaza de consecuencias
+reconciliación|Restablecimiento de relaciones tras conflicto
+desescalada|Reducción de tensión en conflicto
+cese el fuego|Acuerdo temporal de parar combates
+armisticio|Suspensión formal de hostilidades
+tratado de paz|Acuerdo que pone fin a guerra
+reparaciones de guerra|Compensación tras conflicto
+zona desmilitarizada|Territorio sin presencia militar
+observador internacional|Misionero que vigila cumplimiento
+mision de paz|Fuerza internacional para estabilizar zona
+humanitarismo|Acción para aliviar sufrimiento humano
+ayuda al desarrollo|Cooperación para reducir pobreza
+cooperación internacional|Colaboración entre estados o organizaciones
+FMI|Fondo Monetario Internacional
+Banco Mundial|Institución de financiación al desarrollo
+OMC|Organización Mundial del Comercio
+OMS|Organización Mundial de la Salud
+UNESCO|Organismo de cultura y educación de la ONU
+UNICEF|Fondo de Naciones Unidas para la Infancia
+ACNUR|Alto Comisionado para Refugiados
+Cruz Roja|Organización humanitaria internacional
+Médicos Sin Fronteras|ONG de ayuda médica de emergencia
+filantropía|Donación generosa por bien común
+mecenazgo|Patrocinio de actividades culturales
+patrocinio|Apoyo financiero a cambio de visibilidad
+subvención cultural|Ayuda pública a proyectos artísticos
+patrimonio inmaterial|Tradiciones y expresiones culturales
+patrimonio material|Bienes físicos de valor histórico
+restauración|Recuperación de obra o edificio histórico
+conservación|Mantenimiento preventivo de patrimonio
+paleontología|Estudio de fósiles y vida antigua
+fósil|Resto o huella de organismo antiguo
+estratigrafía|Estudio de capas geológicas
+geología|Ciencia de la Tierra y sus procesos
+tectónica de placas|Teoría de movimiento de litosfera
+sismo|Temblor de tierra por falla geológica
+magnitud|Medida de energía liberada en terremoto
+epicentro|Punto en superficie sobre foco sísmico
+tsunami|Ola gigante generada por sismo marino
+volcanología|Estudio de volcanes
+magma|Roca fundida bajo superficie
+lava|Magma expulsado por volcán
+erupción|Expulsión de material volcánico
+meteorología|Estudio de fenómenos atmosféricos
+climatología|Estudio del clima a largo plazo
+atmosfera|Capa gaseosa que rodea la Tierra
+ionosfera|Capa ionizada de la atmósfera
+efecto invernadero|Retención de calor por gases
+agujero de ozono|Depleción de ozono estratosférico
+astronomía|Estudio de cuerpos celestes
+astrofísica|Física aplicada a astros
+cosmología|Estudio del origen y evolución del universo
+big bang|Teoría del origen expansivo del universo
+agujero negro|Región con gravedad extrema
+nebulosa|Nube de gas y polvo en el espacio
+galaxia|Conjunto masivo de estrellas
+Vía Láctea|Galaxia que contiene el sistema solar
+constelación|Grupo aparente de estrellas
+órbita|Trayectoria de cuerpo alrededor de otro
+eclipsis|Ocultación de astro por otro
+solsticio|Momento de máxima inclinación solar
+equinoccio|Día y noche de igual duración
+física|Ciencia de la materia y energía
+mecánica cuántica|Teoría del comportamiento subatómico
+relatividad|Teoría de espacio tiempo y gravedad
+termodinámica|Estudio de calor y energía
+entropía|Medida de desorden en sistema
+energía cinética|Energía del movimiento
+energía potencial|Energía almacenada por posición
+fotón|Partícula de luz
+electrón|Partícula con carga negativa
+protón|Partícula con carga positiva en núcleo
+neutrón|Partícula neutra del núcleo atómico
+átomo|Unidad básica de elemento químico
+molécula|Unión de dos o más átomos
+ión|Átomo o molécula con carga eléctrica
+isótopo|Átomo con distinto número de neutrones
+tabla periódica|Clasificación de elementos químicos
+reacción química|Transformación de sustancias
+catalizador|Sustancia que acelera reacción sin consumirse
+ácido|Sustancia donadora de protones
+base|Sustancia aceptora de protones
+pH|Medida de acidez o basicidad
+oxidación|Pérdida de electrones en reacción
+reducción|Ganancia de electrones en reacción
+combustión|Reacción con oxígeno que libera calor
+polímero|Macromolécula de unidades repetidas
+nanotecnología|Manipulación de materia a escala nanométrica
+biotecnología|Uso de organismos vivos en tecnología
+ingeniería genética|Modificación del material genético
+ADN|Ácido desoxirribonucleico portador de genes
+ARN|Ácido ribonucleico intermediario en expresión génica
+genoma|Conjunto completo de genes de organismo
+gen|Unidad hereditaria de información
+alelo|Variante de un gen
+mutación|Cambio en secuencia de ADN
+clonación|Reproducción de organismo idéntico
+CRISPR|Técnica de edición genética precisa
+célula|Unidad básica de los seres vivos
+célula madre|Célula con capacidad de diferenciarse
+mitosis|División celular en dos idénticas
+meiosis|División que produce gametos
+fotosíntesis|Síntesis de compuestos con luz
+respiración celular|Producción de energía en célula
+ecosistema|Comunidad biótica y su ambiente
+cadena trófica|Transferencia de energía entre organismos
+especie invasora|Especie que altera ecosistema ajeno
+extinción masiva|Desaparición de muchas especies a la vez
+evolución|Cambio de especies a lo largo del tiempo
+selección natural|Supervivencia de variantes más adaptadas
+adaptación|Rasgo que mejora supervivencia
+especiación|Formación de nuevas especies
+homínido|Primate de la familia humana
+paleolítico|Etapa prehistórica de cazadores recolectores
+neolítico|Etapa de agricultura y asentamientos
+revolución agrícola|Transición a economía agrícola
+revolución industrial|Mecanización y fábricas modernas
+revolución digital|Transformación por tecnologías informáticas
+historiografía|Estudio crítico de la historia
+fuente primaria|Documento contemporáneo al hecho
+fuente secundaria|Interpretación posterior del hecho
+periodización|División del tiempo histórico
+Edad Media|Período entre Antigüedad y Modernidad
+Renacimiento|Movimiento cultural de los siglos XV y XVI
+Ilustración|Movimiento racionalista del siglo XVIII
+Romanticismo|Corriente que exalta emoción e individualidad
+Impresionismo|Corriente pictórica de luz y color
+Expresionismo|Corriente que deforma para expresar emoción
+Cubismo|Corriente que fragmenta formas geométricas
+Surrealismo|Corriente del inconsciente y lo onírico
+Dadaísmo|Movimiento antiartístico y provocador
+Posmodernismo|Corriente que cuestiona modernidad
+vanguardia|Movimiento artístico innovador
+estética|Filosofía de la belleza y el arte
+crítica de arte|Análisis y valoración de obras
+curaduría|Selección y presentación de exposiciones
+performance|Arte de acción en vivo
+instalación|Obra artística en espacio específico
+conceptualismo|Arte donde la idea prima sobre objeto
+minimalismo|Arte de formas simples y reducidas
+barroco|Estilo artístico ornamentado del siglo XVII
+neoclasicismo|Retorno a formas clásicas antiguas
+academismo|Arte conforme a normas oficiales
+primitivismo|Inspiración en arte no occidental
+folclore|Tradiciones culturales del pueblo
+etnomusicología|Estudio de música en contexto cultural
+musicología|Estudio científico de la música
+armonía|Combinación simultánea de sonidos
+melodía|Sucesión de notas perceptible
+ritmo|Organización temporal del sonido
+timbre|Cualidad que distingue sonidos
+contrapunto|Combinación de líneas melódicas independientes
+fuga|Composición contrapuntística por imitación
+sinfonía|Composición orquestal en varios movimientos
+concierto|Obra para solista y orquesta
+ópera|Drama musical escénico
+libreto|Texto de una ópera o musical
+leitmotiv|Tema musical asociado a personaje o idea
+dodecafonismo|Técnica de doce tonos sin tonalidad
+atonalidad|Música sin centro tonal
+serialismo|Organización rigurosa de parámetros musicales
+jazz|Género con improvisación y swing
+blues|Género expresivo de origen afroamericano
+flamenco|Arte musical y dancístico andaluz
+literatura|Arte de la expresión escrita
+narratología|Estudio de estructura de relatos
+protagonista|Personaje central de una obra
+antagonista|Personaje que se opone al protagonista
+narrador|Voz que cuenta la historia
+focalización|Perspectiva desde la que se narra
+trama|Secuencia de acontecimientos de obra
+subtrama|Historia secundaria en una obra
+clímax|Momento de máxima tensión narrativa
+desenlace|Resolución final de la trama
+flashback|Escena del pasado insertada
+foreshadowing|Anticipación sutil de hechos futuros
+sátira|Crítica mediante humor e ironía
+parodia|Imitación burlesca de obra o género
+pastiche|Imitación estilística sin burla
+intertextualidad|Relación entre textos distintos
+metaficción|Ficción que reflexiona sobre sí misma
+realismo mágico|Realidad con elementos fantásticos naturales
+distopía|Sociedad futura negativa y opresiva
+utopía|Sociedad ideal imaginada
+alegoría|Narración con sentido simbólico
+símbolo|Elemento que representa otra cosa
+motivo|Elemento recurrente con significado
+arquetipo|Modelo universal de personaje o situación
+catarsis|Purificación emocional del espectador
+mímesis|Imitación de la realidad en arte
+poesía|Arte de la expresión en verso
+verso libre|Poesía sin métrica fija
+soneto|Composición de catorce versos
+haiku|Poema japonés breve de tres versos
+oda|Poema lírico de tono elevado
+elegía|Poema de lamento por muerte
+epigrama|Poema breve y punzante
+prosodia|Estudio de ritmo y acentuación poética
+retórica literaria|Recursos persuasivos en texto
+hipérbole|Exageración deliberada
+metonimia|Designar algo por algo relacionado
+sinécdoque|Parte por el todo o viceversa
+oxímoron|Unión de términos contradictorios
+antítesis|Contraposición de ideas opuestas
+anafora|Repetición al inicio de versos o frases
+aliteración|Repetición de sonidos consonánticos
+onomatopeya|Palabra que imita un sonido
+eufemismo|Expresión suave por algo desagradable
+disfemismo|Expresión áspera por algo neutro
+pleonasmo|Redundancia innecesaria
+elipsis|Omisión de elemento gramatical
+zeugma|Un verbo gobierna varios complementos
+calambur|Juego de palabras por sonido similar
+polisemia|Palabra con varios significados
+homonimia|Palabras iguales con distinto significado
+paronimia|Palabras de forma parecida
+préstamo lingüístico|Palabra tomada de otro idioma
+latinismo|Palabra o giro de origen latino
+galicismo|Palabra o giro de origen francés
+anglicismo|Palabra o giro de origen inglés
+lengua vehicular|Idioma de comunicación internacional
+diglosia|Convivencia de dos variedades lingüísticas
+pidgin|Lengua de contacto simplificada
+criollo|Lengua originada de pidgin estabilizado
+lingüística|Ciencia del lenguaje humano
+sociolingüística|Estudio de lengua en sociedad
+psicolingüística|Estudio de procesos mentales del lenguaje
+neurolingüística|Relación entre cerebro y lenguaje
+corpus|Colección de textos para análisis
+concordancia|Índice de palabras en textos
+lexicología|Estudio del vocabulario
+deixis|Referencia dependiente del contexto
+implicatura|Significado inferido no dicho
+acto de habla|Acción realizada al hablar
+performativo|Enunciado que ejecuta acción
+ironía|Decir lo contrario de lo que se piensa
+sarcasmo|Ironía mordaz y hiriente
+doble sentido|Significado ambiguo o picante
+ambigüedad|Posibilidad de varias interpretaciones
+polifonía|Múltiples voces en un texto
+interdisciplinariedad|Integración de varias disciplinas
+paradigma|Modelo dominante en una ciencia
+cambio de paradigma|Revolución científica según Kuhn
+falsacionismo|Doctrina de Popper sobre ciencia
+inductivismo|Generalización a partir de observaciones
+deductivismo|Razonamiento de general a particular
+método científico|Procedimiento sistemático de investigación
+revisión por pares|Evaluación de investigación por expertos
+reproducibilidad|Capacidad de repetir resultados
+sesgo|Desviación sistemática en resultados
+conflicto de intereses|Influencia por beneficio personal
+plagio|Apropiación de obra ajena sin crédito
+cita|Referencia a fuente en trabajo académico
+bibliografía|Lista de fuentes consultadas
+tesis doctoral|Investigación original para doctorado
+disertación|Exposición formal de investigación
+seminario|Reunión académica de discusión
+conferencia|Exposición pública de especialista
+simposio|Reunión de expertos sobre tema
+congreso|Gran reunión científica periódica
+ponencia|Comunicación presentada en congreso
+poster|Presentación visual en congreso
+abstract|Resumen breve de investigación
+índice de impacto|Medida de influencia de revista
+open access|Acceso libre a publicaciones científicas
+preprint|Versión previa a revisión por pares
+datos abiertos|Información disponible públicamente
+ética de investigación|Normas morales en ciencia
+comité de ética|Órgano que evalúa protocolos de investigación
+placebo|Tratamiento inactivo en ensayo clínico
+doble ciego|Ensayo donde ni paciente ni médico saben tratamiento
+muestra representativa|Subconjunto que refleja población
+significación estadística|Improbabilidad de resultado por azar
+correlación|Relación estadística entre variables
+causalidad|Relación de causa y efecto
+regresión|Modelo de relación entre variables
+varianza|Medida de dispersión de datos
+desviación estándar|Dispersión respecto a la media
+media aritmética|Promedio de un conjunto de valores
+mediana|Valor central de datos ordenados
+moda|Valor más frecuente en conjunto
+distribución normal|Curva simétrica en forma de campana
+probabilidad|Medida de posibilidad de un suceso
+teorema de Bayes|Actualización de probabilidad con evidencia
+inferencia bayesiana|Estadística basada en probabilidades previas
+machine learning|Aprendizaje automático por datos
+inteligencia artificial|Sistemas que simulan inteligencia humana
+red neuronal|Modelo inspirado en neuronas biológicas
+aprendizaje profundo|Redes neuronales de muchas capas
+algoritmo|Secuencia finita de instrucciones
+heurística|Método práctico no garantizado óptimo
+complejidad computacional|Estudio de recursos de algoritmos
+criptografía|Ciencia de cifrado de información
+blockchain|Cadena de bloques de registros verificables
+token|Unidad de valor en sistema digital
+smart contract|Contrato autoejecutable en blockchain
+computación cuántica|Cálculo basado en mecánica cuántica
+qubit|Bit cuántico de información
+superposición cuántica|Estado múltiple simultáneo
+entrelazamiento cuántico|Correlación entre partículas cuánticas
+teorema de Gödel|Límites de sistemas formales consistentes
+incompletitud|Imposibilidad de probar toda verdad en sistema
+paradoja de Russell|Contradicción en teoría de conjuntos
+teoría de conjuntos|Fundamento matemático de colecciones
+álgebra abstracta|Estudio de estructuras algebraicas
+topología|Estudio de propiedades que se conservan al deformar
+geometría diferencial|Geometría de curvas y superficies
+cálculo|Estudio de cambio y acumulación
+derivada|Razón de cambio instantánea
+integral|Acumulación o área bajo curva
+ecuación diferencial|Ecuación con derivadas
+matriz|Arreglo rectangular de números
+determinante|Valor escalar asociado a matriz cuadrada
+vector|Magnitud con dirección y sentido
+espacio vectorial|Conjunto de vectores con operaciones
+transformación lineal|Función que preserva suma y producto escalar
+autovalor|Escalar asociado a vector invariante
+optimización|Búsqueda del mejor valor posible
+programación lineal|Optimización con restricciones lineales
+teoría de números|Estudio de propiedades de enteros
+número primo|Entero divisible solo por uno y sí mismo
+conjunto infinito|Conjunto con cardinalidad no finita
+hipótesis del continuo|Problema sobre cardinalidad de reales
+axioma de elección|Axioma controvertido de teoría de conjuntos
+demostración|Argumento lógico que establece verdad
+conjetura|Proposición no demostrada pero creída
+lema|Proposición auxiliar para demostración
+abstracción matemática|Generalización de conceptos concretos
+rigor|Precisión y corrección en razonamiento
+elegancia|Belleza de solución matemática simple
+intuición|Comprensión directa sin razonamiento explícito
+formalismo|Énfasis en manipulación simbólica
+constructivismo|Doctrina que exige construcción explícita
+platonismo matemático|Creencia en realidad independiente de matemáticas
+nominalismo|Doctrina de que universales son nombres
+empirismo lógico|Corriente que une lógica y experiencia
+positivismo lógico|Doctrina de verificación empírica
+estructuralismo|Análisis de relaciones subyacentes
+postestructuralismo|Crítica a estructuras fijas de significado
+deconstrucción|Análisis que cuestiona oposiciones binarias
+praxis|Acción reflexiva transformadora
+alienación|Separación del ser de su esencia o trabajo
+reificación|Tratar relaciones sociales como cosas
+ideología|Conjunto de ideas que justifica intereses
+hegemonía cultural|Dominio de una cultura sobre otras
+contracultura|Movimiento opuesto a valores dominantes
+subcultura|Grupo con valores distintos del conjunto
+etnocentrismo|Valoración de cultura propia como superior
+relativismo cultural|Valores dependientes de cada cultura
+universalismo|Existencia de valores válidos para todos
+cosmopolitismo|Identificación con humanidad global
+nacionalismo|Identificación con nación propia
+patriotismo|Amor a la patria
+chauvinismo|Nacionalismo agresivo y excluyente
+xenofobia|Rechazo u odio al extranjero
+racismo|Discriminación por raza o etnia
+sexismo|Discriminación por sexo o género
+homofobia|Rechazo u odio a personas homosexuales
+transfobia|Rechazo u odio a personas trans
+antisemitismo|Hostilidad hacia judíos
+islamofobia|Prejuicio contra musulmanes
+discurso de odio|Expresión que incita violencia contra grupo
+microagresión|Comentario sutilmente discriminatorio
+estereotipo|Imagen simplificada de un grupo
+prejuicio|Opinión previa sin fundamento
+discriminación|Trato desigual injustificado
+segregación|Separación forzada de grupos
+integración|Incorporación plena en sociedad
+asimilación|Adopción de cultura dominante
+multiculturalismo|Convivencia de varias culturas
+interseccionalidad|Cruce de categorías de opresión
+empoderamiento|Fortalecimiento de capacidad de decisión
+resiliencia|Capacidad de recuperarse de adversidad
+vulnerabilidad|Susceptibilidad a daño o explotación
+marginalización|Exclusión a los márgenes sociales
+exclusión social|Privación de participación plena
+pobreza|Falta de recursos para necesidades básicas
+pobreza extrema|Carencia severa de medios de subsistencia
+desigualdad|Distribución desproporcionada de recursos
+brecha digital|Desigualdad en acceso a tecnología
+brecha de género|Desigualdad entre hombres y mujeres
+techo de cristal|Barrera invisible al ascenso de mujeres
+suelo pegajoso|Concentración de mujeres en puestos bajos
+matrimonio igualitario|Unión legal entre personas del mismo sexo
+identidad de género|Percepción interna de propio género
+orientación sexual|Atracción hacia determinado sexo o género
+disforia de género|Malestar por incongruencia de género
+intersexualidad|Variación en características sexuales
+cisgénero|Persona cuya identidad coincide con sexo asignado
+transgénero|Persona cuya identidad difiere de sexo asignado
+no binario|Identidad fuera de categorías hombre mujer
+feminismo|Movimiento por igualdad de género
+masculinidad|Conjunto de rasgos asociados a hombres
+toxicidad|Aspecto dañino de ciertas normas sociales
+patriarcado|Sistema de dominación masculina
+matriarcado|Sistema de dominación femenina
+androcentrismo|Centramiento en perspectiva masculina
+ginecocracia|Gobierno o predominio de mujeres
+demografía|Estudio estadístico de poblaciones
+natalidad|Número de nacimientos en población
+mortalidad|Número de muertes en población
+esperanza de vida|Años promedio que vive una persona
+envejecimiento|Aumento de proporción de personas mayores
+migración|Desplazamiento de población entre territorios
+diaspora|Comunidad dispersa fuera de patria
+remesa|Envío de dinero por emigrante a familia
+brain drain|Emigración de personas altamente cualificadas
+urbanización|Crecimiento de población en ciudades
+gentrificación|Transformación de barrio que expulsa residentes
+suburbio|Zona residencial periférica de ciudad
+periferia|Zona marginal de área urbana
+metrópolis|Gran ciudad con área metropolitana
+conurbación|Zona urbana continua de varias ciudades
+megaciudad|Ciudad con más de diez millones de habitantes
+slum|Asentamiento urbano precario
+hacinamiento|Exceso de personas en espacio reducido
+infraestructura crítica|Sistemas esenciales para funcionamiento social
+planificación urbana|Diseño organizado de espacio urbano
+zoning|Clasificación de usos del suelo urbano
+movilidad sostenible|Transporte respetuoso con medio ambiente
+ciudad inteligente|Ciudad con tecnología para gestión eficiente
+espacio público|Área accesible a todos los ciudadanos
+bien común|Recurso compartido por comunidad
+tragedia de los comunes|Sobreexplotación de recurso compartido
+gobernanza|Forma de dirigir y coordinar actores
+accountability|Rendición de cuentas por acciones
+corrupción sistémica|Corrupción arraigada en instituciones
+estado fallido|Estado incapaz de ejercer funciones básicas
+estado nación|Estado con identidad nacional compartida
+nación sin estado|Pueblo con identidad sin territorio soberano
+irredentismo|Reivindicación de territorio considerado propio
+cosmopolita|Persona de mentalidad internacional
+provincianismo|Mentalidad limitada al entorno local
+parroquialismo|Visión estrecha de asuntos locales
+elitismo|Actitud de superioridad de élite
+meritocracia|Sistema basado en mérito individual
+oligarquía|Gobierno de pocas personas poderosas
+plutocracia|Gobierno de los ricos
+teocracia|Gobierno basado en religión
+tecnocracia|Gobierno de expertos técnicos
+kleptocracia|Gobierno de ladrones
+autocracia|Gobierno de una sola persona
+totalitarismo|Control total del estado sobre sociedad
+autoritarismo|Gobierno con poder concentrado sin libertades
+populismo|Discurso que apela al pueblo contra élites
+demagogia|Manipulación emocional del pueblo
+civilización|Estadio avanzado de desarrollo cultural
+barbarie|Estado de crueldad y falta de cultura
+decadencia|Declive moral o cultural
+renacimiento cultural|Revitalización artística e intelectual
+sincretismo|Fusión de tradiciones distintas
+hibridación|Mezcla de elementos culturales
+apropiación cultural|Uso de elementos de cultura ajena
+canon occidental|Obras consideradas clásicas en tradición occidental
+alteridad|Reconocimiento del otro como diferente
+intersubjetividad|Construcción compartida de significado
+intersubjetivo|Común a varias subjetividades
