@@ -1,9 +1,5 @@
 import type { Difficulty, Language, PuzzleSettings, Size } from '../types';
-import {
-  DIFFICULTY_LABELS,
-  LANGUAGE_LABELS,
-  SIZE_LABELS,
-} from '../types';
+import { useTranslation } from '../i18n';
 
 interface SettingsPanelProps {
   settings: PuzzleSettings;
@@ -50,27 +46,47 @@ export function SettingsPanel({
   onGenerate,
   isGenerating,
 }: SettingsPanelProps) {
+  const { t } = useTranslation();
+
+  const languageLabels: Record<Language, string> = {
+    en: t('labels.language.en'),
+    es: t('labels.language.es'),
+    sv: t('labels.language.sv'),
+  };
+
+  const difficultyLabels: Record<Difficulty, string> = {
+    kid: t('labels.difficulty.kid'),
+    adult: t('labels.difficulty.adult'),
+    wise: t('labels.difficulty.wise'),
+  };
+
+  const sizeLabels: Record<Size, string> = {
+    small: t('labels.size.small'),
+    standard: t('labels.size.standard'),
+    large: t('labels.size.large'),
+  };
+
   return (
     <div className="settings-panel">
       <OptionGroup<Language>
-        label="Language"
+        label={t('settings.language')}
         value={settings.language}
         options={['en', 'es', 'sv']}
-        labels={LANGUAGE_LABELS}
+        labels={languageLabels}
         onChange={(language) => onChange({ ...settings, language })}
       />
       <OptionGroup<Difficulty>
-        label="Difficulty"
+        label={t('settings.difficulty')}
         value={settings.difficulty}
         options={['kid', 'adult', 'wise']}
-        labels={DIFFICULTY_LABELS}
+        labels={difficultyLabels}
         onChange={(difficulty) => onChange({ ...settings, difficulty })}
       />
       <OptionGroup<Size>
-        label="Size"
+        label={t('settings.size')}
         value={settings.size}
         options={['small', 'standard', 'large']}
-        labels={SIZE_LABELS}
+        labels={sizeLabels}
         onChange={(size) => onChange({ ...settings, size })}
       />
       <button
@@ -79,7 +95,7 @@ export function SettingsPanel({
         onClick={onGenerate}
         disabled={isGenerating}
       >
-        {isGenerating ? 'Generating…' : 'Generate Crossword'}
+        {isGenerating ? t('settings.generating') : t('settings.generate')}
       </button>
     </div>
   );

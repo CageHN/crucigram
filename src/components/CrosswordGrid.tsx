@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useRef } from 'react';
 import type { CrosswordPuzzle, PlacedWord } from '../types';
+import { useTranslation } from '../i18n';
 
 const BLOCK = '#';
 
@@ -46,6 +47,7 @@ export function CrosswordGrid({
   onDirectionChange,
   selectedWord,
 }: CrosswordGridProps) {
+  const { t } = useTranslation();
   const inputRefs = useRef<Map<string, HTMLInputElement>>(new Map());
 
   const isActive = useCallback(
@@ -76,12 +78,48 @@ export function CrosswordGrid({
     input?.focus();
   };
 
+  const advanceToNextCell = useCallback(
+    (row: number, col: number) => {
+      const size = puzzle.size;
+      if (activeDirection === 'across') {
+        let next = col + 1;
+        while (next < size && puzzle.grid[row][next] === BLOCK) next++;
+        if (next < size && puzzle.grid[row][next] !== BLOCK) {
+          onActiveCellChange({ row, col: next });
+          focusCell(row, next);
+        }
+      } else {
+        let next = row + 1;
+        while (next < size && puzzle.grid[next][col] === BLOCK) next++;
+        if (next < size && puzzle.grid[next][col] !== BLOCK) {
+          onActiveCellChange({ row: next, col });
+          focusCell(next, col);
+        }
+      }
+    },
+    [activeDirection, onActiveCellChange, puzzle.grid, puzzle.size],
+  );
+
+  const enterLetter = useCallback(
+    (row: number, col: number, letter: string) => {
+      onCellChange(row, col, letter);
+      advanceToNextCell(row, col);
+    },
+    [advanceToNextCell, onCellChange],
+  );
+
   const handleKeyDown = (
     e: React.KeyboardEvent,
     row: number,
     col: number,
   ) => {
     const size = puzzle.size;
+
+    if (/^[a-zA-Z]$/.test(e.key)) {
+      e.preventDefault();
+      enterLetter(row, col, e.key.toUpperCase());
+      return;
+    }
 
     if (e.key === 'Backspace' && !userGrid[row][col]) {
       e.preventDefault();
@@ -148,26 +186,11 @@ export function CrosswordGrid({
     col: number,
   ) => {
     const val = e.target.value.slice(-1).toUpperCase().replace(/[^A-Z]/g, '');
-    onCellChange(row, col, val);
-
-    if (val) {
-      const size = puzzle.size;
-      if (activeDirection === 'across') {
-        let next = col + 1;
-        while (next < size && puzzle.grid[row][next] === BLOCK) next++;
-        if (next < size && puzzle.grid[row][next] !== BLOCK) {
-          onActiveCellChange({ row, col: next });
-          focusCell(row, next);
-        }
-      } else {
-        let next = row + 1;
-        while (next < size && puzzle.grid[next][col] === BLOCK) next++;
-        if (next < size && puzzle.grid[next][col] !== BLOCK) {
-          onActiveCellChange({ row: next, col });
-          focusCell(next, col);
-        }
-      }
+    if (!val) {
+      onCellChange(row, col, '');
+      return;
     }
+    enterLetter(row, col, val);
   };
 
   useEffect(() => {
@@ -226,9 +249,12 @@ export function CrosswordGrid({
                 value={userGrid[row][col] === BLOCK ? '' : userGrid[row][col]}
                 onChange={(e) => handleInput(e, row, col)}
                 onKeyDown={(e) => handleKeyDown(e, row, col)}
-                onFocus={() => onActiveCellChange({ row, col })}
+                onFocus={(e) => {
+                  onActiveCellChange({ row, col });
+                  e.target.select();
+                }}
                 className="cell-input"
-                aria-label={`Row ${row + 1}, column ${col + 1}`}
+                aria-label={t('grid.cellAria', { row: row + 1, col: col + 1 })}
               />
             </div>
           );
