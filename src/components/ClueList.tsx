@@ -1,4 +1,5 @@
 import type { PlacedWord } from '../types';
+import { useTranslation } from '../i18n';
 
 interface ClueListProps {
   placedWords: PlacedWord[];
@@ -13,12 +14,14 @@ function ClueSection({
   activeWord,
   onClueClick,
   onRevealWord,
+  revealTitle,
 }: {
   title: string;
   words: PlacedWord[];
   activeWord: PlacedWord | null;
   onClueClick: (word: PlacedWord) => void;
   onRevealWord: (word: PlacedWord) => void;
+  revealTitle: string;
 }) {
   if (words.length === 0) return null;
 
@@ -29,9 +32,7 @@ function ClueSection({
         {words.map((w) => (
           <li
             key={`${w.number}-${w.direction}`}
-            className={`clue-item ${
-              activeWord === w ? 'active' : ''
-            }`}
+            className={`clue-item ${activeWord === w ? 'active' : ''}`}
           >
             <button
               type="button"
@@ -44,7 +45,7 @@ function ClueSection({
               type="button"
               className="reveal-btn"
               onClick={() => onRevealWord(w)}
-              title="Reveal word"
+              title={revealTitle}
             >
               ?
             </button>
@@ -61,24 +62,27 @@ export function ClueList({
   onClueClick,
   onRevealWord,
 }: ClueListProps) {
+  const { t } = useTranslation();
   const across = placedWords.filter((w) => w.direction === 'across');
   const down = placedWords.filter((w) => w.direction === 'down');
 
   return (
     <div className="clues-panel">
       <ClueSection
-        title="Across"
+        title={t('clues.across')}
         words={across}
         activeWord={activeWord}
         onClueClick={onClueClick}
         onRevealWord={onRevealWord}
+        revealTitle={t('clues.revealWord')}
       />
       <ClueSection
-        title="Down"
+        title={t('clues.down')}
         words={down}
         activeWord={activeWord}
         onClueClick={onClueClick}
         onRevealWord={onRevealWord}
+        revealTitle={t('clues.revealWord')}
       />
     </div>
   );

@@ -1,4 +1,4 @@
-import { useCallback, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import type { CrosswordPuzzle, PlacedWord, PuzzleSettings } from './types';
 import {
   checkSolution,
@@ -10,6 +10,7 @@ import {
 import { SettingsPanel } from './components/SettingsPanel';
 import { CrosswordGrid } from './components/CrosswordGrid';
 import { ClueList } from './components/ClueList';
+import { I18nProvider, translateError, useTranslation } from './i18n';
 import './App.css';
 
 const DEFAULT_SETTINGS: PuzzleSettings = {
@@ -35,8 +36,14 @@ function findWordAt(
   );
 }
 
-export default function App() {
-  const [settings, setSettings] = useState<PuzzleSettings>(DEFAULT_SETTINGS);
+function AppContent({
+  settings,
+  onSettingsChange,
+}: {
+  settings: PuzzleSettings;
+  onSettingsChange: (settings: PuzzleSettings) => void;
+}) {
+  const { t } = useTranslation();
   const [puzzle, setPuzzle] = useState<CrosswordPuzzle | null>(null);
   const [userGrid, setUserGrid] = useState<string[][] | null>(null);
   const [isGenerating, setIsGenerating] = useState(false);
@@ -44,6 +51,11 @@ export default function App() {
   const [activeCell, setActiveCell] = useState<{ row: number; col: number } | null>(null);
   const [activeDirection, setActiveDirection] = useState<'across' | 'down'>('across');
   const [isSolved, setIsSolved] = useState(false);
+
+  useEffect(() => {
+    document.title = `${t('appTitle')} — ${t('tagline')}`;
+    document.documentElement.lang = settings.language;
+  }, [settings.language, t]);
 
   const activeWord = useMemo(() => {
     if (!puzzle || !activeCell) return null;
@@ -67,25 +79,23 @@ export default function App() {
         setActiveCell(null);
         setActiveDirection('across');
       } catch (err) {
-        setError(err instanceof Error ? err.message : 'Generation failed');
+        const message =
+          err instanceof Error ? err.message : t('generationFailed');
+        setError(translateError(settings.language, message));
         setPuzzle(null);
         setUserGrid(null);
       } finally {
         setIsGenerating(false);
       }
     });
-  }, [settings]);
+  }, [settings, t]);
 
   const handleCellChange = (row: number, col: number, value: string) => {
     if (!userGrid || !puzzle) return;
     const next = userGrid.map((r) => [...r]);
     next[row][col] = value;
     setUserGrid(next);
-    if (checkSolution(puzzle, next)) {
-      setIsSolved(true);
-    } else {
-      setIsSolved(false);
-    }
+    setIsSolved(checkSolution(puzzle, next));
   };
 
   const handleRevealLetter = () => {
@@ -110,15 +120,15 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Crucigram</h1>
-        <p className="tagline">Generate & solve crossword puzzles</p>
+        <h1>{t('appTitle')}</h1>
+        <p className="tagline">{t('tagline')}</p>
       </header>
 
       <main className="app-main">
         <aside className="sidebar">
           <SettingsPanel
             settings={settings}
-            onChange={setSettings}
+            onChange={onSettingsChange}
             onGenerate={handleGenerate}
             isGenerating={isGenerating}
           />
@@ -130,20 +140,15 @@ export default function App() {
           {!puzzle && !error && (
             <div className="welcome">
               <div className="welcome-icon">✏️</div>
-              <h2>Welcome to Crucigram</h2>
-              <p>
-                Choose your language, difficulty, and grid size, then hit
-                Generate to create a random crossword puzzle.
-              </p>
+              <h2>{t('welcomeTitle')}</h2>
+              <p>{t('welcomeText')}</p>
             </div>
           )}
 
           {puzzle && userGrid && (
             <>
               {isSolved && (
-                <div className="success-banner">
-                  Congratulations! You solved the puzzle!
-                </div>
+                <div className="success-banner">{t('congratulations')}</div>
               )}
               <div className="puzzle-layout">
                 <div className="grid-container">
@@ -164,14 +169,14 @@ export default function App() {
                       onClick={handleRevealLetter}
                       disabled={!activeCell}
                     >
-                      Reveal Letter
+                      {t('revealLetter')}
                     </button>
                     <button
                       type="button"
                       className="action-btn"
                       onClick={handleGenerate}
                     >
-                      New Puzzle
+                      {t('newPuzzle')}
                     </button>
                   </div>
                 </div>
@@ -187,5 +192,15 @@ export default function App() {
         </section>
       </main>
     </div>
+  );
+}
+
+export default function App() {
+  const [settings, setSettings] = useState<PuzzleSettings>(DEFAULT_SETTINGS);
+
+  return (
+    <I18nProvider language={settings.language}>
+      <AppContent settings={settings} onSettingsChange={setSettings} />
+    </I18nProvider>
   );
 }
