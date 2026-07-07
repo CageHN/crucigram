@@ -1,0 +1,558 @@
+hav|Stort område av saltvatten
+planet|Jorden är en av dessa
+trädgård|Plats där blommor växer
+musik|Konsten av organiserat ljud
+bro|Konstruktion över en flod
+slott|Befäst medeltida bostad
+skog|Stort område med träd
+marknad|Plats att köpa och sälja
+fönster|Glasöppning i en vägg
+ficka|Liten ficka i kläder
+silver|Värdefull gråvit metall
+ljus|Vaxstav som ger ljus
+tempel|Plats för tillbedjan
+segrare|Vinnare av en tävling
+vinter|Årets kallaste säsong
+sommar|Årets varmaste säsong
+vår|Säsong när blommor blommar
+höst|Säsong när löven faller
+resa|Färd till avlägsna platser
+vän|Person du litar på
+familj|Föräldrar, syskon och släktingar
+läkare|Medicinsk professionell
+advokat|Juridisk professionell
+konstnär|Person som skapar konst
+författare|Person som skriver böcker
+kaffe|Populär morgondryck
+smör|Pålägg gjort av grädde
+ost|Mejeriprodukt från mjölk
+apelsin|Citrusfrukt eller en färg
+lila|Blandning av rött och blått
+gul|Färg på en banan
+gitarr|Stränginstrument
+piano|Tangentinstrument
+fiol|Litet stränginstrument
+holme|Litet land omgivet av vatten
+öken|Torr sandig region
+dal|Lågt område mellan kullar
+älv|Rinnande sötvatten
+sjö|Stort insjövatten
+moln|Vit massa på himlen
+storm|Svårt väder med vind och regn
+blixt|Ljus flash under åskväder
+regnbåge|Färgad båge efter regn
+spegel|Reflekterande yta
+klocka|Apparat som visar tid
+telefon|Apparat för att ringa
+kamera|Apparat för att ta bilder
+laptop|Bärbar dator
+surfplatta|Platt pekskärmsenhet
+flaska|Behållare för vätskor
+kudde|Mjuk kudde att sova på
+filt|Varm täcke till sängen
+kök|Rum för att laga mat
+sovrum|Rum för att sova
+badrum|Rum med dusch eller badkar
+garage|Byggnad för bilar
+gata|Väg i en stad
+skola|Plats för lärande
+museum|Byggnad med konst eller historia
+teater|Plats för pjäser eller filmer
+tidning|Daglig nyhetspublikation
+radio|Apparat för ljudsändningar
+teve|Skärm för program
+dator|Elektronisk arbetsmaskin
+internet|Globalt nätverk av information
+mejl|Elektroniskt brev
+hemsida|Sida på internet
+lösenord|Skyddar ditt konto
+kontor|Plats för arbete
+möte|Samling för att diskutera arbete
+kollega|Person du arbetar med
+chef|Person som leder teamet
+anställd|Person som har ett jobb
+lön|Regelbunden betalning från arbete
+cv|Dokument med arbetserfarenhet
+intervju|Möte vid jobbansökan
+befordran|Avancemang till högre position
+deadline|Datum då arbete ska vara klart
+projekt|Planerat arbete med ett mål
+uppgift|Enskilt arbete att slutföra
+rapport|Skriftlig sammanfattning
+presentation|Föredrag med bilder för publik
+konferens|Stort formellt möte
+kontrakt|Juridiskt avtal om arbete
+semester|Betald ledighet från jobbet
+övertid|Extra arbetstid utöver normal
+pension|Inkomst efter arbetslivet
+försäkring|Skydd mot ekonomisk förlust
+bank|Institution för pengar
+konto|Plats för dina pengar
+kreditkort|Plastkort för betalning
+kontant|Pengar i sedlar och mynt
+räkning|Begäran om betalning
+budget|Plan för inkomster och utgifter
+skatt|Betalning till staten
+hyra|Månadskostnad för bostad
+bolån|Lån för att köpa hus
+ränta|Kostnad för att låna pengar
+investering|Pengar placerade för avkastning
+aktie|Andel i ett företag
+fond|Samlad investering
+inflation|Prisökning över tid
+recession|Period av ekonomisk nedgång
+arbetslöshet|Tillstånd utan jobb
+ekonomi|System för produktion och handel
+företag|Organisation som bedriver affärer
+företagare|Person som startar företag
+kund|Person som köper något
+säljare|Person som säljer produkter
+marknadsföring|Arbete för att sälja mer
+reklam|Budskap som marknadsför
+varumärke|Känt namn på produkter
+produkt|Vara som säljs
+tjänst|Arbete som erbjuds mot betalning
+kvalitet|Hur bra något är
+pris|Vad något kostar
+rabatt|Minskning av ordinarie pris
+kvitto|Bevis på betalning
+garanti|Löfte om reparation
+reklamation|Klagomål på en vara
+leverans|Transport av beställd vara
+lager|Förvaring av varor
+butik|Plats att handla i
+stormarknad|Stor butik med allt
+kassa|Där man betalar i butiken
+kundvagn|Vagn i mataffären
+recept|Instruktioner för matlagning
+ingrediens|Del av ett recept
+krydda|Ger smak åt maten
+sallad|Kall rätt med grönsaker
+gryta|Mat lagad i kastrull
+stekpanna|Kokar mat på spisen
+ugn|Bakar och gräddar mat
+mikrovågsugn|Värmer mat snabbt
+diskmaskin|Tvättar tallrikar automatiskt
+kylskåp|Håller mat kall
+frys|Förvarar mat frusen
+bestick|Gaffel, kniv och sked
+servett|Torkar munnen vid måltid
+underlägg|Skyddar bordet under tallrik
+skål|Djup tallrik
+kastrull|Kokar soppa och pasta
+visp|Rör ihop ägg och grädde
+skärbräda|Skär mat på denna
+rivjärn|Gör ost i strimlor
+korkskruv|Öppnar vinflaskor
+termos|Håller dryck varm
+restaurang|Äter mat ute
+kafé|Dricker kaffe och fika
+bageri|Säljer bröd och bakverk
+slaktare|Säljer kött
+fiskhandlare|Säljer fisk
+grönsakshandlare|Säljer grönsaker
+apotek|Köper medicin här
+sjukhus|Får sjukvård här
+vårdcentral|Mottagning för läkarbesök
+tandläkare|Vårdar tänder
+sjuksköterska|Hjälper läkaren
+ambulans|Transporterar akut sjuka
+medicin|Botar sjukdom
+vaccin|Skydd mot sjukdom
+feber|Hög kroppstemperatur
+hosta|Ljud från halsen
+snuva|Rinnande näsa
+huvudvärk|Ont i huvudet
+magsjuka|Illamående i magen
+allergi|Överkänslig reaktion
+operation|Kirurgiskt ingrepp
+röntgen|Bild av kroppens insida
+blodprov|Test av blodet
+gym|Tränar kroppen
+träning|Fysisk aktivitet för hälsa
+jogging|Löpning i lugn takt
+yoga|Övningar för kropp och ande
+massage|Behandling av muskler
+diet|Planerad kosthållning
+vitamin|Näringsämne i maten
+protein|Byggsten i muskler
+kolhydrat|Energigivande näringsämne
+fett|Näringsämne med hög energi
+fiber|Hjälper matsmältningen
+kalorier|Mått på energi i mat
+fotboll|Populär bollsport
+ishockey|Sport på is med klubba
+skidor|Vintersport i backen
+simning|Sport i bassäng
+cykling|Sport på två hjul
+golf|Sport med klubba och boll
+tennis|Bollspel över nät
+bordtennis|Snabb sport på bord
+badminton|Fjäderboll över nät
+volleyboll|Boll över nät med lag
+basket|Kasta boll i korg
+handboll|Boll med händerna
+friidrott|Löpning, hopp och kast
+boxning|Kampsport med handskar
+brottning|Kampsport med grepp
+gymnastik|Akrobatiska rörelser
+ridning|Sport på häst
+seglings|Sport med segelbåt
+fiske|Fångar fisk som hobby
+jakt|Fångar vilt
+camping|Semester i tält
+vandring|Lång promenad i naturen
+klättring|Uppför berg eller vägg
+dykning|Under vattnet med mask
+surfning|Rider på vågor
+skateboard|Åker på bräda med hjul
+längdskidor|Skidor i terräng
+puck|Disk i ishockey
+målvakt|Skyddar målet
+domare|Dömer i match
+tränare|Leder laget
+supporter|Håller på ett lag
+match|Tävling mellan lag
+turnering|Serie av matcher
+final|Sista matchen i turnering
+guldmedalj|Förstapris i tävling
+rekord|Bästa resultat någonsin
+stadion|Arena för stora matcher
+gymnasium|Inomhushall för sport
+bastu|Het rum för avslappning
+bio|Tittar på film
+konsert|Livemusik för publik
+opera|Teater med sång
+balett|Dans på scen
+utställning|Visar konst eller föremål
+galleri|Visar tavlor
+auktion|Säljer till högstbjudande
+roman|Lång skönlitterär bok
+novell|Kort berättelse
+poesi|Konstnärlig dikt
+biografi|Bok om någons liv
+deckare|Spännande kriminalberättelse
+fantasy|Berättelse med magi
+science fiction|Berättelse om framtiden
+tidskrift|Magasin om ett ämne
+kolumn|Återkommande text i tidning
+redaktör|Ansvarig för publicering
+journalist|Skriver nyheter
+fotograf|Tar bilder professionellt
+regissör|Styr en film
+producent|Finansierar film
+skådespelare|Spelar roller i film
+manus|Text till film eller teater
+scen|Där skådespelare uppträder
+publik|Åskådare vid föreställning
+applåd|Handklappning av publiken
+premiär|Första visningen
+recension|Bedömning av film eller bok
+bestseller|Mycket såld bok
+bibliotek|Lånar böcker gratis
+bokhandel|Säljer böcker
+bokmärke|Håller koll på sidan
+bokhylla|Förvarar böcker
+lägenhet|Hyrd bostad i flerfamiljshus
+villa|Fristående hus med trädgård
+balkong|Uteplats på övre våning
+källare|Lägsta våning under mark
+vind|Förvaring under taket
+hall|Korridor mellan rum
+trappa|Steg mellan våningar
+hiss|Lyft mellan våningar
+skåp|Förvarar kläder
+garderob|Stort klädskåp
+tvättstuga|Tvättar kläder här
+dammsugare|Suger upp damm
+tvättmedel|Rengör kläder
+strykjärn|Tar bort veck
+hammare|Slår i spik
+skruvmejsel|Skruvar i skruvar
+stege|Klättrar på denna
+pensel|Målar med denna
+uttag|Eluttag i väggen
+termostat|Styr temperaturen
+dörrklocka|Ringer när någon kommer
+brevlåda|Får post här
+staket|Grind runt tomten
+rännsten|Vatten från taket
+skorsten|Rök från elden
+öppen spis|Brinner ved inomhus
+matta|Mjuk på golvet
+gardin|Hänger för fönster
+lakan|Över madrassen
+täcke|Varmt över sängen
+madrass|Ligger under lakanet
+kran|Vatten i kök och bad
+handfat|Tvättar händer här
+toalett|Behövs efter maten
+dusch|Vatten från ovan
+badkar|Ligger och badar
+handduk|Torkar efter dusch
+tandkräm|På tandborsten
+schampo|Tvättar håret
+tvål|Rengör huden
+rakhyvel|Rakar skägg
+korg|Förvarar saker
+hängare|Hänger jackan på
+byrå|Lådor för kläder
+soffa|Sitter i vardagsrummet
+fåtölj|Bekväm stol
+bord|Äter och arbetar vid
+stol|Sitter på denna
+lampa|Ger ljus i rummet
+taklampa|Hänger från taket
+bordslampa|Står på bordet
+flygplats|Flygplan startar här
+pass|Dokument för utlandsresa
+bagage|Väskor på resan
+resväska|Rektangulär väska
+biljett|Bevis på bokning
+hotell|Övernattar på resan
+vandrarhem|Billigt boende
+semesterort|Plats för avkoppling
+kryssning|Resa med fartyg
+tunnelbana|Tåg under jorden
+taxi|Hyrd bil med chaufför
+färja|Båt över vatten
+motorväg|Stor väg mellan städer
+omväg|Alternativ väg
+karta|Visar vägar
+kompass|Visar norr
+ryggsäck|Bär på axlarna
+tält|Boende på camping
+turist|Besöker en plats
+guide|Leder besökare
+avgång|När resan börjar
+ankomst|När resan slutar
+försening|Tåget är sent
+tull|Kontroll vid gränsen
+visum|Tillstånd att resa in
+incheckning|Registrering på hotell
+gate|Var man går ombord
+bälte|Säkerhet i bilen
+rastplats|Stannar på lång resa
+milstolpe|Visar avstånd
+landmärke|Känd plats i stad
+souvenir|Minne från resan
+bilkörning|Lång resa med bil
+jetlag|Trött efter tidszoner
+passagerare|Reser i fordonet
+pilot|Flyger planet
+steward|Betjänar ombord
+kapten|Förare av skepp
+hamn|Båtar ligger här
+station|Tåg stannar här
+plattform|Står och väntar på tåg
+tidtabell|Visar avgångstider
+rabattkort|Ger billigare resor
+parkering|Ställer bilen här
+bensin|Bränsle till bilen
+diesel|Alternativt bränsle
+elbil|Drivs av batteri
+laddning|Fyller elbilen
+verkstad|Reparerar bilar
+däck|Rullar på vägen
+motor|Driver bilen
+ratt|Styr bilen
+broms|Stoppar bilen
+gas|Accelererar bilen
+back|Växel för att backa
+blinkers|Visar sväng
+körkort|Behörighet att köra
+trafik|Bilar på vägen
+kö|Bilar står stilla
+övergångsställe|Gående korsar här
+trafikljus|Styr trafiken
+rondell|Cirkulär korsning
+motorvägsavgift|Betalar för motorväg
+hastighet|Hur fort man kör
+fortkörning|Kör för fort
+parkeringsbot|Böter för fel parkering
+olycka|Krock på vägen
+bärgning|Drar bort bilen
+besiktning|Kontroll av bilen
+moped|Litet motorfordon
+cykel|Två hjul med pedaler
+sparkcykel|Tre hjul för barn
+buss|Kollektivtrafik på väg
+spårvagn|Tåg på gatan
+pendeltåg|Till och från jobbet
+tåg|Åker på räls
+lok|Drar tågvagnarna
+vagn|Del av tåget
+sovvagn|Sover på tåget
+restaurangvagn|Äter ombord
+flygplan|Flyger i luften
+helikopter|Rotorflygplan
+segelbåt|Drivs av vind
+motorbåt|Drivs av motor
+kanot|Paddlas på vatten
+kajak|Smal paddelbåt
+rullstol|Hjälper rörelsehindrade
+barnvagn|Kör barnet i
+cykelhjälm|Skyddar huvudet
+reflex|Syns i mörker
+varningstriangel|Vid bilhaveri
+snökedjor|På hjulen vintertid
+isbild|På vindrutan på morgonen
+spolarvätska|Rengör rutan
+oljebyte|Byter motorolja
+filter|Rengör luft eller olja
+batteri|Startar bilen
+lykta|Lyser i mörker
+bakljus|Rött ljus bak
+dimljus|Vid dålig sikt
+tuta|Ljud för att varna
+säkerhetsbälte|Skyddar i krock
+krockkudde|Blåses upp vid olycka
+bilbarnstol|Barn sitter säkert
+last|Det som transporteras
+flak|Platt för last
+container|Stor fraktbehållare
+frakt|Transport av varor
+leverantör|Skickar varor
+import|Varor från utlandet
+export|Varor till utlandet
+valuta|Pengar i annat land
+växelkurs|Värde mellan valutor
+euro|Valuta i många länder
+krona|Svensk valuta
+dollar|Amerikansk valuta
+pund|Brittisk valuta
+mynt|Metallpengar
+sedel|Papperspengar
+växel|Småpengar tillbaka
+bankomat|Tar ut kontanter
+swish|Betala med mobilen
+faktura|Betalningsanmodan
+autogiro|Automatisk betalning
+sparkonto|Sparar pengar
+lån|Pengar man lånar
+amortering|Betalar tillbaka lån
+borgenär|Den som lånar ut
+gäldenär|Den som är skyldig
+konkurs|Företag går under
+arv|Pengar efter avliden
+testamente|Villkor för arv
+notarie|Bevittnar dokument
+fullmakt|Tillåter någon att agera
+avtal|Överenskommelse
+klausul|Del av avtal
+tvist|Oenighet som tvistas om
+förlikning|Löser tvist utan rättegång
+domstol|Där tvister avgörs
+jury|Bedömer i vissa fall
+åklagare|Anklagar brottsling
+försvarare|Försvarar den anklagade
+vittne|Såg vad som hände
+bevis|Styrker påstående
+straff|Påföljd för brott
+böter|Ekonomiskt straff
+fängelse|Insluten för brott
+villkorlig|Slipper sitta hela tiden
+övervakning|Kontrolleras efter brott
+polis|Upprätthåller lagen
+patrull|Poliser i tjänst
+utryckning|Akut polisinsats
+brott|Handling mot lagen
+stöld|Tar det som inte är ens
+rån|Stöld med våld
+bedrägeri|Lurar någon på pengar
+inbrott|Bryter sig in
+brand|Eld som sprider sig
+brandkår|Släcker bränder
+räddningstjänst|Räddar vid olyckor
+sjukvård|Vårdar de sjuka
+akutmottagning|Akut sjukvård
+intensivvård|Vård vid livshot
+kirurgi|Opererar patienter
+anestesi|Bedövning vid operation
+rehabilitering|Återhämtning efter skada
+förebyggande|Förhindrar sjukdom
+hälsokontroll|Regelbunden undersökning
+blodtryck|Tryck i blodkärlen
+puls|Hjärtslag per minut
+andning|Luft in och ut
+sömn|Vilar kroppen
+stress|Mental påfrestning
+utmattning|Extrem trötthet
+depression|Nedstämdhet över tid
+ångest|Oro och rädsla
+terapi|Behandling av psykiska besvär
+psykolog|Behandlar mental hälsa
+psykiater|Läkare för psykisk ohälsa
+samtal|Pratar om problem
+stödgrupp|Deltar med andra
+kris|Svår situation
+katastrof|Allvarlig händelse
+jordbävning|Skakning i marken
+översvämning|Vatten täcker mark
+torka|Långvarig brist på regn
+orkan|Mycket kraftig storm
+tornado|Virvlande storm
+lavin|Snö rasar i berg
+skogsbrand|Eld i skogen
+oljeutsläpp|Olja i havet
+miljö|Naturen omkring oss
+klimat|Långsiktigt väder
+växthuseffekt|Värme stannar i atmosfären
+utsläpp|Gas som släpps ut
+förnybar|Energi som förnyas
+solcell|Gör el av sol
+vindkraft|Energi från vind
+vattenkraft|Energi från vatten
+kärnkraft|Energi från atomer
+återvinning|Sorterar avfall
+kompost|Matavfall blir jord
+sopor|Det vi kastar
+deponi|Där sopor läggs
+förorening|Skadlig substans i miljön
+art|Typ av levande varelse
+utrotning|Art försvinner helt
+reservat|Skyddat naturområde
+nationalpark|Stort skyddat område
+vandringsled|Markerad stig
+utsikt|Det man ser långt
+horisont|Där himmel möter mark
+soluppgång|Solen går upp
+solnedgång|Solen går ner
+polarnatt|Mörker dygnet runt
+midnattssol|Solen lyser hela natten
+norrskens|Färger på himlen
+ekosystem|Samspel i naturen
+näringskedja|Vem äter vem
+rovdjur|Jagar andra djur
+bytesdjur|Blir jagat
+habitat|Djurets livsmiljö
+migration|Flyttar med årstiderna
+revir|Djurets område
+flock|Grupp av djur
+koloni|Många djur tillsammans
+par|Två som hör ihop
+avkomma|Barn till djur
+ägg|Innan ungen kläcks
+värpa|Lägger ägg
+föda|Föder ungar
+dia|Ger mjölk till unge
+bo|Där djuret bor
+rede|Fågelns bo
+håla|Bo i marken
+päls|Djurets hår
+fjäder|Fågelns täckning
+fjäll|Reptilens skydd
+horn|På huvudet
+betar|Äter gräs
+jagar|Fångar byte
+sover|Vilar
+vaknar|Slutar sova
+vilar|Tar paus
+flyr|Springer från fara
+gömmer|Döljer sig
+markerar|Lämner spår
+luktar|Känner doft
+lockar|Attraherar
+varnar|Signal om fara
+kommunicerar|Utbyter information
+samverkar|Arbetar tillsammans

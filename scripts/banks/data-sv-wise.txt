@@ -1,0 +1,668 @@
+filosofi|Studiet av grundläggande existensfrågor
+metafor|Bildligt uttryck som jämför
+algoritm|Stegvis beräkningsprocedur
+arkitektur|Konsten att designa byggnader
+astronomi|Vetenskap om himlakroppar
+biografi|Skildring av någons liv
+kapitalism|Ekonomiskt system med privat ägande
+demokrati|Folkstyre
+epistemologi|Filosofisk gren om kunskap
+hierarki|System av rangordnade nivåer
+juxtaposition|Placera sida vid sida för kontrast
+kinetisk|Som rör rörelse
+labyrint|Komplex labyrintliknande struktur
+magnitud|Stor storlek eller betydelse
+nomenklatur|System för att namnge saker
+obskyr|Inte välkänd; svår att förstå
+paradox|Till synes motsägelsefullt påstående
+kvintessens|Mest fulländade förkroppsligande
+resonans|Djup betydelse eller vibration
+syntes|Kombination av idéer till en helhet
+tangent|Bara lätt relevant
+allestädesnärvarande|Närvarande överallt
+empati|Upplevt genom en annan person
+nyckfull|Lekfullt fantasifull
+ivrig|Visar stor entusiasm
+tvetydig|Öppen för mer än en tolkning
+byråkrati|Komplext administrativt system
+katharsis|Emotionellt utlopp genom konst
+dikotomi|Uppdelning i två motsatta delar
+vältalig|Flytande och övertygande i tal
+felaktig|Baserad på ett misstag
+släktforskning|Studiet av familjehistoria
+heuristik|Praktisk problemlösning
+ikonoklast|Den som utmanar tradition
+omdömesgill|Visar gott omdöme
+kalejdoskop|Rör som visar skiftande mönster
+lakonic|Använder mycket få ord
+melodiös|Sött eller musikaliskt att höra
+dimma|Vag eller otydlig
+ontologi|Studiet av varelsens natur
+skarpsinnig|Med skarp insikt
+träsk|Svår eller osäker situation
+motspänd|Envist osamarbetsvillig
+klok|Med skarpt omdöme
+fåordig|Reserverad eller tystlåten
+smörig|Överdrivet smickrande
+sannolikhet|Sken av att vara sant
+fast|Helt säker och solid
+främlingskap|Rädsla eller hat mot utlänningar
+förr|Tid i det nära förflutna
+vindfläkt|Mild bris
+avvikelse|Avvikelse från det normala
+kakofoni|Hård blandning av ljud
+skadlig|Som orsakar skada
+bubblig|Livlig och entusiastisk
+noggrann|Mycket uppmärksam på detaljer
+grandios|Imponerande men överdrivet
+haphazard|Utan organisation
+olämplig|Inte i harmoni med omgivningen
+juggernaut|Enorm kraftfull kraft
+abstraktion|Koncept skilt från konkret verklighet
+epitom|Perfekt exempel på en egenskap
+hermeneutik|Konsten att tolka texter
+metafysik|Filosofi om den yttersta verkligheten
+fenomenologi|Studium av levda fenomen
+existentialism|Filosofi om existens och val
+nihilism|Förnekelse av mening och värden
+stoicism|Filosofi om att behärska lidande
+epikurism|Filosofi om måttlig njutning
+sofist|Retoriker som undervisar i övertygelse
+dialektik|Metod genom motsättningar
+retorik|Konsten att övertyga med tal
+logik|Vetenskap om giltigt resonemang
+axiom|Sant påstående utan bevis
+teorem|Påstående som bevisats
+korollarium|Direkt följd av ett teorem
+hypotes|Förslag som ska prövas
+empirism|Kunskap genom erfarenhet
+rationalism|Kunskap genom förnuft
+skepticism|Tvivel om absolut sanning
+relativism|Sanning beror på sammanhang
+dogm|Orubblig lärosats
+ortodoxi|Följsamhet mot etablerad tro
+heterodoxi|Avvikelse från officiell lära
+pedant|Person som skryter med lärdom
+erudit|Person med omfattande kunskap
+polymat|Person med bred kunskap
+dilettant|Amatör utan djup
+intellektuell|Person av tanken
+akademiker|Universitetsforskare
+doktrin|Lära eller principuppsättning
+kanon|Samling av klassiska verk
+anakronism|Fel tidsperiod i verk
+arkaism|Gammalmodigt språkbruk
+neologism|Nybildat ord
+etymologi|Studium av ords ursprung
+semantik|Studium av betydelse
+pragmatik|Språk i användning
+fonetik|Studium av taljud
+morfologi|Studium av ords form
+syntax|Studium av meningsbyggnad
+lexikografi|Konsten att skriva lexikon
+filologi|Vetenskaplig textstudie
+paleografi|Studium av gamla skrifter
+epigrafi|Studium av inskrifter
+arkeologi|Studium av materiella lämningar
+antropologi|Studium av människan
+etnografi|Beskrivning av kulturer
+sociologi|Studium av samhället
+psykologi|Studium av sinne och beteende
+psykiatri|Medicin för psykisk sjukdom
+neurologi|Medicin för nervsystemet
+kardiologi|Medicin för hjärtat
+onkologi|Medicin för cancer
+dermatologi|Medicin för huden
+ginekologi|Medicin för kvinnors hälsa
+urologi|Medicin för urinvägar
+oftalmologi|Medicin för ögonen
+endokrinologi|Medicin för hormoner
+immunologi|Studium av immunförsvaret
+epidemiologi|Studium av sjukdomsspridning
+farmakologi|Studium av läkemedel
+toxikologi|Studium av gifter
+anatomi|Studium av kroppens struktur
+fysiologi|Studium av kroppens funktion
+patologi|Studium av sjukdomar
+diagnos|Identifiering av sjukdom
+prognos|Förutsägelse om sjukdomsförlopp
+terapi|Behandling av sjukdom
+kirurgi|Behandling genom operation
+anestesi|Bedövning vid ingrepp
+rehabilitering|Återställning efter skada
+profylax|Förebyggande vård
+molekyl|Minsta enhet av förening
+atom|Grundenhet av materia
+elektron|Negativt laddad partikel
+proton|Positivt laddad kärnpartikel
+neutron|Neutral partikel i kärnan
+gravitation|Kraft som drar kroppar
+hastighet|Fart i en riktning
+acceleration|Förändring av hastighet
+rörelsemängd|Mängd av rörelse
+friktion|Motstånd vid kontakt
+tröghet|Motstånd mot rörelseförändring
+magnetism|Kraft från magneter
+strålning|Energi som vågor eller partiklar
+spektrum|Utbud av våglängder
+våglängd|Avstånd mellan vågtoppar
+frekvens|Svängningar per sekund
+entropi|Mått på oordning
+katalysator|Påskyndar reaktion
+isotop|Variant av grundämne
+polymer|Stor molekyl av enheter
+enzym|Protein som katalyserar
+genom|Organismens arvsmassa
+kromosom|Bärare av gener
+mutation|Förändring i DNA
+evolution|Gradvis artsförändring
+ekologi|Studium av miljöer
+biologi|Vetenskap om liv
+geologi|Vetenskap om jorden
+astrofysik|Fysik om himlakroppar
+kvantmekanik|Fysik om det subatomära
+relativitetsteori|Einsteins rumtidslära
+termodynamik|Studium av värme och energi
+kärna|Centrum i atom eller cell
+mitokondrie|Cellens energifabrik
+ribosom|Bygger proteiner i cellen
+bakterie|Encellig utan kärna
+virus|Smittämne i värdcell
+vakuum|Tomt på materia
+plasma|Joniserat gasformigt tillstånd
+supernova|Explosiv stjärndöd
+nebulosa|Gas- och stoftmoln i rymden
+galax|Stort system av stjärnor
+bana|Kurvad väg kring kropp
+teleskop|Instrument för avlägsna objekt
+mikroskop|Instrument för små objekt
+experiment|Kontrollerat vetenskapligt test
+teori|Väl underbyggd förklaring
+empiri|Kunskap från observation
+induktion|Slutsats från exempel
+deduktion|Slutsats från allmän regel
+falsifiering|Motbevisande av hypotes
+paradigm|Dominerande vetenskaplig modell
+revolution|Radikal förändring av vetenskap
+peer review|Granskning av kollegor
+publicering|Gör forskning offentlig
+citering|Hänvisning till källa
+patent|Skydd för uppfinning
+uppfinning|Ny teknisk lösning
+innovation|Ny tillämpning av idé
+teknologi|Tillämpad vetenskap
+digitalisering|Övergång till digital form
+automation|Maskiner gör arbetet
+artificiell intelligens|Maskiner som tänker
+maskininlärning|Datorer lär av data
+neuralt nätverk|Modell inspirerad av hjärnan
+big data|Enorma datamängder
+kryptografi|Konsten att koda meddelanden
+blockkedja|Distribuerad digital bokföring
+cybersäkerhet|Skydd mot digitala hot
+algoritmisk|Styrd av beräkningssteg
+optimering|Förbättring av resultat
+komplexitet|Svårighetsgrad i system
+kaos|Känslighet för startvillkor
+fraktal|Självsimilar struktur
+topologi|Studium av rumsliga egenskaper
+algebra|Gren med ekvationer
+geometri|Studium av former
+trigonometri|Studium av vinklar
+kalkyl|Gren om förändring
+statistik|Samling och analys av data
+sannolikhetsteori|Matematik om slump
+regression|Modell av samband
+korrelation|Statistiskt samband
+signifikans|Statistiskt meningsfull skillnad
+varians|Spridning i data
+median|Mittvärde i ordnad lista
+standardavvikelse|Mått på spridning
+ekonometri|Statistik i ekonomi
+mikroekonomi|Studium av enskilda aktörer
+makroekonomi|Studium av hela ekonomin
+keynesianism|Statlig stimulanslära
+monetarism|Styrning via penningmängd
+merkantilism|Handel ger rikedom
+socialism|Kollektivt ägande
+kommunism|Klasslöst samhälle
+anarkism|Avskaffande av staten
+liberalism|Individuell frihet
+konservatism|Bevarande av tradition
+nationalism|Nationens främsta värde
+internationalism|Gränsöverskridande solidaritet
+imperialism|Expansion av imperium
+kolonialism|Styre över kolonier
+postkolonialism|Efter kolonialt styre
+globalisering|Ökad världsomspännande koppling
+neoliberalism|Marknadsorienterad politik
+välfärdsstat|Stat med social trygghet
+protektionism|Skydd av inhemsk industri
+subvention|Statligt ekonomiskt stöd
+austerity|Stram finanspolitik
+stagflation|Stagnation med inflation
+deflation|Fallande prisnivå
+konjunktur|Cykliska ekonomiska svängningar
+räntepolitik|Styrning via ränta
+kvantitativa lättnader|Centralbank köper tillgångar
+statsbudget|Statens inkomster och utgifter
+offentlig skuld|Statens upplåning
+budgetunderskott|Utgifter överstiger intäkter
+budgetöverskott|Intäkter överstiger utgifter
+valutareserv|Utländsk valuta i förråd
+handelsbalans|Export minus import
+BNP|Värdet av nationens produktion
+bruttonationalprodukt|Total produktion i landet
+köpkraft|Vad pengar räcker till
+levnadsstandard|Materiell välfärd
+ojämlikhet|Ojämn fördelning
+gini|Mått på inkomstojämlikhet
+fattigdom|Brist på resurser
+välgörenhet|Gåvor till behövande
+filantropi|Storskaligt välgörande
+lobbyism|Påverkan av beslutsfattare
+korruption|Missbruk av makt
+nepotism|Gynnande av släktingar
+transparent|Öppen och insynsvänlig
+accountability|Ansvarsskyldighet
+legitimitet|Erkänd rätt att styra
+suveränitet|Statens självbestämmande
+federalism|Delad makt mellan nivåer
+enhetsstat|Centraliserad stat
+konfederation|Lös sammanslutning
+republik|Stat utan monark
+monarki|Stat med kung eller drottning
+konstitutionell monarki|Kung med begränsad makt
+teokrati|Styre av religiösa ledare
+autokrati|Enpersonsstyre
+diktatur|Oinskränkt envälde
+totalitarism|Total kontroll av staten
+auktoritärt|Strikt och odemokratiskt
+pluralism|Många intressen i samhället
+civilsamhälle|Organisationer utanför staten
+fackförening|Organiserar arbetstagare
+strejka|Arbetsnedläggelse i protest
+medling|Förhandling mellan parter
+skiljedom|Tredje part avgör tvist
+rättsstat|Styre enligt lag
+rättssäkerhet|Skydd mot godtycke
+habeas corpus|Rätt att inte fängslas godtyckligt
+presumtion|Antagande tills motsatsen bevisas
+jurisdiktion|Rättslig behörighet
+prejudikat|Tidigare dom som vägleder
+lagstiftning|Process att skapa lagar
+proposition|Förslag till ny lag
+parlament|Folkvalda beslutar lagar
+opposition|Partier utan regeringsmakt
+koalition|Sammanslagning av partier
+mandat|Uppdrag från väljare
+valkrets|Område som väljer representant
+proportionalitet|Mandat efter röstandel
+folkomröstning|Direkt beslut av folket
+initiativ|Medborgarförslag till omröstning
+lobby|Påverkar politiska beslut
+spin|Vinklad politisk kommunikation
+propaganda|Systematisk opinionsskapande
+desinformation|Avsiktligt falsk information
+censur|Förhindrar publicering
+yttrandefrihet|Rätt att uttrycka åsikter
+pressfrihet|Media utan statlig kontroll
+källskydd|Journalist skyddar källa
+integritet|Skydd av personuppgifter
+övervakning|Systematisk bevakning
+whistleblower|Avslöjar missförhållanden
+korruptionsbekämpning|Motverkar mutor
+statskupp|Våldsam maktövertagande
+reform|Gradvis förändring
+kontrarevolution|Motverkar revolution
+gerilla|Oregelbunden krigföring
+terrorism|Våld för politiskt syfte
+militär|Försvarsmakt
+diplomati|Förhandling mellan stater
+ambassad|Diplomatisk beskickning
+sanktion|Straff mot annan stat
+embargo|Förbud mot handel
+allians|Militärt eller politiskt förbund
+neutralitet|Står utanför konflikt
+fredsfördrag|Avslutar krig
+genèvekonvention|Regler för krigföring
+krigsförbrytelse|Brott under krig
+folkmord|Systematisk utrotning av grupp
+etnisk rensning|Driva bort folkgrupp
+flykting|Tvingas lämna hemlandet
+asyl|Skydd för förföljd
+migration|Flyttning mellan länder
+integration|Inkludering av invandrare
+assimilation|Anpassning till majoritetskultur
+multikulturalism|Flera kulturer sida vid sida
+xenofobi|Främlingsfientlighet
+rasism|Diskriminering efter härkomst
+antisemitism|Hat mot judar
+islamofobi|Fientlighet mot muslimer
+diskriminering|Orättvis behandling
+affirmativ action|Positiv särbehandling
+jämställdhet|Lika rättigheter oavsett kön
+feminism|Kamp för kvinnors rätt
+patriarkat|Mansdominerat samhälle
+könsroller|Förväntningar efter kön
+intersektionalitet|Överlappande diskriminering
+queerteori|Kritik av könsnormer
+identitetspolitik|Politik kring gruppidentitet
+kulturarv|Ärvda traditioner och värden
+folklore|Traditionell berättelse och sed
+mytologi|Samling av myter
+archetyp|Urgammalt symbolmönster
+ritual|Formell ceremoniell handling
+liturgi|Ordning för gudstjänst
+sekularisering|Minskad religiös påverkan
+sekularism|Separation av religion och stat
+teologi|Systematisk studie av Gud
+agnosticism|Osäkerhet om gudomsfrågan
+ateism|Förnekelse av gud
+panteism|Gud i allt
+deism|Gud skapade men ingriper inte
+mysticism|Direkt upplevelse av det gudomliga
+kontemplation|Djup eftertänksam meditation
+ascetism|Strikt avstånd från njutning
+hedonism|Njutning som livsmål
+utilitarism|Största lycka för flest
+deontologi|Pliktetik oberoende av följder
+virtuetik|Fokus på dygd och karaktär
+konsekventialism|Moral efter följder
+absolutism|Moral är universell
+absurdism|Livet saknar inneboende mening
+humanism|Människans värde i centrum
+posthumanism|Utmanar människocentrerat tänkande
+transhumanism|Förbättra människan tekniskt
+bioetik|Etik kring livsvetenskap
+djurrätt|Etiska krav för djur
+miljöetik|Moraliska skyldigheter till naturen
+hållbarhet|Långsiktig ekologisk balans
+resiliens|Förmåga att återhämta sig
+antropocen|Människans geologiska epok
+biodiversitet|Mångfald av arter
+utarmning|Förlust av näringsämnen
+ökenifiering|Land blir öken
+avskogning|Skog försvinner
+monokultur|Endast en art odlas
+genteknik|Modifiering av arvsmassa
+kloning|Genetisk kopia
+stamcell|Cell som kan bli många typer
+genterapi|Behandling via gener
+eutanasi|Medveten avslutning av liv
+assisterat självmord|Hjälp att avsluta liv
+dödshjälp|Läkarassisterad livsavslutning
+palliativ vård|Lindrar i livets slut
+hospis|Vård i livets slutskede
+sorgearbete|Bearbetning av förlust
+trauma|Djup psykisk sår
+PTSD|Stress efter trauma
+kognitiv|Relaterat till tänkande
+metakognition|Tänka om sitt tänkande
+bias|Systematisk snedvridning
+konfirmationsbias|Söker bekräftelse
+halo-effekt|En egenskap färgar hela bedömningen
+grupptänk|Konformitet i grupp
+deindividuation|Förlorar själv i grupp
+socialisation|Lär samhällets normer
+habitus|Inrelograde vanor och dispositioner
+habit|Automatiserat beteende
+kognition|Mental bearbetning
+perception|Sinnesintryck tolkas
+illusion|Felaktig uppfattning
+hallucination|Upplevelse utan yttre stimuli
+minne|Lagring av erfarenheter
+episodiskt minne|Minns händelser
+semantiskt minne|Minns fakta
+proceduralt minne|Minns hur man gör
+amnesi|Minnesförlust
+nostalgi|Längtan till det förflutna
+melankoli|Djupt vemod
+eufori|Extrem lycka
+apatisk|Känslomässigt likgiltig
+ambivalent|Motstridiga känslor
+katarsis|Rensande känsloutlopp
+sublimering|Omdirigerar drift till kultur
+projektion|Tillskriver andra egna drag
+förnekelse|Vägrar erkänna verklighet
+rationalisering|Motiverar irrationellt beteende
+försvarsmekanism|Skyddar mot ångest
+libido|Psykisk energi och drift
+överjag|Moralisk inre kontroll
+undermedveten|Utanför medveten uppmärksamhet
+kollektivt omedvetet|Delat arvpsykologiskt
+arketyp|Urgammalt psykiskt mönster
+individuation|Bli hel och unik
+självförverkligande|Uppnå sin potential
+autenticitet|Vara sann mot sig
+alienation|Främlingskap till sig själv
+existentiell|Om existens och mening
+ångest|Grundläggande existentiell oro
+förtvivlan|Hopplöshet inför livet
+hopplöshet|Avsaknad av hopp
+grit|Uthållighet mot mål
+flöde|Fullt engagemang i aktivitet
+meditation|Fokuserad mental vila
+mindfulness|Medveten närvaro
+introspektion|Inåtvänd självgranskning
+extrospektion|Utåtriktad observation
+sympati|Medkänsla med andra
+medkänsla|Bryr sig om andras lidande
+altruism|Självuppoffrande för andra
+egoism|Handlar för egen vinning
+narcissism|Överdriven självkärlek
+machiavellism|Manipulerar för makt
+psykopati|Brist på empati och skuld
+sociopati|Antisocial personlighetsstörning
+karisma|Personlig dragningskraft
+auktoritet|Erkänd makt att leda
+prestige|Hög social status
+status|Position i hierarki
+kast|Strikt social skiktning
+klass|Social grupp efter resurser
+elit|Maktgrupp i toppen
+meritokrati|Belöning efter förtjänst
+oligarki|Styre av få rika
+plutokrati|Styre av de rika
+kleptokrati|Styre som stjäl
+kakistokrati|Styre av de sämsta
+teknokrati|Styre av experter
+gerontokrati|Styre av de äldsta
+geniokrati|Styre av de klokaste
+demagogi|Folkledare som manipulerar
+populism|Appellerar till folklig ilska
+elitism|Företräder privilegierade
+merit|Förtjänst och duglighet
+patronage|Beskyddarskap mot lojalitet
+klientelism|Politiska gåvor mot röster
+korporativism|Sammanslutning av intressen
+syndikalism|Arbetarstyrda fack
+anarkosyndikalism|Fack utan statligt styre
+kommunalism|Lokal självstyrelse
+regionalism|Främjar regionens intressen
+separatism|Vill bryta sig loss
+självbestämmande|Folk bestämmer över sig
+irredentism|Vill återta förlorat territorium
+revanchism|Hämndlystnad efter nederlag
+militarism|Militärens dominans
+pacifism|Motstånd mot krig
+nonviolens|Vägran att bruka våld
+civil olydnad|Bryter orättvis lag
+sabotage|Förstör för politiskt syfte
+partisan|Lokal motståndsgrupp
+gerillakrigföring|Oregelbunden krigföring
+asymmetrisk krigföring|Ojämna parter
+hybridkrigföring|Blandar militärt och cyber
+cyberkrig|Anfall i digital sfär
+drönare|Obemannat flygande vapen
+autonomt vapen|Väljer mål själständigt
+massförstörelsevapen|Kärnvapen eller kemvapen
+avskräckning|Hot hindrar angrepp
+avrustning|Minskar vapen
+icke-spridning|Förhindrar spridning av vapen
+nedrustning|Minskar kärnvapen
+fredsbevarande|FN-styrkor i konflikt
+humanitär intervention|Ingriper för att skydda civila
+ansvar att skydda|Skydda mot folkmord
+transitional justice|Rättvisa efter förtryck
+sanning och försoning|Offentlig uppgörelse
+amnesti|Strafffrihet för politiska brott
+reparation|Ersättning till offer
+minnespolitik|Hur historien minns
+historierevisionism|Omskriver historien
+historicism|Förstår genom historisk kontext
+teleologi|Målstyrd utveckling
+determinism|Allt är förutbestämt
+libertarianism|Maximal individuell frihet
+kompatibilism|Fri vilja och determinism förenas
+fatalism|Ödet styr allt
+stoisk fatalism|Acceptera det som inte går att ändra
+nihilistisk|Förnekar mening
+absurdist|Livet är meningslöst men lever vidare
+existentialist|Skapar egen mening
+phenomenologist|Studerar upplevelsens struktur
+structuralist|Ser underliggande system
+poststrukturalist|Ifrågasätter fasta strukturer
+dekonstruktion|Demonterar textens antaganden
+hermeneutisk cirkel|Förståelse genom helhet och delar
+intertextualitet|Texter refererar till texter
+metatext|Text om text
+subtext|Dold mening under ytan
+allegori|Berättelse med symbolisk mening
+symbolism|Representerar idéer med symboler
+ironi|Säger motsatsen till meningen
+sarkasm|Hånande ironi
+satir|Hånar för att kritisera
+parodi|Imiterar för att skämta
+pastiche|Blandar stilar
+montage|Sätter ihop fragment
+collage|Konst av sammanfogade delar
+bricolage|Bygger av det som finns
+ekfrasis|Konst beskriver annan konst
+mimesis|Efterbildning av verkligheten
+diegesis|Berättande i konstverk
+verfremdung|Gör det främmande synligt
+sublimt|Överväldigande storhet
+ästetik|Filosofi om skönhet
+estetik|Lär om det vackra
+kitsch|Smaklös men populär konst
+avantgarde|Banbrytande konstnärlig rörelse
+modernism|Bryter med tradition
+postmodernism|Ifrågasätter modernismens sanningar
+minimalism|Reducerar till det väsentliga
+maximalism|Överdådig rikedom i uttryck
+barock|Överdådig och dramatisk stil
+romantik|Känsla och natur i centrum
+klassicism|Form och balans
+realism|Skildrar verkligheten
+naturalism|Deterministisk realism
+impressionism|Fångar ljusets intryck
+expressionism|Uttrycker inre känsla
+surrealism|Drömlogik i konst
+dadaism|Anti-konst och absurditet
+futurism|Hyllar modernitet och fart
+kubism|Geometriska former
+fauvism|Vilda färger
+art nouveau|Organiska dekorativa former
+deco|Geometrisk dekorativ stil
+brutalism|Rå betongarkitektur
+funktionalism|Form följer funktion
+postmodern arkitektur|Lekfull och eklektisk
+landskapsarkitektur|Designar utomhusmiljöer
+stadsplanering|Organiserar stadsutveckling
+gentrifiering|Förädlar och höjer hyror
+förort|Område utanför centrum
+getto|Segregerat fattigt område
+slum|Mycket fattig bebyggelse
+bostadsbrist|För få bostäder
+hemlöshet|Saknar bostad
+socialbidrag|Ekonomiskt stöd till behövande
+arbetslöshetsersättning|Stöd utan jobb
+pensionssystem|Inkomst efter arbetsliv
+demografi|Studium av befolkning
+fertilitet|Fruktsamhet och barnafödande
+mortalitet|Dödlighet i befolkning
+urbanisering|Flytt till städer
+suburbanisering|Flytt till förorter
+befolkningspyramid|Åldersfördelning
+åldrande|Befolkningen blir äldre
+produktivitetskris|Lägre tillväxt per arbetare
+innovationskraft|Förmåga att förnya
+humankapital|Kompetens i befolkningen
+socialt kapital|Förtroende och nätverk
+institutionellt kapital|Regler och organisationer
+kulturellt kapital|Kunskap och smak som resurs
+symboliskt kapital|Prestige och erkännande
+doxa|Det som tas för givet
+symboliskt våld|Dominans genom symboler
+misrecognition|Felaktig erkännande av makt
+reproduktion|Återskapar social ordning
+distinktion|Skillnad som skapar status
+smak|Socialt formad estetisk preferens
+marginalisering|Placeras vid kanten
+subaltern|Underordnad utan röst
+hegemoni|Dominans genom samtycke
+motstånd|Opposition mot makt
+counterhegemony|Motverkar dominerande idéer
+civilkurage|Mod att stå emot
+solidaritet|Gemensamt ansvar
+reciprocitet|Ömsesidighet i gengäld
+förtroende|Tillit till andra
+misstro|Brist på tillit
+social sammanhållning|Förenar samhället
+fragmentering|Delas i bitar
+polarisering|Extrema motsatser växer
+radikalisering|Blir mer extrem
+deradikalisering|Blir mindre extrem
+rekrytering|Värvar till rörelse
+indoctrinering|Systematisk påverkan
+deeskalering|Minskar spänning
+försoning|Läker efter konflikt
+försoningsprocess|Strukturerad försoning
+transitional|Under övergång
+restaurativ rättvisa|Läker relationer
+straffrättvisa|Straffar brott
+preventiv|Förebygger brott
+repressiv|Reagerar på brott
+återfall|Begår brott igen
+recidiv|Återfall i brott
+kriminalisering|Gör handling till brott
+avkriminalisering|Tar bort brottsrubricering
+legalisering|Tillåter tidigare förbjudet
+depenalization|Minskar straff
+proportionality|Straff i rimlig proportion
+nullum crimen|Inget brott utan lag
+presumtion of innocence|Oskyldig till motsatsen bevisas
+habeas|Rätt att inte fängslas godtyckligt
+palliativ|Lindrar i livets slut
+restaurativ|Läker relationer
+nullum|Inget brott utan lag
+oskyldighetspresumtion|Oskyldig till motsatsen bevisas
+kosmologi|Studium av universums uppkomst
+kosmogon|Teori om världens skapelse
+eschatologi|Lära om tidens slut
+soteriologi|Lära om frälsning
+kristologi|Lära om Kristus
+trinitet|Treenig Gud i kristendomen
+inkarnation|Gud blir människa
+transubstantiation|Nattvarden förvandlas
+koncil|Kyrkomöte för dogmer
+reformation|Protest mot katolska kyrkan
+kontrareformation|Katolsk motreaktion
+syncretism|Blandar religioner
+fundamentalism|Strikt bokstavstro
+evangelikalism|Personlig frälsning i centrum
+pentekostalism|Andens gåvor framträder
+assisterat|Hjälp att avsluta liv
+halo|En egenskap färgar hela bedömningen
+episodiskt|Minns händelser
+semantiskt|Minns fakta
+proceduralt|Minns hur man gör
+kollektivt|Delat arvpsykologiskt
+asymmetrisk|Ojämna parter i krig
+autonomt|Väljer mål självständigt
+humanitär|Ingriper för att skydda civila
+stoisk|Acceptera det oföränderliga
+hermeneutisk|Förståelse genom helhet och delar
+institutionellt|Regler och organisationer
+konstitutionell|Kung med begränsad makt

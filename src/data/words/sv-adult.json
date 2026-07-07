@@ -2,65 +2,1605 @@
   "language": "sv",
   "difficulty": "adult",
   "words": [
-    { "word": "HAV", "clue": "Stort område av saltvatten" },
-    { "word": "PLANET", "clue": "Jorden är en av dessa" },
-    { "word": "TRADGARD", "clue": "Plats där blommor växer" },
-    { "word": "MUSIK", "clue": "Konsten av organiserat ljud" },
-    { "word": "BRO", "clue": "Konstruktion över en flod" },
-    { "word": "SLOTT", "clue": "Befäst medeltida bostad" },
-    { "word": "SKOG", "clue": "Stort område med träd" },
-    { "word": "MARKNAD", "clue": "Plats att köpa och sälja" },
-    { "word": "FONSTER", "clue": "Glasöppning i en vägg" },
-    { "word": "FICKA", "clue": "Liten ficka i kläder" },
-    { "word": "SILVER", "clue": "Värdefull gråvit metall" },
-    { "word": "LJUS", "clue": "Vaxstav som ger ljus" },
-    { "word": "TEMPEL", "clue": "Plats för tillbedjan" },
-    { "word": "SEGRARE", "clue": "Vinnare av en tävling" },
-    { "word": "VINTER", "clue": "Årets kallaste säsong" },
-    { "word": "SOMMAR", "clue": "Årets varmaste säsong" },
-    { "word": "VAR", "clue": "Säsong när blommor blommar" },
-    { "word": "HOST", "clue": "Säsong när löven faller" },
-    { "word": "RESA", "clue": "Färd till avlägsna platser" },
-    { "word": "VAN", "clue": "Person du litar på" },
-    { "word": "FAMILJ", "clue": "Föräldrar, syskon och släktingar" },
-    { "word": "LAKARE", "clue": "Medicinsk professionell" },
-    { "word": "ADVOKAT", "clue": "Juridisk professionell" },
-    { "word": "KONSTNAR", "clue": "Person som skapar konst" },
-    { "word": "FORFATTARE", "clue": "Person som skriver böcker" },
-    { "word": "KAFFE", "clue": "Populär morgondryck" },
-    { "word": "SMOR", "clue": "Pålägg gjort av grädde" },
-    { "word": "OST", "clue": "Mejeriprodukt från mjölk" },
-    { "word": "APPELSIN", "clue": "Citrusfrukt eller en färg" },
-    { "word": "LILA", "clue": "Blandning av rött och blått" },
-    { "word": "GUL", "clue": "Färg på en banan" },
-    { "word": "GITARR", "clue": "Stränginstrument" },
-    { "word": "PIANO", "clue": "Tangentinstrument" },
-    { "word": "FIOL", "clue": "Litet stränginstrument" },
-    { "word": "HOLME", "clue": "Litet land omgivet av vatten" },
-    { "word": "OKEN", "clue": "Torr sandig region" },
-    { "word": "DAL", "clue": "Lågt område mellan kullar" },
-    { "word": "ALV", "clue": "Rinnande sötvatten" },
-    { "word": "SJO", "clue": "Stort insjövatten" },
-    { "word": "MOLN", "clue": "Vit massa på himlen" },
-    { "word": "STORM", "clue": "Svårt väder med vind och regn" },
-    { "word": "BLIXT", "clue": "Ljus flash under åskväder" },
-    { "word": "REGNBAGE", "clue": "Färgad båge efter regn" },
-    { "word": "SPEGEL", "clue": "Reflekterande yta" },
-    { "word": "KLOCKA", "clue": "Apparat som visar tid" },
-    { "word": "TELEFON", "clue": "Apparat för att ringa" },
-    { "word": "KAMERA", "clue": "Apparat för att ta bilder" },
-    { "word": "BARBAR", "clue": "Bärbar dator" },
-    { "word": "SURFPLATTA", "clue": "Platt pekskärmsenhet" },
-    { "word": "FLASKA", "clue": "Behållare för vätskor" },
-    { "word": "KUDDE", "clue": "Mjuk kudde att sova på" },
-    { "word": "FILT", "clue": "Varm täcke till sängen" },
-    { "word": "KOK", "clue": "Rum för att laga mat" },
-    { "word": "SOVRUM", "clue": "Rum för att sova" },
-    { "word": "BADRUM", "clue": "Rum med dusch eller badkar" },
-    { "word": "GARAGE", "clue": "Byggnad för bilar" },
-    { "word": "GATA", "clue": "Väg i en stad" },
-    { "word": "SKOLA", "clue": "Plats för lärande" },
-    { "word": "MUSEUM", "clue": "Byggnad med konst eller historia" },
-    { "word": "TEATER", "clue": "Plats för pjäser eller filmer" }
+    {
+      "word": "HAV",
+      "clue": "Stort område av saltvatten"
+    },
+    {
+      "word": "PLANET",
+      "clue": "Jorden är en av dessa"
+    },
+    {
+      "word": "TRADGARD",
+      "clue": "Plats där blommor växer"
+    },
+    {
+      "word": "MUSIK",
+      "clue": "Konsten av organiserat ljud"
+    },
+    {
+      "word": "BRO",
+      "clue": "Konstruktion över en flod"
+    },
+    {
+      "word": "SLOTT",
+      "clue": "Befäst medeltida bostad"
+    },
+    {
+      "word": "SKOG",
+      "clue": "Stort område med träd"
+    },
+    {
+      "word": "MARKNAD",
+      "clue": "Plats att köpa och sälja"
+    },
+    {
+      "word": "FONSTER",
+      "clue": "Glasöppning i en vägg"
+    },
+    {
+      "word": "FICKA",
+      "clue": "Liten ficka i kläder"
+    },
+    {
+      "word": "SILVER",
+      "clue": "Värdefull gråvit metall"
+    },
+    {
+      "word": "LJUS",
+      "clue": "Vaxstav som ger ljus"
+    },
+    {
+      "word": "TEMPEL",
+      "clue": "Plats för tillbedjan"
+    },
+    {
+      "word": "SEGRARE",
+      "clue": "Vinnare av en tävling"
+    },
+    {
+      "word": "VINTER",
+      "clue": "Årets kallaste säsong"
+    },
+    {
+      "word": "SOMMAR",
+      "clue": "Årets varmaste säsong"
+    },
+    {
+      "word": "VAR",
+      "clue": "Säsong när blommor blommar"
+    },
+    {
+      "word": "HOST",
+      "clue": "Säsong när löven faller"
+    },
+    {
+      "word": "RESA",
+      "clue": "Färd till avlägsna platser"
+    },
+    {
+      "word": "VAN",
+      "clue": "Person du litar på"
+    },
+    {
+      "word": "FAMILJ",
+      "clue": "Föräldrar, syskon och släktingar"
+    },
+    {
+      "word": "LAKARE",
+      "clue": "Medicinsk professionell"
+    },
+    {
+      "word": "ADVOKAT",
+      "clue": "Juridisk professionell"
+    },
+    {
+      "word": "KONSTNAR",
+      "clue": "Person som skapar konst"
+    },
+    {
+      "word": "FORFATTARE",
+      "clue": "Person som skriver böcker"
+    },
+    {
+      "word": "KAFFE",
+      "clue": "Populär morgondryck"
+    },
+    {
+      "word": "SMOR",
+      "clue": "Pålägg gjort av grädde"
+    },
+    {
+      "word": "OST",
+      "clue": "Mejeriprodukt från mjölk"
+    },
+    {
+      "word": "APELSIN",
+      "clue": "Citrusfrukt eller en färg"
+    },
+    {
+      "word": "LILA",
+      "clue": "Blandning av rött och blått"
+    },
+    {
+      "word": "GUL",
+      "clue": "Färg på en banan"
+    },
+    {
+      "word": "GITARR",
+      "clue": "Stränginstrument"
+    },
+    {
+      "word": "PIANO",
+      "clue": "Tangentinstrument"
+    },
+    {
+      "word": "FIOL",
+      "clue": "Litet stränginstrument"
+    },
+    {
+      "word": "HOLME",
+      "clue": "Litet land omgivet av vatten"
+    },
+    {
+      "word": "OKEN",
+      "clue": "Torr sandig region"
+    },
+    {
+      "word": "DAL",
+      "clue": "Lågt område mellan kullar"
+    },
+    {
+      "word": "ALV",
+      "clue": "Rinnande sötvatten"
+    },
+    {
+      "word": "SJO",
+      "clue": "Stort insjövatten"
+    },
+    {
+      "word": "MOLN",
+      "clue": "Vit massa på himlen"
+    },
+    {
+      "word": "STORM",
+      "clue": "Svårt väder med vind och regn"
+    },
+    {
+      "word": "BLIXT",
+      "clue": "Ljus flash under åskväder"
+    },
+    {
+      "word": "REGNBAGE",
+      "clue": "Färgad båge efter regn"
+    },
+    {
+      "word": "SPEGEL",
+      "clue": "Reflekterande yta"
+    },
+    {
+      "word": "KLOCKA",
+      "clue": "Apparat som visar tid"
+    },
+    {
+      "word": "TELEFON",
+      "clue": "Apparat för att ringa"
+    },
+    {
+      "word": "KAMERA",
+      "clue": "Apparat för att ta bilder"
+    },
+    {
+      "word": "LAPTOP",
+      "clue": "Bärbar dator"
+    },
+    {
+      "word": "SURFPLATTA",
+      "clue": "Platt pekskärmsenhet"
+    },
+    {
+      "word": "FLASKA",
+      "clue": "Behållare för vätskor"
+    },
+    {
+      "word": "KUDDE",
+      "clue": "Mjuk kudde att sova på"
+    },
+    {
+      "word": "FILT",
+      "clue": "Varm täcke till sängen"
+    },
+    {
+      "word": "KOK",
+      "clue": "Rum för att laga mat"
+    },
+    {
+      "word": "SOVRUM",
+      "clue": "Rum för att sova"
+    },
+    {
+      "word": "BADRUM",
+      "clue": "Rum med dusch eller badkar"
+    },
+    {
+      "word": "GARAGE",
+      "clue": "Byggnad för bilar"
+    },
+    {
+      "word": "GATA",
+      "clue": "Väg i en stad"
+    },
+    {
+      "word": "SKOLA",
+      "clue": "Plats för lärande"
+    },
+    {
+      "word": "MUSEUM",
+      "clue": "Byggnad med konst eller historia"
+    },
+    {
+      "word": "TEATER",
+      "clue": "Plats för pjäser eller filmer"
+    },
+    {
+      "word": "TIDNING",
+      "clue": "Daglig nyhetspublikation"
+    },
+    {
+      "word": "RADIO",
+      "clue": "Apparat för ljudsändningar"
+    },
+    {
+      "word": "TEVE",
+      "clue": "Skärm för program"
+    },
+    {
+      "word": "DATOR",
+      "clue": "Elektronisk arbetsmaskin"
+    },
+    {
+      "word": "INTERNET",
+      "clue": "Globalt nätverk av information"
+    },
+    {
+      "word": "MEJL",
+      "clue": "Elektroniskt brev"
+    },
+    {
+      "word": "HEMSIDA",
+      "clue": "Sida på internet"
+    },
+    {
+      "word": "LOSENORD",
+      "clue": "Skyddar ditt konto"
+    },
+    {
+      "word": "KONTOR",
+      "clue": "Plats för arbete"
+    },
+    {
+      "word": "MOTE",
+      "clue": "Samling för att diskutera arbete"
+    },
+    {
+      "word": "KOLLEGA",
+      "clue": "Person du arbetar med"
+    },
+    {
+      "word": "CHEF",
+      "clue": "Person som leder teamet"
+    },
+    {
+      "word": "ANSTALLD",
+      "clue": "Person som har ett jobb"
+    },
+    {
+      "word": "LON",
+      "clue": "Regelbunden betalning från arbete"
+    },
+    {
+      "word": "CV",
+      "clue": "Dokument med arbetserfarenhet"
+    },
+    {
+      "word": "INTERVJU",
+      "clue": "Möte vid jobbansökan"
+    },
+    {
+      "word": "BEFORDRAN",
+      "clue": "Avancemang till högre position"
+    },
+    {
+      "word": "DEADLINE",
+      "clue": "Datum då arbete ska vara klart"
+    },
+    {
+      "word": "PROJEKT",
+      "clue": "Planerat arbete med ett mål"
+    },
+    {
+      "word": "UPPGIFT",
+      "clue": "Enskilt arbete att slutföra"
+    },
+    {
+      "word": "RAPPORT",
+      "clue": "Skriftlig sammanfattning"
+    },
+    {
+      "word": "PRESENTATION",
+      "clue": "Föredrag med bilder för publik"
+    },
+    {
+      "word": "KONFERENS",
+      "clue": "Stort formellt möte"
+    },
+    {
+      "word": "KONTRAKT",
+      "clue": "Juridiskt avtal om arbete"
+    },
+    {
+      "word": "SEMESTER",
+      "clue": "Betald ledighet från jobbet"
+    },
+    {
+      "word": "OVERTID",
+      "clue": "Extra arbetstid utöver normal"
+    },
+    {
+      "word": "PENSION",
+      "clue": "Inkomst efter arbetslivet"
+    },
+    {
+      "word": "FORSAKRING",
+      "clue": "Skydd mot ekonomisk förlust"
+    },
+    {
+      "word": "BANK",
+      "clue": "Institution för pengar"
+    },
+    {
+      "word": "KONTO",
+      "clue": "Plats för dina pengar"
+    },
+    {
+      "word": "KREDITKORT",
+      "clue": "Plastkort för betalning"
+    },
+    {
+      "word": "KONTANT",
+      "clue": "Pengar i sedlar och mynt"
+    },
+    {
+      "word": "RAKNING",
+      "clue": "Begäran om betalning"
+    },
+    {
+      "word": "BUDGET",
+      "clue": "Plan för inkomster och utgifter"
+    },
+    {
+      "word": "SKATT",
+      "clue": "Betalning till staten"
+    },
+    {
+      "word": "HYRA",
+      "clue": "Månadskostnad för bostad"
+    },
+    {
+      "word": "BOLAN",
+      "clue": "Lån för att köpa hus"
+    },
+    {
+      "word": "RANTA",
+      "clue": "Kostnad för att låna pengar"
+    },
+    {
+      "word": "INVESTERING",
+      "clue": "Pengar placerade för avkastning"
+    },
+    {
+      "word": "AKTIE",
+      "clue": "Andel i ett företag"
+    },
+    {
+      "word": "FOND",
+      "clue": "Samlad investering"
+    },
+    {
+      "word": "INFLATION",
+      "clue": "Prisökning över tid"
+    },
+    {
+      "word": "RECESSION",
+      "clue": "Period av ekonomisk nedgång"
+    },
+    {
+      "word": "ARBETSLOSHET",
+      "clue": "Tillstånd utan jobb"
+    },
+    {
+      "word": "EKONOMI",
+      "clue": "System för produktion och handel"
+    },
+    {
+      "word": "FORETAG",
+      "clue": "Organisation som bedriver affärer"
+    },
+    {
+      "word": "FORETAGARE",
+      "clue": "Person som startar företag"
+    },
+    {
+      "word": "KUND",
+      "clue": "Person som köper något"
+    },
+    {
+      "word": "SALJARE",
+      "clue": "Person som säljer produkter"
+    },
+    {
+      "word": "MARKNADSFORING",
+      "clue": "Arbete för att sälja mer"
+    },
+    {
+      "word": "REKLAM",
+      "clue": "Budskap som marknadsför"
+    },
+    {
+      "word": "VARUMARKE",
+      "clue": "Känt namn på produkter"
+    },
+    {
+      "word": "PRODUKT",
+      "clue": "Vara som säljs"
+    },
+    {
+      "word": "TJANST",
+      "clue": "Arbete som erbjuds mot betalning"
+    },
+    {
+      "word": "KVALITET",
+      "clue": "Hur bra något är"
+    },
+    {
+      "word": "PRIS",
+      "clue": "Vad något kostar"
+    },
+    {
+      "word": "RABATT",
+      "clue": "Minskning av ordinarie pris"
+    },
+    {
+      "word": "KVITTO",
+      "clue": "Bevis på betalning"
+    },
+    {
+      "word": "GARANTI",
+      "clue": "Löfte om reparation"
+    },
+    {
+      "word": "REKLAMATION",
+      "clue": "Klagomål på en vara"
+    },
+    {
+      "word": "LEVERANS",
+      "clue": "Transport av beställd vara"
+    },
+    {
+      "word": "LAGER",
+      "clue": "Förvaring av varor"
+    },
+    {
+      "word": "BUTIK",
+      "clue": "Plats att handla i"
+    },
+    {
+      "word": "STORMARKNAD",
+      "clue": "Stor butik med allt"
+    },
+    {
+      "word": "KASSA",
+      "clue": "Där man betalar i butiken"
+    },
+    {
+      "word": "KUNDVAGN",
+      "clue": "Vagn i mataffären"
+    },
+    {
+      "word": "RECEPT",
+      "clue": "Instruktioner för matlagning"
+    },
+    {
+      "word": "INGREDIENS",
+      "clue": "Del av ett recept"
+    },
+    {
+      "word": "KRYDDA",
+      "clue": "Ger smak åt maten"
+    },
+    {
+      "word": "SALLAD",
+      "clue": "Kall rätt med grönsaker"
+    },
+    {
+      "word": "GRYTA",
+      "clue": "Mat lagad i kastrull"
+    },
+    {
+      "word": "STEKPANNA",
+      "clue": "Kokar mat på spisen"
+    },
+    {
+      "word": "UGN",
+      "clue": "Bakar och gräddar mat"
+    },
+    {
+      "word": "MIKROVAGSUGN",
+      "clue": "Värmer mat snabbt"
+    },
+    {
+      "word": "DISKMASKIN",
+      "clue": "Tvättar tallrikar automatiskt"
+    },
+    {
+      "word": "KYLSKAP",
+      "clue": "Håller mat kall"
+    },
+    {
+      "word": "FRYS",
+      "clue": "Förvarar mat frusen"
+    },
+    {
+      "word": "BESTICK",
+      "clue": "Gaffel, kniv och sked"
+    },
+    {
+      "word": "SERVETT",
+      "clue": "Torkar munnen vid måltid"
+    },
+    {
+      "word": "UNDERLAGG",
+      "clue": "Skyddar bordet under tallrik"
+    },
+    {
+      "word": "SKAL",
+      "clue": "Djup tallrik"
+    },
+    {
+      "word": "KASTRULL",
+      "clue": "Kokar soppa och pasta"
+    },
+    {
+      "word": "VISP",
+      "clue": "Rör ihop ägg och grädde"
+    },
+    {
+      "word": "SKARBRADA",
+      "clue": "Skär mat på denna"
+    },
+    {
+      "word": "RIVJARN",
+      "clue": "Gör ost i strimlor"
+    },
+    {
+      "word": "KORKSKRUV",
+      "clue": "Öppnar vinflaskor"
+    },
+    {
+      "word": "TERMOS",
+      "clue": "Håller dryck varm"
+    },
+    {
+      "word": "RESTAURANG",
+      "clue": "Äter mat ute"
+    },
+    {
+      "word": "KAF",
+      "clue": "Dricker kaffe och fika"
+    },
+    {
+      "word": "BAGERI",
+      "clue": "Säljer bröd och bakverk"
+    },
+    {
+      "word": "SLAKTARE",
+      "clue": "Säljer kött"
+    },
+    {
+      "word": "FISKHANDLARE",
+      "clue": "Säljer fisk"
+    },
+    {
+      "word": "GRONSAKSHANDLARE",
+      "clue": "Säljer grönsaker"
+    },
+    {
+      "word": "APOTEK",
+      "clue": "Köper medicin här"
+    },
+    {
+      "word": "SJUKHUS",
+      "clue": "Får sjukvård här"
+    },
+    {
+      "word": "VARDCENTRAL",
+      "clue": "Mottagning för läkarbesök"
+    },
+    {
+      "word": "TANDLAKARE",
+      "clue": "Vårdar tänder"
+    },
+    {
+      "word": "SJUKSKOTERSKA",
+      "clue": "Hjälper läkaren"
+    },
+    {
+      "word": "AMBULANS",
+      "clue": "Transporterar akut sjuka"
+    },
+    {
+      "word": "MEDICIN",
+      "clue": "Botar sjukdom"
+    },
+    {
+      "word": "VACCIN",
+      "clue": "Skydd mot sjukdom"
+    },
+    {
+      "word": "FEBER",
+      "clue": "Hög kroppstemperatur"
+    },
+    {
+      "word": "HOSTA",
+      "clue": "Ljud från halsen"
+    },
+    {
+      "word": "SNUVA",
+      "clue": "Rinnande näsa"
+    },
+    {
+      "word": "HUVUDVARK",
+      "clue": "Ont i huvudet"
+    },
+    {
+      "word": "MAGSJUKA",
+      "clue": "Illamående i magen"
+    },
+    {
+      "word": "ALLERGI",
+      "clue": "Överkänslig reaktion"
+    },
+    {
+      "word": "OPERATION",
+      "clue": "Kirurgiskt ingrepp"
+    },
+    {
+      "word": "RONTGEN",
+      "clue": "Bild av kroppens insida"
+    },
+    {
+      "word": "BLODPROV",
+      "clue": "Test av blodet"
+    },
+    {
+      "word": "GYM",
+      "clue": "Tränar kroppen"
+    },
+    {
+      "word": "TRANING",
+      "clue": "Fysisk aktivitet för hälsa"
+    },
+    {
+      "word": "JOGGING",
+      "clue": "Löpning i lugn takt"
+    },
+    {
+      "word": "YOGA",
+      "clue": "Övningar för kropp och ande"
+    },
+    {
+      "word": "MASSAGE",
+      "clue": "Behandling av muskler"
+    },
+    {
+      "word": "DIET",
+      "clue": "Planerad kosthållning"
+    },
+    {
+      "word": "VITAMIN",
+      "clue": "Näringsämne i maten"
+    },
+    {
+      "word": "PROTEIN",
+      "clue": "Byggsten i muskler"
+    },
+    {
+      "word": "KOLHYDRAT",
+      "clue": "Energigivande näringsämne"
+    },
+    {
+      "word": "FETT",
+      "clue": "Näringsämne med hög energi"
+    },
+    {
+      "word": "FIBER",
+      "clue": "Hjälper matsmältningen"
+    },
+    {
+      "word": "KALORIER",
+      "clue": "Mått på energi i mat"
+    },
+    {
+      "word": "FOTBOLL",
+      "clue": "Populär bollsport"
+    },
+    {
+      "word": "ISHOCKEY",
+      "clue": "Sport på is med klubba"
+    },
+    {
+      "word": "SKIDOR",
+      "clue": "Vintersport i backen"
+    },
+    {
+      "word": "SIMNING",
+      "clue": "Sport i bassäng"
+    },
+    {
+      "word": "CYKLING",
+      "clue": "Sport på två hjul"
+    },
+    {
+      "word": "GOLF",
+      "clue": "Sport med klubba och boll"
+    },
+    {
+      "word": "TENNIS",
+      "clue": "Bollspel över nät"
+    },
+    {
+      "word": "BORDTENNIS",
+      "clue": "Snabb sport på bord"
+    },
+    {
+      "word": "BADMINTON",
+      "clue": "Fjäderboll över nät"
+    },
+    {
+      "word": "VOLLEYBOLL",
+      "clue": "Boll över nät med lag"
+    },
+    {
+      "word": "BASKET",
+      "clue": "Kasta boll i korg"
+    },
+    {
+      "word": "HANDBOLL",
+      "clue": "Boll med händerna"
+    },
+    {
+      "word": "FRIIDROTT",
+      "clue": "Löpning, hopp och kast"
+    },
+    {
+      "word": "BOXNING",
+      "clue": "Kampsport med handskar"
+    },
+    {
+      "word": "BROTTNING",
+      "clue": "Kampsport med grepp"
+    },
+    {
+      "word": "GYMNASTIK",
+      "clue": "Akrobatiska rörelser"
+    },
+    {
+      "word": "RIDNING",
+      "clue": "Sport på häst"
+    },
+    {
+      "word": "SEGLINGS",
+      "clue": "Sport med segelbåt"
+    },
+    {
+      "word": "FISKE",
+      "clue": "Fångar fisk som hobby"
+    },
+    {
+      "word": "JAKT",
+      "clue": "Fångar vilt"
+    },
+    {
+      "word": "CAMPING",
+      "clue": "Semester i tält"
+    },
+    {
+      "word": "VANDRING",
+      "clue": "Lång promenad i naturen"
+    },
+    {
+      "word": "KLATTRING",
+      "clue": "Uppför berg eller vägg"
+    },
+    {
+      "word": "DYKNING",
+      "clue": "Under vattnet med mask"
+    },
+    {
+      "word": "SURFNING",
+      "clue": "Rider på vågor"
+    },
+    {
+      "word": "SKATEBOARD",
+      "clue": "Åker på bräda med hjul"
+    },
+    {
+      "word": "LANGDSKIDOR",
+      "clue": "Skidor i terräng"
+    },
+    {
+      "word": "PUCK",
+      "clue": "Disk i ishockey"
+    },
+    {
+      "word": "MALVAKT",
+      "clue": "Skyddar målet"
+    },
+    {
+      "word": "DOMARE",
+      "clue": "Dömer i match"
+    },
+    {
+      "word": "TRANARE",
+      "clue": "Leder laget"
+    },
+    {
+      "word": "SUPPORTER",
+      "clue": "Håller på ett lag"
+    },
+    {
+      "word": "MATCH",
+      "clue": "Tävling mellan lag"
+    },
+    {
+      "word": "TURNERING",
+      "clue": "Serie av matcher"
+    },
+    {
+      "word": "FINAL",
+      "clue": "Sista matchen i turnering"
+    },
+    {
+      "word": "GULDMEDALJ",
+      "clue": "Förstapris i tävling"
+    },
+    {
+      "word": "REKORD",
+      "clue": "Bästa resultat någonsin"
+    },
+    {
+      "word": "STADION",
+      "clue": "Arena för stora matcher"
+    },
+    {
+      "word": "GYMNASIUM",
+      "clue": "Inomhushall för sport"
+    },
+    {
+      "word": "BASTU",
+      "clue": "Het rum för avslappning"
+    },
+    {
+      "word": "BIO",
+      "clue": "Tittar på film"
+    },
+    {
+      "word": "KONSERT",
+      "clue": "Livemusik för publik"
+    },
+    {
+      "word": "OPERA",
+      "clue": "Teater med sång"
+    },
+    {
+      "word": "BALETT",
+      "clue": "Dans på scen"
+    },
+    {
+      "word": "UTSTALLNING",
+      "clue": "Visar konst eller föremål"
+    },
+    {
+      "word": "GALLERI",
+      "clue": "Visar tavlor"
+    },
+    {
+      "word": "AUKTION",
+      "clue": "Säljer till högstbjudande"
+    },
+    {
+      "word": "ROMAN",
+      "clue": "Lång skönlitterär bok"
+    },
+    {
+      "word": "NOVELL",
+      "clue": "Kort berättelse"
+    },
+    {
+      "word": "POESI",
+      "clue": "Konstnärlig dikt"
+    },
+    {
+      "word": "BIOGRAFI",
+      "clue": "Bok om någons liv"
+    },
+    {
+      "word": "DECKARE",
+      "clue": "Spännande kriminalberättelse"
+    },
+    {
+      "word": "FANTASY",
+      "clue": "Berättelse med magi"
+    },
+    {
+      "word": "SCIENCEFICTION",
+      "clue": "Berättelse om framtiden"
+    },
+    {
+      "word": "TIDSKRIFT",
+      "clue": "Magasin om ett ämne"
+    },
+    {
+      "word": "KOLUMN",
+      "clue": "Återkommande text i tidning"
+    },
+    {
+      "word": "REDAKTOR",
+      "clue": "Ansvarig för publicering"
+    },
+    {
+      "word": "JOURNALIST",
+      "clue": "Skriver nyheter"
+    },
+    {
+      "word": "FOTOGRAF",
+      "clue": "Tar bilder professionellt"
+    },
+    {
+      "word": "REGISSOR",
+      "clue": "Styr en film"
+    },
+    {
+      "word": "PRODUCENT",
+      "clue": "Finansierar film"
+    },
+    {
+      "word": "SKADESPELARE",
+      "clue": "Spelar roller i film"
+    },
+    {
+      "word": "MANUS",
+      "clue": "Text till film eller teater"
+    },
+    {
+      "word": "SCEN",
+      "clue": "Där skådespelare uppträder"
+    },
+    {
+      "word": "PUBLIK",
+      "clue": "Åskådare vid föreställning"
+    },
+    {
+      "word": "APPLAD",
+      "clue": "Handklappning av publiken"
+    },
+    {
+      "word": "PREMIAR",
+      "clue": "Första visningen"
+    },
+    {
+      "word": "RECENSION",
+      "clue": "Bedömning av film eller bok"
+    },
+    {
+      "word": "BESTSELLER",
+      "clue": "Mycket såld bok"
+    },
+    {
+      "word": "BIBLIOTEK",
+      "clue": "Lånar böcker gratis"
+    },
+    {
+      "word": "BOKHANDEL",
+      "clue": "Säljer böcker"
+    },
+    {
+      "word": "BOKMARKE",
+      "clue": "Håller koll på sidan"
+    },
+    {
+      "word": "BOKHYLLA",
+      "clue": "Förvarar böcker"
+    },
+    {
+      "word": "LAGENHET",
+      "clue": "Hyrd bostad i flerfamiljshus"
+    },
+    {
+      "word": "VILLA",
+      "clue": "Fristående hus med trädgård"
+    },
+    {
+      "word": "BALKONG",
+      "clue": "Uteplats på övre våning"
+    },
+    {
+      "word": "KALLARE",
+      "clue": "Lägsta våning under mark"
+    },
+    {
+      "word": "VIND",
+      "clue": "Förvaring under taket"
+    },
+    {
+      "word": "HALL",
+      "clue": "Korridor mellan rum"
+    },
+    {
+      "word": "TRAPPA",
+      "clue": "Steg mellan våningar"
+    },
+    {
+      "word": "HISS",
+      "clue": "Lyft mellan våningar"
+    },
+    {
+      "word": "SKAP",
+      "clue": "Förvarar kläder"
+    },
+    {
+      "word": "GARDEROB",
+      "clue": "Stort klädskåp"
+    },
+    {
+      "word": "TVATTSTUGA",
+      "clue": "Tvättar kläder här"
+    },
+    {
+      "word": "DAMMSUGARE",
+      "clue": "Suger upp damm"
+    },
+    {
+      "word": "TVATTMEDEL",
+      "clue": "Rengör kläder"
+    },
+    {
+      "word": "STRYKJARN",
+      "clue": "Tar bort veck"
+    },
+    {
+      "word": "HAMMARE",
+      "clue": "Slår i spik"
+    },
+    {
+      "word": "SKRUVMEJSEL",
+      "clue": "Skruvar i skruvar"
+    },
+    {
+      "word": "STEGE",
+      "clue": "Klättrar på denna"
+    },
+    {
+      "word": "PENSEL",
+      "clue": "Målar med denna"
+    },
+    {
+      "word": "UTTAG",
+      "clue": "Eluttag i väggen"
+    },
+    {
+      "word": "TERMOSTAT",
+      "clue": "Styr temperaturen"
+    },
+    {
+      "word": "DORRKLOCKA",
+      "clue": "Ringer när någon kommer"
+    },
+    {
+      "word": "BREVLADA",
+      "clue": "Får post här"
+    },
+    {
+      "word": "STAKET",
+      "clue": "Grind runt tomten"
+    },
+    {
+      "word": "RANNSTEN",
+      "clue": "Vatten från taket"
+    },
+    {
+      "word": "SKORSTEN",
+      "clue": "Rök från elden"
+    },
+    {
+      "word": "OPPENSPIS",
+      "clue": "Brinner ved inomhus"
+    },
+    {
+      "word": "MATTA",
+      "clue": "Mjuk på golvet"
+    },
+    {
+      "word": "GARDIN",
+      "clue": "Hänger för fönster"
+    },
+    {
+      "word": "LAKAN",
+      "clue": "Över madrassen"
+    },
+    {
+      "word": "TACKE",
+      "clue": "Varmt över sängen"
+    },
+    {
+      "word": "MADRASS",
+      "clue": "Ligger under lakanet"
+    },
+    {
+      "word": "KRAN",
+      "clue": "Vatten i kök och bad"
+    },
+    {
+      "word": "HANDFAT",
+      "clue": "Tvättar händer här"
+    },
+    {
+      "word": "TOALETT",
+      "clue": "Behövs efter maten"
+    },
+    {
+      "word": "DUSCH",
+      "clue": "Vatten från ovan"
+    },
+    {
+      "word": "BADKAR",
+      "clue": "Ligger och badar"
+    },
+    {
+      "word": "HANDDUK",
+      "clue": "Torkar efter dusch"
+    },
+    {
+      "word": "TANDKRAM",
+      "clue": "På tandborsten"
+    },
+    {
+      "word": "SCHAMPO",
+      "clue": "Tvättar håret"
+    },
+    {
+      "word": "TVAL",
+      "clue": "Rengör huden"
+    },
+    {
+      "word": "RAKHYVEL",
+      "clue": "Rakar skägg"
+    },
+    {
+      "word": "KORG",
+      "clue": "Förvarar saker"
+    },
+    {
+      "word": "HANGARE",
+      "clue": "Hänger jackan på"
+    },
+    {
+      "word": "BYRA",
+      "clue": "Lådor för kläder"
+    },
+    {
+      "word": "SOFFA",
+      "clue": "Sitter i vardagsrummet"
+    },
+    {
+      "word": "FATOLJ",
+      "clue": "Bekväm stol"
+    },
+    {
+      "word": "BORD",
+      "clue": "Äter och arbetar vid"
+    },
+    {
+      "word": "STOL",
+      "clue": "Sitter på denna"
+    },
+    {
+      "word": "LAMPA",
+      "clue": "Ger ljus i rummet"
+    },
+    {
+      "word": "TAKLAMPA",
+      "clue": "Hänger från taket"
+    },
+    {
+      "word": "BORDSLAMPA",
+      "clue": "Står på bordet"
+    },
+    {
+      "word": "FLYGPLATS",
+      "clue": "Flygplan startar här"
+    },
+    {
+      "word": "PASS",
+      "clue": "Dokument för utlandsresa"
+    },
+    {
+      "word": "BAGAGE",
+      "clue": "Väskor på resan"
+    },
+    {
+      "word": "RESVASKA",
+      "clue": "Rektangulär väska"
+    },
+    {
+      "word": "BILJETT",
+      "clue": "Bevis på bokning"
+    },
+    {
+      "word": "HOTELL",
+      "clue": "Övernattar på resan"
+    },
+    {
+      "word": "VANDRARHEM",
+      "clue": "Billigt boende"
+    },
+    {
+      "word": "SEMESTERORT",
+      "clue": "Plats för avkoppling"
+    },
+    {
+      "word": "KRYSSNING",
+      "clue": "Resa med fartyg"
+    },
+    {
+      "word": "TUNNELBANA",
+      "clue": "Tåg under jorden"
+    },
+    {
+      "word": "TAXI",
+      "clue": "Hyrd bil med chaufför"
+    },
+    {
+      "word": "FARJA",
+      "clue": "Båt över vatten"
+    },
+    {
+      "word": "MOTORVAG",
+      "clue": "Stor väg mellan städer"
+    },
+    {
+      "word": "OMVAG",
+      "clue": "Alternativ väg"
+    },
+    {
+      "word": "KARTA",
+      "clue": "Visar vägar"
+    },
+    {
+      "word": "KOMPASS",
+      "clue": "Visar norr"
+    },
+    {
+      "word": "RYGGSACK",
+      "clue": "Bär på axlarna"
+    },
+    {
+      "word": "TALT",
+      "clue": "Boende på camping"
+    },
+    {
+      "word": "TURIST",
+      "clue": "Besöker en plats"
+    },
+    {
+      "word": "GUIDE",
+      "clue": "Leder besökare"
+    },
+    {
+      "word": "AVGANG",
+      "clue": "När resan börjar"
+    },
+    {
+      "word": "ANKOMST",
+      "clue": "När resan slutar"
+    },
+    {
+      "word": "FORSENING",
+      "clue": "Tåget är sent"
+    },
+    {
+      "word": "TULL",
+      "clue": "Kontroll vid gränsen"
+    },
+    {
+      "word": "VISUM",
+      "clue": "Tillstånd att resa in"
+    },
+    {
+      "word": "INCHECKNING",
+      "clue": "Registrering på hotell"
+    },
+    {
+      "word": "GATE",
+      "clue": "Var man går ombord"
+    },
+    {
+      "word": "BALTE",
+      "clue": "Säkerhet i bilen"
+    },
+    {
+      "word": "RASTPLATS",
+      "clue": "Stannar på lång resa"
+    },
+    {
+      "word": "MILSTOLPE",
+      "clue": "Visar avstånd"
+    },
+    {
+      "word": "LANDMARKE",
+      "clue": "Känd plats i stad"
+    },
+    {
+      "word": "SOUVENIR",
+      "clue": "Minne från resan"
+    },
+    {
+      "word": "BILKORNING",
+      "clue": "Lång resa med bil"
+    },
+    {
+      "word": "JETLAG",
+      "clue": "Trött efter tidszoner"
+    },
+    {
+      "word": "PASSAGERARE",
+      "clue": "Reser i fordonet"
+    },
+    {
+      "word": "PILOT",
+      "clue": "Flyger planet"
+    },
+    {
+      "word": "STEWARD",
+      "clue": "Betjänar ombord"
+    },
+    {
+      "word": "KAPTEN",
+      "clue": "Förare av skepp"
+    },
+    {
+      "word": "HAMN",
+      "clue": "Båtar ligger här"
+    },
+    {
+      "word": "STATION",
+      "clue": "Tåg stannar här"
+    },
+    {
+      "word": "PLATTFORM",
+      "clue": "Står och väntar på tåg"
+    },
+    {
+      "word": "TIDTABELL",
+      "clue": "Visar avgångstider"
+    },
+    {
+      "word": "RABATTKORT",
+      "clue": "Ger billigare resor"
+    },
+    {
+      "word": "PARKERING",
+      "clue": "Ställer bilen här"
+    },
+    {
+      "word": "BENSIN",
+      "clue": "Bränsle till bilen"
+    },
+    {
+      "word": "DIESEL",
+      "clue": "Alternativt bränsle"
+    },
+    {
+      "word": "ELBIL",
+      "clue": "Drivs av batteri"
+    },
+    {
+      "word": "LADDNING",
+      "clue": "Fyller elbilen"
+    },
+    {
+      "word": "VERKSTAD",
+      "clue": "Reparerar bilar"
+    },
+    {
+      "word": "DACK",
+      "clue": "Rullar på vägen"
+    },
+    {
+      "word": "MOTOR",
+      "clue": "Driver bilen"
+    },
+    {
+      "word": "RATT",
+      "clue": "Styr bilen"
+    },
+    {
+      "word": "BROMS",
+      "clue": "Stoppar bilen"
+    },
+    {
+      "word": "GAS",
+      "clue": "Accelererar bilen"
+    },
+    {
+      "word": "BACK",
+      "clue": "Växel för att backa"
+    },
+    {
+      "word": "BLINKERS",
+      "clue": "Visar sväng"
+    },
+    {
+      "word": "KORKORT",
+      "clue": "Behörighet att köra"
+    },
+    {
+      "word": "TRAFIK",
+      "clue": "Bilar på vägen"
+    },
+    {
+      "word": "KO",
+      "clue": "Bilar står stilla"
+    },
+    {
+      "word": "OVERGANGSSTALLE",
+      "clue": "Gående korsar här"
+    },
+    {
+      "word": "TRAFIKLJUS",
+      "clue": "Styr trafiken"
+    },
+    {
+      "word": "RONDELL",
+      "clue": "Cirkulär korsning"
+    },
+    {
+      "word": "MOTORVAGSAVGIFT",
+      "clue": "Betalar för motorväg"
+    },
+    {
+      "word": "HASTIGHET",
+      "clue": "Hur fort man kör"
+    },
+    {
+      "word": "FORTKORNING",
+      "clue": "Kör för fort"
+    },
+    {
+      "word": "PARKERINGSBOT",
+      "clue": "Böter för fel parkering"
+    },
+    {
+      "word": "OLYCKA",
+      "clue": "Krock på vägen"
+    },
+    {
+      "word": "BARGNING",
+      "clue": "Drar bort bilen"
+    },
+    {
+      "word": "BESIKTNING",
+      "clue": "Kontroll av bilen"
+    },
+    {
+      "word": "MOPED",
+      "clue": "Litet motorfordon"
+    },
+    {
+      "word": "CYKEL",
+      "clue": "Två hjul med pedaler"
+    },
+    {
+      "word": "SPARKCYKEL",
+      "clue": "Tre hjul för barn"
+    },
+    {
+      "word": "BUSS",
+      "clue": "Kollektivtrafik på väg"
+    },
+    {
+      "word": "SPARVAGN",
+      "clue": "Tåg på gatan"
+    },
+    {
+      "word": "PENDELTAG",
+      "clue": "Till och från jobbet"
+    },
+    {
+      "word": "TAG",
+      "clue": "Åker på räls"
+    },
+    {
+      "word": "LOK",
+      "clue": "Drar tågvagnarna"
+    },
+    {
+      "word": "VAGN",
+      "clue": "Del av tåget"
+    },
+    {
+      "word": "SOVVAGN",
+      "clue": "Sover på tåget"
+    },
+    {
+      "word": "RESTAURANGVAGN",
+      "clue": "Äter ombord"
+    },
+    {
+      "word": "FLYGPLAN",
+      "clue": "Flyger i luften"
+    },
+    {
+      "word": "HELIKOPTER",
+      "clue": "Rotorflygplan"
+    },
+    {
+      "word": "SEGELBAT",
+      "clue": "Drivs av vind"
+    },
+    {
+      "word": "MOTORBAT",
+      "clue": "Drivs av motor"
+    },
+    {
+      "word": "KANOT",
+      "clue": "Paddlas på vatten"
+    },
+    {
+      "word": "KAJAK",
+      "clue": "Smal paddelbåt"
+    },
+    {
+      "word": "RULLSTOL",
+      "clue": "Hjälper rörelsehindrade"
+    },
+    {
+      "word": "BARNVAGN",
+      "clue": "Kör barnet i"
+    },
+    {
+      "word": "CYKELHJALM",
+      "clue": "Skyddar huvudet"
+    },
+    {
+      "word": "REFLEX",
+      "clue": "Syns i mörker"
+    },
+    {
+      "word": "VARNINGSTRIANGEL",
+      "clue": "Vid bilhaveri"
+    },
+    {
+      "word": "SNOKEDJOR",
+      "clue": "På hjulen vintertid"
+    },
+    {
+      "word": "ISBILD",
+      "clue": "På vindrutan på morgonen"
+    },
+    {
+      "word": "SPOLARVATSKA",
+      "clue": "Rengör rutan"
+    }
   ]
 }

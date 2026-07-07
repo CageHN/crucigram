@@ -18,7 +18,21 @@ Word lists live in `src/data/words/` as JSON files:
 {language}-{difficulty}.json
 ```
 
-Nine databases cover all combinations (e.g. `en-kid.json`, `es-adult.json`, `sv-wise.json`). Each entry has a `word` and a `clue`.
+Nine databases cover all combinations (e.g. `en-kid.json`, `es-adult.json`, `sv-wise.json`). Each entry has a `word` and a `clue`. Accented characters are normalized to A–Z for grid compatibility.
+
+| Difficulty | Words per database |
+|---|---|
+| Kid | 200 |
+| Adult | 400 |
+| Wise | 600 |
+
+**Total: 3,600 words** across all nine databases (1,800 per language).
+
+Source word banks live in `scripts/banks/` as `.mjs` modules. Regenerate the JSON files with:
+
+```bash
+npm run build:words
+```
 
 ## Getting Started
 

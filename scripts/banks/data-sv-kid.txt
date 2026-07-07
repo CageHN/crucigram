@@ -1,0 +1,483 @@
+katt|Husdjur som jamar
+hund|Husdjur som skäller
+sol|Lyser på himlen om dagen
+måne|Lyser på himlen om natten
+stjärna|Lyser på natthimlen
+träd|Hög växt med löv
+fågel|Djur som flyger
+fisk|Simmar i vattnet
+bok|Du läser sagor i denna
+boll|Rund leksak att kasta
+tårta|Sött till födelsedagen
+mjölk|Vit dryck från kon
+ägg|Höns lägger dessa
+röd|Färg på ett äpple
+blå|Färg på himlen
+hand|Du har fem fingrar på varje
+fot|Du går med dessa
+näsa|Du luktar med denna
+öga|Du ser med detta
+hatt|Du bär denna på huvudet
+säng|Där du sover
+mugg|Du dricker ur denna
+leksak|Något roligt att leka med
+springa|Röra sig snabbt
+hoppa|Hoppa upp i luften
+sjunga|Göra musik med rösten
+leka|Ha kul med spel
+regn|Vatten som faller från molnen
+snö|Vita flingor på vintern
+groda|Grönt djur som hoppar
+björn|Stort lurvigt djur
+anka|Fågel som simmar och kvackar
+båt|Fordon som flyter på vattnet
+bil|Fordon med hjul
+buss|Stort fordon för många
+penna|Du skriver med denna
+karta|Visar var platser finns
+nyckel|Öppnar ett lås
+låda|Behållare med lock
+väska|Du bär saker i denna
+ko|Gårdsdjur som ger mjölk
+gris|Rosa gårdsdjur
+höna|Fågel som lägger ägg
+bi|Insekt som gör honung
+myra|Litet insekt i kolonier
+uggla|Nattfågel som uvar
+räv|Listigt skogsdjur
+lejon|Djungelns kung
+eld|Het och lysande
+vind|Luft i rörelse
+sand|Finns på stranden
+sten|Hård klippa på marken
+löv|Grön del av trädet
+frö|Växer till en ny planta
+gård|Plats med djur och grödor
+park|Grön plats att leka på
+hem|Där du bor
+dörr|Du öppnar denna för att gå in
+vägg|Sida av ett rum
+tak|Översta delen av huset
+mamma|Kvinnlig förälder
+pappa|Manlig förälder
+barn|Ung människa
+syskon|Bror eller syster
+farmor|Mammas eller pappas mamma
+farfar|Pappas pappa
+mormor|Mammas mamma
+morfar|Mammas pappa
+kusin|Barn till moster eller morbror
+vän|Person du tycker om
+lärare|Undervisar i skolan
+skola|Plats för lärande
+bänk|Du sitter på denna i klassrummet
+bord|Möbel att äta vid
+stol|Möbel att sitta på
+fönster|Glasöppning i väggen
+golv|Du går på detta inomhus
+kök|Rum där mat lagas
+bad|Rum med badkar eller dusch
+trädgård|Plats med blommor hemma
+blomma|Färgglad växt
+gräs|Grönt på marken
+buske|Liten trädliknande växt
+äpple|Rött eller grönt frukt
+päron|Grön frukt i droppform
+banan|Gul böjd frukt
+jordgubbe|Röd somrig bärfrukt
+druva|Liten frukt i klasar
+apelsin|Rund citrusfrukt
+citron|Sur gul citrusfrukt
+morot|Orange rotfrukt
+potatis|Rund rotfrukt till mat
+bröd|Bakat av mjöl
+ost|Gul mat från mjölk
+smör|Gult pålägg på bröd
+soppa|Varm vätska att äta
+ris|Små vita korn
+pasta|Italiensk mat av mjöl
+kaka|Söt bakelse
+glass|Kall söt dessert
+godis|Sött att mumsa på
+vatten|Törstig? Drick detta
+juice|Dryck av frukt
+te|Varm dryck i kopp
+honung|Gul söt sak av bin
+socker|Gör maten söt
+salt|Krydda som smakar salt
+gul|Färg på solen
+grön|Färg på gräset
+vit|Färg på snön
+svart|Färg på natten
+rosa|Ljus röd färg
+lila|Blandning av rött och blått
+orange|Färg mellan röd och gul
+brun|Färg på jord
+grå|Färg på moln
+en|Första talet
+två|Ett plus ett
+tre|Ett plus två
+fyra|Ett plus tre
+fem|Antal fingrar på en hand
+sex|Efter fem, före sju
+sju|Dagar i en vecka
+åtta|Efter sju
+nio|Före tio
+tio|Två gånger fem
+huvud|Där hjärnan sitter
+mun|Du äter med denna
+öra|Du hör med detta
+tand|Vit i munnen
+hår|Växer på huvudet
+arm|Mellan axel och hand
+ben|Du står på dessa
+mage|Mitt på kroppen
+hjärta|Slår i bröstet
+knä|Böjs när du springer
+tå|Längst ut på foten
+finger|Fem på varje hand
+tumme|Kortaste fingret
+kind|Rund del av ansiktet
+hals|Kopplar huvud och kropp
+rygg|Baksidan av kroppen
+lår|Övre delen av benet
+sova|Vila med slutna ögon
+äta|Få i sig mat
+dricka|Få i sig vätska
+prata|Säga ord
+lyssna|Använda öronen
+se|Använda ögonen
+lukta|Använda näsan
+känna|Ta på med händerna
+gå|Röra sig till fots
+simma|Röra sig i vattnet
+flyga|Röra sig genom luften
+cykla|Åka på två hjul
+måla|Färglägga med pensel
+rita|Göra bilder med penna
+läsa|Titta på ord i bok
+skriva|Sätta bokstäver på papper
+räkna|Säga tal i ordning
+bygga|Sätta ihop delar
+kasta|Skicka något genom luften
+fånga|Ta emot något i luften
+klappa|Slå ihop händerna
+skratta|Visa glädje med ljud
+gråta|Tårar rinner
+kyssa|Visa kärlek med munnen
+kram|Hålla om någon
+le|Visa glädje i ansiktet
+skrika|Ropa högt
+dansa|Röra kroppen till musik
+spela|Ha roligt med leksaker
+vinna|Komma först i tävling
+förlora|Inte vinna
+dela|Ge till andra
+hjälpa|Göra något för någon
+älska|Tycka mycket om
+önska|Hoppas på något
+drömma|Se bilder när du sover
+vakna|Sluta sova
+tvätta|Göra sig ren med vatten
+borsta|Rengöra tänder eller hår
+klä|Sätta på sig kläder
+öppna|Inte stängd
+stänga|Inte öppen
+komma|Anlända
+stanna|Inte röra sig
+vänta|Stå kvar en stund
+leta|Försöka hitta
+hitta|Upptäcka det man sökte
+ge|Överlämna till någon
+ta|Få i sin hand
+fråga|Vill veta något
+svara|Ge svar
+hej|Ord när man möts
+hejdå|Ord när man går
+tack|Ord av tacksamhet
+snälla|Artigt ord vid önskemål
+ja|Bekräftande svar
+nej|Förnekande svar
+namn|Vad du kallas
+år|Tid på tolv månader
+månad|Ungefär trettio dagar
+vecka|Sju dagar
+dag|När solen lyser
+natt|När det är mörkt
+morgon|Tidig del av dagen
+kväll|Sen del av dagen
+timme|Sextio minuter
+minut|Kort tidsenhet
+måndag|Första veckodagen
+tisdag|Andra veckodagen
+onsdag|Mitt i veckan
+torsdag|Fjärde veckodagen
+fredag|Sista skoldagen
+lördag|Helgens första dag
+söndag|Veckans sista dag
+vår|Säsong med blommor
+sommar|Varm årstid
+höst|Säsong när löven faller
+vinter|Kall årstid med snö
+varm|Hög temperatur
+kall|Låg temperatur
+stor|Inte liten
+liten|Inte stor
+hög|Långt upp
+låg|Inte hög
+lång|Inte kort
+kort|Inte lång
+ny|Inte gammal
+gammal|Inte ny
+fin|Snygg och trevlig
+glad|Nöjd och lycklig
+ledsen|Inte glad
+rädd|Känner fara
+modig|Utan rädsla
+snäll|God mot andra
+rolig|Gör en glad
+snabb|Fort
+långsam|Inte snabb
+stark|Mycket kraft
+svag|Inte stark
+tung|Svår att lyfta
+lätt|Inte tung
+ren|Inte smutsig
+smutsig|Inte ren
+våt|Med vatten på
+torr|Utan vatten
+mjuk|Inte hård
+hård|Inte mjuk
+ljus|Inte mörk
+mörk|Inte ljust
+tyst|Utan ljud
+musik|Ljuda som man lyssnar på
+sång|Musik med ord
+dans|Rörelse till musik
+saga|Berättelse för barn
+film|Berättelse på skärm
+telefon|Ringer till folk
+klocka|Visar tiden
+foto|Bild man tagit
+kamera|Tar bilder
+lampa|Ger ljus i rummet
+spegel|Visar din bild
+påse|Bär saker i denna
+flaska|Håller dryck
+tallrik|Mat läggs på denna
+gaffel|Äter med denna
+sked|Äter soppa med denna
+kniv|Skär mat med denna
+glas|Dricker ur detta
+såpa|Tvättar händer med
+handduk|Torkar kroppen
+tandborste|Rengör tänder
+kudde|Mjuk att sova på
+filt|Varm över sängen
+gardin|Hänger för fönstret
+matta|Ligger på golvet
+hylla|Böcker står här
+lås|Håller dörren stängd
+rep|Tjockt snöre att knyta
+papper|Skriver och ritar på
+trä|Material från träd
+moln|Vit eller grå på himlen
+åska|Högt ljud i oväder
+blixt|Ljus i åskväder
+regnbåge|Färger efter regn
+is|Fruset vatten
+storm|Mycket vind och regn
+hav|Stort saltvatten
+sjö|Vatten omgivet av land
+å|Rinner till sjön eller hav
+strand|Sand vid vattnet
+ö|Land omgivet av vatten
+berg|Hög klippformation
+skog|Många träd tillsammans
+äng|Gräsmark med blommor
+väg|Bilar kör här
+bro|Förbinder två sidor
+hus|Byggnad att bo i
+slott|Kunglig bostad
+butik|Köper saker här
+stad|Många hus och gator
+by|Liten ort med hus
+flagga|Symbol för ett land
+flygplan|Flyger i luften
+tåg|Åker på räls
+häst|Rids på denna
+får|Ger ull
+kanin|Hoppar med långa öron
+hamster|Litet gnagare som husdjur
+mus|Liten gnagare
+ekorre|Klättrar och samlar nötter
+hjort|Skogsdjur med horn
+älg|Stort skogsdyr i Sverige
+val|Stort havsdjur
+pingvin|Fågel som inte flyger
+fjäril|Insekt med färgglada vingar
+orm|Reptil utan ben
+valp|Ung hund
+kattunge|Ung katt
+lamm|Ungt får
+kyckling|Ung höna
+fotboll|Sparkar boll i mål
+basket|Kastar boll i korg
+tennis|Boll över nät med racket
+cykel|Sport på två hjul
+pokal|Pris för vinnaren
+medalj|Hänger runt halsen
+kärlek|Stark känsla för någon
+vänskap|Bästa kompisar har detta
+läxa|Görs hemma efter skolan
+prov|Test i skolan
+docka|Leksak som ser ut som person
+gosedjur|Mjuk kramdjur
+pussel|Bitar som passar ihop
+gunga|Svänger fram och tillbaka
+rutschkana|Glider ner på lekplatsen
+snögubbe|Byggs av tre snöbollar
+vantar|Värmer händerna
+mössa|Värmer huvudet
+jacka|Ytterplagg mot kyla
+paraply|Skyddar mot regn
+höger|Inte vänster
+vänster|Inte höger
+cirkel|Rund form
+hjärta|Symbol för kärlek
+bokstav|A B C och så vidare
+ord|Flera bokstäver tillsammans
+språk|Svenska är ett
+svenska|Språket i Sverige
+plus|Lägger ihop tal
+minus|Tar bort tal
+noll|Inget alls
+hundra|Tio gånger tio
+alltid|Varje gång
+aldrig|Inte en enda gång
+ibland|Då och då
+nu|Just i detta ögonblick
+snart|Om en liten stund
+mycket|I stor mängd
+lite|I liten mängd
+först|Innan alla andra
+sist|Efter alla andra
+här|På denna plats
+där|På den platsen
+hemma|I sitt eget hus
+prins|Kungens son
+prinsessa|Kungens dotter
+kung|Härskare av landet
+drake|Eldsprutande sagoväsen
+äventyr|Spännande upplevelse
+magi|Omöjliga trick
+polis|Skyddar och fångar tjuvar
+brandman|Släcker bränder
+läkare|Helar sjuka
+bagare|Bakar bröd
+bonde|Odlar på gården
+fiskare|Fångar fisk
+pilot|Styr flygplanet
+idrott|Röra kroppen med regler
+seger|Man har vunnit
+skridsko|Glider på is
+snöboll|Kastar på vintern
+radio|Spelar musik och nyheter
+teve|Tittar på program
+servett|Torkar munnen med
+tejp|Klistrar ihop saker
+sax|Klipper papper
+lim|Fäster ihop saker
+järn|Hård metall
+guld|Gul dyr metall
+silver|Vit blank metall
+rök|Kommer från eld
+dimma|Tjock luft som döljer
+bäck|Litet vattendrag
+kulle|Liten upphöjning
+dal|Lågt mellan berg
+fält|Öppen mark för grödor
+tunnel|Går under mark eller berg
+torn|Mycket högt bygge
+kyrka|Plats för gudstjänst
+sjukhus|Får vård här
+bibliotek|Lånar böcker här
+zoo|Ser vilda djur här
+teater|Skådespelare uppträder
+värld|Jorden vi bor på
+jordglob|Rund karta av jorden
+rymd|Där stjärnorna finns
+planet|Jorden är en
+raket|Flyger till rymden
+motorcykel|Tvåhjuling med motor
+skidor|Glider på snö
+kanot|Smal båt att paddla
+hamn|Båtar ligger här
+get|Djur med horn och skägg
+igelkott|Piggsamt djur
+varg|Ylar på natten
+säl|Klipper med fenor
+haj|Havsfisk med tänder
+delfin|Klok havsdjur
+sparv|Liten stadfågel
+kråka|Svart fågel
+duva|Symbol för fred
+geting|Gul och svart som kan sticka
+fluga|Surrande insekt
+snigel|Långsam med skal
+kalv|Ung ko
+frukost|Första måltiden
+lunch|Mat på dagen
+middag|Kvällsmat
+hunger|Vill äta
+törst|Vill dricka
+god|Smakar bra
+ugn|Bakar bröd och kakor
+spis|Mat lagas här
+kylskåp|Mat hålls kall här
+present|Gåva i paket
+kalas|Fest med vänner
+ljus|Tänds på tårtan
+ballong|Svävar med luft inuti
+troll|Väsen i sagor
+älva|Liten magisk varelse
+skatt|Guld och juveler gömda
+pirat|Sjörövare på havet
+tandläkare|Fixar tänder
+frisör|Klipper hår
+målare|Målar väggar
+musiker|Spelar instrument
+clown|Rolig med röd näsa
+simning|Tävling i vatten
+löpning|Springer fort
+lag|Spelar tillsammans
+mål|Där bollen ska in
+tur|Man har flyt
+hopp|Tror på något gott
+klass|Grupp av elever
+pennvässare|Gör penna spetsig
+suddgummi|Raderar det man skrivit
+linjal|Mäter och ritar raka linjer
+lego|Bygger med klossar
+kortspel|Spelar med kortlek
+tärning|Kastas i spel
+drake|Flyger i vinden på snöre
+sandlåda|Sand att leka i
+sparkcykel|Tre hjul för små barn
+halka|Isigt och man faller
+stövlar|Skor för regn och snö
+baddräkt|Kläder för att bada
+fyrkant|Fyra lika sidor
+triangel|Form med tre hörn
+mening|Flera ord med punkt
+siffra|Tecken för tal
+meter|Längre än centimeter
+kilo|Viktenhet
+dubbel|Två gånger
+sant|Stämmer
+falskt|Stämmer inte
+också|Dessutom
+nära|Inte långt borta
+ovan|Över något
+under|Nedanför
+bredvid|Vid sidan av

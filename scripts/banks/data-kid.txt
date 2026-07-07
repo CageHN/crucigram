@@ -1,0 +1,220 @@
+sol|Brilla en el cielo de día
+luna|Brilla en el cielo de noche
+mar|Agua salada muy grande
+ola|Sube y baja en la playa
+pez|Animal que nada con aletas
+gato|Mascota que maúlla
+perro|Mejor amigo que ladra
+casa|Lugar donde vives
+pan|Se come en el desayuno
+leche|Bebida blanca de la vaca
+agua|Líquido para beber
+fuego|Quema y da calor
+tierra|Donde plantamos flores
+aire|Lo respiramos siempre
+árbol|Planta alta con hojas
+flor|Planta bonita y colorida
+hoja|Parte verde del árbol
+rama|Brazo del árbol
+raíz|Parte del árbol bajo tierra
+semilla|Pequeña y da una planta
+fruta|Alimento dulce del árbol
+manzana|Fruta roja o verde
+pera|Fruta verde en forma de lágrima
+uva|Fruta pequeña en racimo
+plátano|Fruta amarilla alargada
+naranja|Fruta cítrica naranja
+fresa|Fruta roja pequeña
+sandía|Fruta grande y roja por dentro
+melón|Fruta redonda y dulce
+zanahoria|Verdura naranja de conejo
+patata|Tubérculo para freír
+tomate|Verdura roja para ensalada
+lechuga|Verdura verde de ensalada
+queso|Producto lácteo amarillo
+huevo|Lo ponen las gallinas
+miel|Dulce hecho por abejas
+azúcar|Hace dulce la comida
+sal|Saboriza la comida
+sopa|Comida caliente líquida
+arroz|Grano blanco de comer
+pasta|Comida italiana de harina
+carne|Alimento del animal
+pescado|Comida del mar
+pollo|Ave que ponen huevos
+vaca|Animal que da leche
+cerdo|Animal rosado de granja
+oveja|Animal con lana blanca
+caballo|Animal grande para montar
+burro|Animal de granja con orejas largas
+conejo|Animal con orejas largas que salta
+ratón|Roedor pequeño gris
+elefante|Animal enorme con trompa
+león|Rey de la selva
+tigre|Felino con rayas
+oso|Animal grande y peludo
+mono|Animal que trepa árboles
+jirafa|Animal con cuello muy largo
+cebra|Caballo con rayas blancas y negras
+delfín|Mamífero amigo del mar
+ballena|Animal gigante del océano
+tiburón|Pez grande del mar
+pulpo|Animal marino con ocho brazos
+mariposa|Insecto con alas de colores
+abeja|Insecto que hace miel
+hormiga|Insecto pequeño muy trabajador
+araña|Tiene ocho patas y hace telas
+mosca|Insecto que zumba
+mosquito|Insecto que pica
+pájaro|Animal con plumas que vuela
+águila|Ave rapaz muy grande
+loro|Ave de colores que habla
+gallina|Ave de corral que cacarea
+gallo|Canta al amanecer
+pato|Ave que nada en el lago
+cisne|Ave blanca y elegante
+rana|Salta y vive en el charco
+serpiente|Reptil largo sin patas
+tortuga|Reptil con caparazón
+lagarto|Reptil pequeño de pared
+cocodrilo|Reptil grande con dientes
+dinosaurio|Animal gigante extinto
+niño|Persona pequeña en edad
+niña|Chica pequeña
+bebé|Persona muy pequeña
+mamá|Madre de la familia
+papá|Padre de la familia
+abuelo|Padre de papá o mamá
+abuela|Madre de papá o mamá
+hermano|Hijo de los mismos padres
+hermana|Hija de los mismos padres
+tío|Hermano de papá o mamá
+tía|Hermana de papá o mamá
+primo|Hijo de tío o tía
+amigo|Persona que quieres mucho
+amiga|Compañera querida
+maestro|Enseña en la escuela
+maestra|Profesora del colegio
+escuela|Lugar para aprender
+libro|Tiene páginas para leer
+lápiz|Sirve para escribir
+bolígrafo|Escribe con tinta
+goma|Borra lo escrito
+regla|Sirve para medir líneas
+mochila|Bolsa para llevar libros
+pizarra|Donde escribe el maestro
+mesa|Mueble con patas para comer
+silla|Mueble para sentarse
+cama|Mueble para dormir
+sofá|Mueble cómodo del salón
+puerta|Abre y cierra la entrada
+ventana|Cristal para ver afuera
+techo|Cubre la casa arriba
+suelo|Donde pisamos en casa
+pared|Separa las habitaciones
+cocina|Habitación para cocinar
+baño|Habitación para asearse
+salón|Habitación para estar
+jardín|Espacio con plantas en casa
+calle|Camino por donde pasan coches
+parque|Lugar con árboles para jugar
+playa|Arena junto al mar
+montaña|Tierra muy alta
+río|Agua que fluye a la mar
+lago|Agua dulce rodeada de tierra
+bosque|Lugar con muchos árboles
+campo|Tierra abierta fuera de ciudad
+ciudad|Lugar con muchas casas
+pueblo|Lugar pequeño con casas
+coche|Vehículo con cuatro ruedas
+autobús|Transporte grande de pasajeros
+tren|Va por las vías de hierro
+avión|Vuela por el cielo
+barco|Navega por el mar
+bicicleta|Vehículo de dos ruedas
+patinete|Tabla con ruedas para niños
+pelota|Objeto redondo para jugar
+muñeca|Juguete de niña
+bloque|Pieza de construcción
+puzzle|Juego de piezas que encajan
+carta|Juego con baraja
+dado|Cubo con números para jugar
+cometa|Vuela con el viento
+globo|Bolsita de aire de fiesta
+regalo|Sorpresa en tu cumpleaños
+fiesta|Celebración con amigos
+tarta|Pastel de cumpleaños
+vela|Se enciende en la tarta
+juguete|Objeto para divertirse
+juego|Actividad para pasarlo bien
+deporte|Actividad física con reglas
+fútbol|Deporte con balón y portería
+baloncesto|Deporte con canasta
+natación|Deporte en el agua
+correr|Moverse muy rápido a pie
+saltar|Subir del suelo con los pies
+bailar|Mover el cuerpo con música
+cantar|Hacer música con la voz
+dibujar|Hacer imágenes con lápiz
+pintar|Colorear con pinceles
+leer|Mirar las palabras de un libro
+escribir|Poner letras en el papel
+contar|Decir números en orden
+sumar|Juntar dos números
+restar|Quitar un número de otro
+número|Símbolo para contar
+uno|Primer número
+dos|Número después del uno
+tres|Número después del dos
+cuatro|Número después del tres
+cinco|Número después del cuatro
+seis|Número después del cinco
+siete|Número después del seis
+ocho|Número después del siete
+nueve|Número después del ocho
+diez|Número después del nueve
+rojo|Color de la manzana
+azul|Color del cielo
+verde|Color de la hierba
+amarillo|Color del sol
+morado|Color de la uva
+rosa|Color suave y dulce
+negro|Color de la noche
+blanco|Color de la nieve
+gris|Color de las nubes
+marrón|Color de la tierra
+día|Cuando brilla el sol
+noche|Cuando sale la luna
+mañana|Primera parte del día
+tarde|Después del mediodía
+hora|Medida del tiempo
+minuto|Sesenta segundos
+semana|Siete días seguidos
+mes|Treinta días aproximadamente
+año|Doce meses
+lunes|Primer día de la semana
+martes|Segundo día de la semana
+miércoles|Día del medio de semana
+jueves|Cuarto día de la semana
+viernes|Último día de clase
+sábado|Día de descanso
+domingo|Último día de la semana
+enero|Primer mes del año
+febrero|Mes más corto del año
+marzo|Mes de la primavera
+abril|Mes de lluvias
+mayo|Quinto mes del año
+junio|Mes del verano
+julio|Mes de vacaciones
+agosto|Mes muy caluroso
+estrella|Brilla en el cielo nocturno
+nube|Blanca o gris en el cielo
+lluvia|Agua que cae del cielo
+nieve|Agua blanca y fría
+viento|Aire que mueve las hojas
+trueno|Ruido fuerte de tormenta
+rayo|Luz eléctrica en tormenta
+arcoíris|Colores en el cielo tras lluvia
+calor|Temperatura alta
+frío|Temperatura baja
+ropa|Lo que nos ponemos
