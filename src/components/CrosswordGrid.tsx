@@ -1,8 +1,15 @@
-import { useCallback, useEffect, useRef } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import type { CrosswordPuzzle, PlacedWord } from '../types';
 import { useTranslation } from '../i18n';
 
 const BLOCK = '#';
+const MIN_CELL_SIZE = 18;
+
+function getMaxCellSize(puzzleSize: number): number {
+  if (puzzleSize <= 9) return 36;
+  if (puzzleSize <= 13) return 30;
+  return 26;
+}
 
 interface CrosswordGridProps {
   puzzle: CrosswordPuzzle;
@@ -49,6 +56,8 @@ export function CrosswordGrid({
 }: CrosswordGridProps) {
   const { t } = useTranslation();
   const inputRefs = useRef<Map<string, HTMLInputElement>>(new Map());
+  const containerRef = useRef<HTMLDivElement>(null);
+  const [cellSize, setCellSize] = useState(() => getMaxCellSize(puzzle.size));
 
   const isActive = useCallback(
     (row: number, col: number) => {
@@ -199,15 +208,36 @@ export function CrosswordGrid({
     }
   }, [activeCell, selectedWord]);
 
-  const cellSize = puzzle.size <= 9 ? 36 : puzzle.size <= 13 ? 30 : 26;
+  useEffect(() => {
+    const container = containerRef.current;
+    if (!container) return;
+
+    const maxCellSize = getMaxCellSize(puzzle.size);
+
+    const updateCellSize = () => {
+      const fitted = Math.floor(container.clientWidth / puzzle.size);
+      setCellSize(Math.max(MIN_CELL_SIZE, Math.min(maxCellSize, fitted)));
+    };
+
+    updateCellSize();
+    const observer = new ResizeObserver(updateCellSize);
+    observer.observe(container);
+    return () => observer.disconnect();
+  }, [puzzle.size]);
 
   return (
     <div
-      className="crossword-grid"
-      style={{
-        gridTemplateColumns: `repeat(${puzzle.size}, ${cellSize}px)`,
-      }}
+      ref={containerRef}
+      className="grid-wrapper"
+      style={{ maxWidth: `${getMaxCellSize(puzzle.size) * puzzle.size}px` }}
     >
+      <div
+        className="crossword-grid"
+        style={{
+          gridTemplateColumns: `repeat(${puzzle.size}, ${cellSize}px)`,
+          ['--cell-size' as string]: `${cellSize}px`,
+        }}
+      >
       {Array.from({ length: puzzle.size }, (_, row) =>
         Array.from({ length: puzzle.size }, (_, col) => {
           const isBlock = puzzle.grid[row][col] === BLOCK;
@@ -245,6 +275,10 @@ export function CrosswordGrid({
                   if (el) inputRefs.current.set(`${row},${col}`, el);
                 }}
                 type="text"
+                inputMode="text"
+                autoComplete="off"
+                autoCorrect="off"
+                spellCheck={false}
                 maxLength={1}
                 value={userGrid[row][col] === BLOCK ? '' : userGrid[row][col]}
                 onChange={(e) => handleInput(e, row, col)}
@@ -252,6 +286,7 @@ export function CrosswordGrid({
                 onFocus={(e) => {
                   onActiveCellChange({ row, col });
                   e.target.select();
+                  e.target.scrollIntoView({ block: 'nearest', inline: 'nearest' });
                 }}
                 className="cell-input"
                 aria-label={t('grid.cellAria', { row: row + 1, col: col + 1 })}
@@ -260,6 +295,7 @@ export function CrosswordGrid({
           );
         }),
       )}
+      </div>
     </div>
   );
 }
